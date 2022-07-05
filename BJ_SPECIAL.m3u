@@ -5,6 +5,7 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TECHYMODS" tvg-logo="" group-title="###### TECHYMODS",###### TECHYMODS ######
 https://127.0.0.1
+
 #EXTINF:-1,IR: 4 kurd
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296245
 #EXTINF:-1,IR: 4U TV
@@ -18519,6 +18520,8 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/10733
 
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### ASTECH" tvg-logo="" group-title="###### ASTECH",###### ASTECH ######
+https://127.0.0.1
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-name="BBC EARTH HD (IN)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV_Astech",BBC EARTH HD (IN)
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="Sony PIX HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="SONYLIV_Astech",Sony PIX HD (IN)
@@ -26191,6 +26194,8 @@ http://live.geoiptv.org:8880/live/65851743/917204826744/587512.ts
 
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### BJ TECH" tvg-logo="" group-title="###### BJ TECH",###### BJ TECH ######
+https://127.0.0.1
 #EXTINF:-1 tvg-id="143" tvg-name="Clubbing TV{VOOT}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Clubbing_TV.png" group-title="VOOT 2",Clubbing TV{VOOT}
 #KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999074&videoid=1624&vootid=1624&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJXcnB4eFg3RVp0UEpZR1Q4d05Yak9aYlpXbWoxIiwiZW1haWwiOiJzYWdhcnZhbnRpbWFyQGdtYWlsLmNvbSIsImRldmljZUlkIjoiM2ZkZWY2NDMtMTMzNC00NGE2LWE2ZmQtNmQ3ZWU0ZGY2MmZlIiwia1VzZXJJZCI6IjIzNzc3MjIxNCIsImlhdCI6MTY1NjA1NTIwMSwiZXhwIjoxNjU2OTE5MjAxLCJpc3MiOiJ2b290In0.Od6PcFu29g8uBX3foZh1sC9-VxjBiINDTNlCcRjz0Xo
 #EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla HD{VOOT}" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="VOOT 2",Colors Bangla HD{VOOT}
