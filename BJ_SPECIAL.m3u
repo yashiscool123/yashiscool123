@@ -2,7 +2,7 @@
 #########################################################
 
 
-#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz" 
+#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" 
 #KODIPROPinputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROPinputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxMTA1NjE4Mzk5IiwiaXNlIjp0cnVlLCJqdGkiOiJlMDgyODk2OC1hNTNhLTQxZGUtYjJhZS04ODIyNTM5YTVjMWQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjY0MTYyNDQyLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjY0MDc2MDQyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1MjMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImlzcyI6IlRUTiJ9.dfDMSBUaZxlsJf3Ws9S40PewlXHBnJN3dPaCrdopRtY 
 #EXTINF:-1 tvg-id="ts840" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="TSneh Spiritual",Shirdi Sai Baba https://delta45tatasky.akamaized.net/out/i/554.mpd 
@@ -9126,7 +9126,7 @@ https://snehtv-may-03.in1.bitmana.io/snehapi/sunnylov/tssunny/1000009283.m3u8|us
 #Hasbahca Asia_INDIA_TVPLUS Playlist starts here
 
 
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+#EXTM3U url-tvg="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 ###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Hasbahca" tvg-logo="" group-title="###### Hasbahca",###### Hasbahca ######
 https://127.0.0.1
 
