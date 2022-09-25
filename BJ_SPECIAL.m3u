@@ -2,7 +2,9 @@
 #########################################################
 
 
-#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" 
+#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TataSky" tvg-logo="" group-title="###### TataSky",###### TataSky ######
+https://127.0.0.1
 #KODIPROPinputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROPinputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxMTA1NjE4Mzk5IiwiaXNlIjp0cnVlLCJqdGkiOiJlMDgyODk2OC1hNTNhLTQxZGUtYjJhZS04ODIyNTM5YTVjMWQiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjY0MTYyNDQyLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjY0MDc2MDQyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1MjMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwMzUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImlzcyI6IlRUTiJ9.dfDMSBUaZxlsJf3Ws9S40PewlXHBnJN3dPaCrdopRtY 
 #EXTINF:-1 tvg-id="ts840" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="TSneh Spiritual",Shirdi Sai Baba https://delta45tatasky.akamaized.net/out/i/554.mpd 
@@ -2943,7 +2945,7 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
-###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### ASTECH" tvg-logo="" group-title="###### ASTECH",###### ASTECH ######
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### ASTECH" tvg-logo="" group-title="###### ASTECH",###### ASTECH ######
 https://127.0.0.1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IN: & Flix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="Tata play | YASHRAJ |",IN: & Flix
@@ -3752,7 +3754,7 @@ http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/192069
 
 
 #EXTM3U url-tvg="http://indtv.me/guide.gz" 
-###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### BJ TECH" tvg-logo="" group-title="###### BJ TECH",###### BJ TECH ######
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### BJ TECH" tvg-logo="" group-title="###### BJ TECH",###### BJ TECH ######
 https://127.0.0.1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram 👉 @bjtechknowledge_24" tvg-logo="" group-title="Join us on Telegram @bjtechknowledge_2",Join us on Telegram 👉 @bjtechknowledge_24
@@ -9127,7 +9129,7 @@ https://snehtv-may-03.in1.bitmana.io/snehapi/sunnylov/tssunny/1000009283.m3u8|us
 
 
 #EXTM3U url-tvg="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
-###### #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Hasbahca" tvg-logo="" group-title="###### Hasbahca",###### Hasbahca ######
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Hasbahca" tvg-logo="" group-title="###### Hasbahca",###### Hasbahca ######
 https://127.0.0.1
 
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
