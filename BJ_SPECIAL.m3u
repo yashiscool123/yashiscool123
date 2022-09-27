@@ -1,7 +1,3 @@
-#TECHYMODS PLAYLIST STARTS HERE
-#########################################################
-
-
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TECHYMODS" tvg-logo="" group-title="###### TECHYMODS",###### TECHYMODS ######
 https://127.0.0.1
@@ -1107,7 +1103,6 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBTK6dmj/download-4.png" group-title="FM Radio", ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3kVHF01/qHOaNKG.jpg" group-title="South Indian", 7 Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
@@ -1115,15 +1110,9 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 
 
-#TECHYMODS PLAYLIST ENDS HERE
-#########################################################
-#ASTECH PLAYLIST STARTS HERE
 
-
-#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### ASTECH" tvg-logo="" group-title="###### ASTECH",###### ASTECH ######
 https://127.0.0.1
-
 #EXTINF:-1 tvg-id="red47874" tvg-name="HINDI ANIMAL PLANET WORLD HD" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="Star7 Indian - FULL Hindi",HINDI ANIMAL PLANET WORLD HD
 https://rana-pk5.ml/apixxx/star/play.m3u8?id=47874
 #EXTINF:-1 tvg-id="red51385" tvg-name="HINDI MH ONE NEWS" tvg-logo="http://files.rednetcontent.com" group-title="Star7 Indian - FULL Hindi",HINDI MH ONE NEWS
@@ -2172,12 +2161,10 @@ http://ranapk-june3.in1.bitmana.io/livez.php?c=Sony_Wah&q=600&e=.m3u8&q=600&e=.m
 
 
 
-#ASTECH PLAYLIST ENDS HERE
-############################################################
-#BJ TECH PLAYLIST STARTS HERE
 
 
-#EXTM3U url-tvg="http://indtv.me/guide.gz" 
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### BJ TECH" tvg-logo="" group-title="###### BJ TECH",###### BJ TECH ######
 https://127.0.0.1
 
@@ -7546,16 +7533,11 @@ https://snehtv-may-03.in1.bitmana.io/snehapi/sunnylov/tssunny/1000009283.m3u8|us
 
 
 
-#BJ TECH Playlist Ends Here
-#########################################################
-
-#Hasbahca Asia_INDIA_TVPLUS Playlist starts here
 
 
-#EXTM3U url-tvg="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Hasbahca" tvg-logo="" group-title="###### Hasbahca",###### Hasbahca ######
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Jio720" tvg-logo="" group-title="###### Jio720",###### Jio720 ######
 https://127.0.0.1
-
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
@@ -9446,6 +9428,3 @@ https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Tamil&q=800&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Telugu&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="433" group-title="Sports" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Kannada
-
-#HackingUnion AllChannels Playlist Ends Here
-#########################################
