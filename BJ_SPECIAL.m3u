@@ -1124,7 +1124,6 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### ASTECH" tvg-logo="" group-title="###### ASTECH",###### ASTECH ######
 https://127.0.0.1
 
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="red47874" tvg-name="HINDI ANIMAL PLANET WORLD HD" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png" group-title="Star7 Indian - FULL Hindi",HINDI ANIMAL PLANET WORLD HD
 https://rana-pk5.ml/apixxx/star/play.m3u8?id=47874
 #EXTINF:-1 tvg-id="red51385" tvg-name="HINDI MH ONE NEWS" tvg-logo="http://files.rednetcontent.com" group-title="Star7 Indian - FULL Hindi",HINDI MH ONE NEWS
