@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Hasbahca" tvg-logo="" group-title="###### Hasbahca",###### Hasbahca ######
-https://127.0.0.1
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=800&e=junk.m3u8
@@ -107,7 +105,7 @@ https://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="445" group-title="Entertainment" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
 https://tv.googledrivelinks.com/live.php?c=Zee_Marathi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="755" group-title="Entertainment" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
-https://tv.googledrivelinks.com/YASHRAJ-jio//live.php?c=Colors_Marathi_HD&q=800&e=junk.m3u8
+https://tv.googledrivelinks.com/live.php?c=Colors_Marathi_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="757" group-title="Entertainment" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
 https://tv.googledrivelinks.com/live.php?c=Colors_Kannada_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="689" group-title="Entertainment" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada
