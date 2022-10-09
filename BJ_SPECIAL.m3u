@@ -12524,3 +12524,709 @@ https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Tamil&q=800&e=junk.m3u8
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Telugu&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="433" group-title="Sports" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket_Kannada
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TataPlay Denver" tvg-logo="" group-title="###### TataPlay Denver",###### TataPlay Denver ######
+https://127.0.0.1
+
+#EXTINF:-1 group-title="SPORTS.Denver IPTV",SONY SIX HD
+http://103.162.136.235:4500/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 1
+http://103.162.136.235:4500/play/a018/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 2
+http://103.162.136.235:4500/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 3
+http://103.162.136.235:4500/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 1 Hindi HD
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 2 HD
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 3
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",LA-Liga
+http://103.99.249.107:81/play/a05h
+#EXTINF:-1 group-title="Denver Live IPTV",PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:-1 group-title="Denver Live IPTV",BEiN Sports 1
+http://103.99.249.107:81/play/a07q
+#EXTINF:-1 group-title="Denver Live IPTV",BEiN Sports 2
+http://103.99.249.107:81/play/a06f
+#EXTINF:-1 group-title="Denver Live IPTV",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sports 1
+http://146.59.19.1/5031/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Out Side Plus
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony SIX
+http://103.166.102.58:8000/play/a00f
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 1
+http://103.166.102.58:8000/play/a00e
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 2
+http://103.166.102.58:8000/play/a01a
+#EXTINF:-1 group-title="Denver Live IPTV",Sony TEN 3 HD
+http://103.166.102.58:8000/play/a00k
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 1 Hindi HD
+http://103.166.102.58:8000/play/a026
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 1 HD
+http://103.166.102.58:8000/play/a00c
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 2 HD
+http://103.166.102.58:8000/play/a00d
+#EXTINF:-1 group-title="Denver Live IPTV",EuroSports HD
+http://103.166.102.58:8000/play/a00r
+#EXTINF:-1 group-title="Denver Live IPTV",Sony BBC Earth
+http://103.166.102.58:8000/play/a015
+#EXTINF:-1 group-title="Denver Live IPTV",Fox Life
+http://103.166.102.58:8000/play/a01t
+#EXTINF:-1 group-title="Denver Live IPTV",History Channel 18
+http://103.166.102.58:8000/play/a013
+#EXTINF:-1 group-title="Denver Live IPTV",National Geographic HD
+http://103.166.102.58:8000/play/a00x
+#EXTINF:-1 group-title="Denver Live IPTV",Animal Planet
+http://103.166.102.58:8000/play/a011
+#EXTINF:-1 group-title="Denver Live IPTV",TLC Hindi
+http://103.166.102.58:8000/play/a027
+#EXTINF:-1 group-title="Denver Live IPTV",Sony MAX HD
+http://103.147.87.13:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",AND Pictures HD
+http://103.166.102.58:8000/play/a017
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE Cinema HD
+http://103.166.102.58:8000/play/a00z
+#EXTINF:-1 group-title="Denver Live IPTV",Star Gold HD
+http://103.166.102.58:8000/play/a012
+#EXTINF:-1 group-title="Denver Live IPTV",Star Gold SELECT HD
+http://103.166.102.58:8000/play/a014
+#EXTINF:-1 group-title="Denver Live IPTV",AND Flix HD
+http://103.166.102.58:8000/play/a00p
+#EXTINF:-1 group-title="Denver Live IPTV",AND Prive HD
+http://103.166.102.58:8000/play/a01d
+#EXTINF:-1 group-title="Denver Live IPTV",Star Movies HD
+http://103.166.102.58:8000/play/a00v
+#EXTINF:-1 group-title="Denver Live IPTV",Star GOLD SELECT
+http://103.166.102.58:8000/play/a00w
+#EXTINF:-1 group-title="Denver Live IPTV",Sony PIX HD
+http://103.166.102.58:8000/play/a016
+#EXTINF:-1 group-title="Denver Live IPTV",MN+ HD
+http://103.166.102.58:8000/play/a00u
+#EXTINF:-1 group-title="Denver Live IPTV",MN-X
+http://103.166.102.58:8000/play/a01h
+#EXTINF:-1 group-title="Denver Live IPTV",Discovery Channel HD
+http://103.166.102.58:8000/play/a00y
+#EXTINF:-1 group-title="Denver Live IPTV",Discovery Science
+http://103.166.102.58:8000/play/a01k
+#EXTINF:-1 group-title="Denver Live IPTV",Nat Geo Wild
+http://103.166.102.58:8000/play/a00i
+#EXTINF:-1 group-title="Denver Live IPTV",AND TV HD
+http://103.166.102.58:8000/play/a01u
+#EXTINF:-1 group-title="Denver Live IPTV",Star Bharat HD
+http://103.166.102.58:8000/play/a010
+#EXTINF:-1 group-title="Denver Live IPTV",Sony Denver Live IPTV HD
+http://103.166.102.58:8000/play/a00q
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE TV HD
+http://103.166.102.58:8000/play/a00n
+#EXTINF:-1 group-title="Denver Live IPTV",Colors HD
+http://103.166.102.58:8000/play/a05z
+#EXTINF:-1 group-title="Denver Live IPTV",Star Plus HD
+http://103.166.102.58:8000/play/a00m
+#EXTINF:-1 group-title="Denver Live IPTV",Star WORLD HD
+http://103.166.102.58:8000/play/a00b
+#EXTINF:-1 group-title="Denver Live IPTV",Star World Premiere HD
+http://103.166.102.58:8000/play/a00a
+#EXTINF:-1 group-title="Denver Live IPTV",Colors Infinity HD
+http://103.166.102.58:8000/play/a01b
+#EXTINF:-1 group-title="Denver Live IPTV",Star Gold 2
+http://103.166.102.58:8000/play/a01q
+#EXTINF:-1 group-title="Denver Live IPTV",Star Utsav
+http://103.166.102.58:8000/play/a05m
+#EXTINF:-1 group-title="Denver Live IPTV",UTV Movies
+http://103.166.102.58:8000/play/a01o
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE BollyWood
+http://103.166.102.58:8000/play/a01r
+#EXTINF:-1 group-title="Denver Live IPTV",Hungama
+http://103.166.102.58:8000/play/a01x
+#EXTINF:-1 group-title="Denver Live IPTV",Disney
+http://103.166.102.58:8000/play/a01y
+#EXTINF:-1 group-title="Denver Live IPTV",Sonic Hindi
+http://103.166.102.58:8000/play/a021
+#EXTINF:-1 group-title="Denver Live IPTV",Nick HD+
+http://103.166.102.58:8000/play/a01c
+#EXTINF:-1 group-title="Denver Live IPTV",Show-Time HD 4K
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",SONY MAX HD
+http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",AND Pictures HD
+http://103.162.136.235:4500/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Zee Cinema HD
+http://103.162.136.235:4500/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star GOLD HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Gold SELECT HD
+http://103.162.136.235:4500/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE CinemaLU
+http://103.99.249.107:81/play/a07u
+#EXTINF:-1 group-title="Denver Live IPTV",AND Flix HD
+http://103.162.136.235:4500/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",AND Prive HD
+http://103.162.136.235:4500/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Movies HD
+http://103.162.136.235:4500/play/a005/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony PIX
+http://103.162.136.235:4500/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",MN+ HD
+http://103.162.136.235:4500/play/a004/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",STAR WORLD
+http://103.162.136.235:4500/play/a019/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",STAR World Premiere
+http://103.162.136.235:4500/play/a014/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sci-Fi HD
+http://103.162.136.235:4500/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sci-Fi
+http://103.162.136.235:4500/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Dubai ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",AXN Spain
+http://103.162.136.235:4500/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",BLACK
+http://103.162.136.235:4500/play/a039/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Fox Life HD
+http://103.162.136.235:4500/play/a011/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",WILD HD
+http://103.162.136.235:4500/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Nat Geo Wild HD
+http://103.162.136.235:4500/play/a007/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Discovery Channel
+http://103.162.136.235:4500/play/a008/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sony BBC Earth HD
+http://103.162.136.235:4500/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Nick HD+
+http://103.162.136.235:4500/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Nick
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Nick Jr
+http://103.162.136.235:4500/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Disney
+http://103.162.136.235:4500/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Sonic Hindi
+http://103.162.136.235:4500/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",B4u KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel%28MovieHouse%29/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE Bangla
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Jalsha
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Wazz TV
+http://103.99.249.107:81/play/a03h
+#EXTINF:-1 group-title="Denver Live IPTV",Sony ATT
+http://103.99.249.107:81/play/a00f
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE Bangla HD
+http://103.99.249.107:81/play/a01a
+#EXTINF:-1 group-title="Denver Live IPTV",Star Jalsha HD
+http://103.99.249.107:81/play/a00l
+#EXTINF:-1 group-title="Denver Live IPTV",Colors Bangla HD
+http://103.147.87.13:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE Bangla CINEMA
+http://103.99.249.107:81/play/a01m
+#EXTINF:-1 group-title="Denver Live IPTV",Colours Bangla CINEMA
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Jolsha MOVIES
+http://103.147.87.13:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",NICK Bangla
+http://103.99.249.107:81/play/a03g
+#EXTINF:-1 group-title="Denver Live IPTV",Sony Cartoon Bangla
+http://103.99.249.107:81/play/a02u
+#EXTINF:-1 group-title="Denver Live IPTV",Rongeen Toon
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",AND TV
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",SET HD
+http://103.162.136.235:4500/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE TV
+http://103.162.136.235:4500/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Bharat HD
+http://103.162.136.235:4500/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Plus HD
+http://103.162.136.235:4500/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",SONY SAB HD
+http://103.162.136.235:4500/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Colors
+http://103.162.136.235:4500/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",SUN Music
+http://103.147.87.13:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",SUN TV
+http://103.147.87.13:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",GEmini TV
+http://103.147.87.13:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",K-TV
+http://103.147.87.13:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",ZEE KaNNada TV
+http://103.147.87.13:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Colors MARATHI
+http://103.147.87.13:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Suvarna HD
+http://103.147.87.13:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Pravah HD
+http://103.147.87.13:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Toy TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://icon2.cleanpng.com/20180402/cte/kisspng-discovery-kids-discovery-channel-television-channe-axe-logo-5ac1dd9023d8e8.7749893515226546081468.jpg",Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cartoon-network-logo-png-8.png",Cartoon Network
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://i.ibb.co/MZhjH0b/Nick-hindi.jpg",Nick Hindi
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Pogo
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png",Sonic Hindi
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://thumbs.dreamstime.com/b/transformers-character-cardboard-silhouette-bumblebee-advertises-amercian-science-fiction-movie-december-bangkok-134590705.jpg",Bumblebee
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Rj48vSx/download.png",T Sports HD (Opt-2)
+http://103.99.249.107:81/play/a02k
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/240px-Channel24logo.svg.png",Channel 24
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png",DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg",Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",News 24
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://creativeeventsbd.com/wp-content/uploads/2019/12/RTV-1.png",RTV
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",Star Jalsha HD
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xm.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+https://t.me/DoraemonMovi
+#EXTINF:-1 group-title="JOIN @DoraemonMovi on Talegram" tvg-logo="https://i.ibb.co/DGFpg6V/images-13.jpg",@DoraemonMovi talegram
+https://t.me/DoraemonMovi
+#EXTINF:-1 group-title="Denver 😎" tvg-logo="https://i.ibb.co/8BSzKQj/images.jpg",Denver hahaha
+https://www.googleapis.com/drive/v3/files/1-scLq-BNomOJIm5L_B37RytqNQo9-Fka?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="its free of cost don't buy & sell" tvg-logo="https://i.ibb.co/0mLdnf7/images-1.jpg",Denver😁
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY	
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### DishTV Denver" tvg-logo="" group-title="###### DishTV Denver",###### DishTV Denver ######
+https://127.0.0.1
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha Movies HD" tvg-logo="" group-title="DISH TV BY DENVER", Star Jalsha Movies HD
+http://103.99.249.107:81/play/a00k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="DISH TV BY DENVER",Zee Bangla Cinema
+http://103.99.249.107:81/play/a01m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY" tvg-logo="" group-title="DISH TV BY DENVER",DISCOVERY
+http://103.99.249.107:81/play/a02v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="DISH TV BY DENVER",Nat Geo
+http://103.99.249.107:81/play/a02j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="DISH TV BY DENVER",Discovery HD
+http://103.99.249.107:81/play/a00m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geo HD" tvg-logo="" group-title="DISH TV BY DENVER",National Geo HD
+http://103.99.249.107:81/play/a00n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV HD" tvg-logo="" group-title="DISH TV BY DENVER",History TV HD
+http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISH TV BY DENVER",Investigation Discovery
+http://103.99.249.107:81/play/a013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="DISH TV BY DENVER",Discovery Science SD
+http://103.99.249.107:81/play/a01u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISH TV BY DENVER",Discovery Turbo
+http://103.99.249.107:81/play/a01q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="DISH TV BY DENVER",Nat Geo Wild HD
+http://103.99.249.107:81/play/a008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD" tvg-logo="" group-title="DISH TV BY DENVER",BBC Earth HD
+http://103.99.249.107:81/play/a019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV HD" tvg-logo="" group-title="DISH TV BY DENVER",NASA TV HD
+http://103.99.249.107:81/play/a08c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD" tvg-logo="" group-title="DISH TV BY DENVER",Animal Planet HD
+http://103.99.249.107:81/play/a015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Hungama" tvg-logo="" group-title="DISH TV BY DENVER",Super Hungama
+http://103.99.249.107:81/play/a07i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK BANGLA" tvg-logo="" group-title="DISH TV BY DENVER",NICK BANGLA
+http://103.99.249.107:81/play/a03g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY YAY BANGLA" tvg-logo="" group-title="DISH TV BY DENVER",SONY YAY BANGLA
+http://103.99.249.107:81/play/a02u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic Hindi" tvg-logo="" group-title="DISH TV BY DENVER",Sonic Hindi
+http://103.99.249.107:81/play/a028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="DISH TV BY DENVER",Cartoon Network
+http://103.99.249.107:81/play/a022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD+" tvg-logo="" group-title="DISH TV BY DENVER",Nick HD+
+http://103.99.249.107:81/play/a01h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Junior SD" tvg-logo="" group-title="DISH TV BY DENVER",Nick Junior
+http://103.99.249.107:81/play/a02b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="DISH TV BY DENVER",Discovery Kids
+http://103.99.249.107:81/play/a02c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="DISH TV BY DENVER",MTV
+http://103.99.249.107:81/play/a02a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX" tvg-logo="" group-title="DISH TV BY DENVER",SONY MAX
+http://103.99.249.107:81/play/a03c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX HD" tvg-logo="" group-title="DISH TV BY DENVER", SONY MAX HD
+http://103.99.249.107:81/play/a009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="DISH TV BY DENVER",UTV Action
+http://103.99.249.107:81/play/a01s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA" tvg-logo="" group-title="DISH TV BY DENVER",ZEE CINEMA
+http://103.99.249.107:81/play/a036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="DISH TV BY DENVER",ZEE CINEMA HD
+http://103.99.249.107:81/play/a014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Gold HD
+http://103.99.249.107:81/play/a016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Movies" tvg-logo="" group-title="DISH TV BY DENVER",UTV Movies
+http://103.99.249.107:81/play/a01t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX 2" tvg-logo="" group-title="DISH TV BY DENVER",SONY MAX 2
+http://103.99.249.107:81/play/a01x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="" group-title="DISH TV BY DENVER",Star Gold 2
+http://103.99.249.107:81/play/a020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Gold Select HD
+http://103.99.249.107:81/play/a018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Active HD" tvg-logo="" group-title="DISH TV BY DENVER",Movies Active HD
+http://103.99.249.107:81/play/a00i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Active" tvg-logo="" group-title="DISH TV BY DENVER",Movies Active
+http://103.99.249.107:81/play/a01v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywod" tvg-logo="" group-title="DISH TV BY DENVER",Zee Bollywod
+http://103.99.249.107:81/play/a01r
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY HD
+http://103.99.249.107:81/play/a00w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="" group-title="DISH TV BY DENVER",Sony Pal
+http://103.99.249.107:81/play/a01n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&TV" tvg-logo="" group-title="DISH TV BY DENVER",&TV
+http://103.99.249.107:81/play/a01l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD" tvg-logo="" group-title="DISH TV BY DENVER",Sab
+http://103.99.249.107:81/play/a01j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="DISH TV BY DENVER",STAR BHARAT HD
+http://103.99.249.107:81/play/a01w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Plus HD
+http://103.99.249.107:81/play/a00t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony" tvg-logo="" group-title="DISH TV BY DENVER",Sony
+http://103.99.249.107:81/play/a034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="" group-title="DISH TV BY DENVER",ZEE TV
+http://103.99.249.107:81/play/a03a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="" group-title="DISH TV BY DENVER",Colors HD
+http://103.99.249.107:81/play/a00v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AND flix HD" tvg-logo="" group-title="DISH TV BY DENVER",And Flix HD
+http://103.99.249.107:81/play/a00x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity HD" tvg-logo="" group-title="DISH TV BY DENVER",Colors Infinity HD
+http://103.99.249.107:81/play/a01g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox life HD" tvg-logo="" group-title="DISH TV BY DENVER",Fox life HD
+http://103.99.249.107:81/play/a01p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="DISH TV BY DENVER",KTV HD
+http://103.99.249.107:81/play/a02g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MN+ HD" tvg-logo="" group-title="DISH TV BY DENVER",MN+ HD
+http://103.99.249.107:81/play/a00g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AND Prive HD" tvg-logo="" group-title="DISH TV BY DENVER",And Prive
+http://103.99.249.107:81/play/a01i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony Pix HD
+http://103.99.249.107:81/play/a01b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Movies HD
+http://103.99.249.107:81/play/a00o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Movies Select HD
+http://103.99.249.107:81/play/a02e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="" group-title="DISH TV BY DENVER",Star World HD
+http://103.99.249.107:81/play/a03m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World Premiere HD" tvg-logo="" group-title="DISH TV BY DENVER",Star World Premiere HD
+http://103.99.249.107:81/play/a00e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="" group-title="DISH TV BY DENVER",Zee Cafe HD
+http://103.99.249.107:81/play/a00p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="DISH TV BY DENVER",HBO HD
+http://103.99.249.107:81/play/a080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits HD" tvg-logo="" group-title="DISH TV BY DENVER",HBO Hits HD
+http://103.99.249.107:81/play/a07z
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brat TV HD" tvg-logo="" group-title="DISH TV BY DENVER",Brat TV HD
+http://103.99.249.107:81/play/a08d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="" group-title="DISH TV BY DENVER",AXN HD
+http://103.99.249.107:81/play/a082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Color Bangla HD" tvg-logo="" group-title="DISH TV BY DENVER",Color Bangla HD
+http://103.99.249.107:81/play/a00h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMALU HD" tvg-logo="" group-title="DISH TV BY DENVER",ZEE CINEMALU HD
+http://103.99.249.107:81/play/a07u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroSports HD" tvg-logo="" group-title="DISH TV BY DENVER",EuroSports HD
+http://103.99.249.107:81/play/a00y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="" group-title="DISH TV BY DENVER",Hungama
+http://103.99.249.107:81/play/a023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="" group-title="DISH TV BY DENVER",Pogo
+http://103.99.249.107:81/play/a029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony Six HD
+http://103.99.249.107:81/play/a03o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 1 HD
+http://103.99.249.107:81/play/a00b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 2 HD
+http://103.99.249.107:81/play/a01f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 3 HD
+http://103.99.249.107:81/play/a006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 4" tvg-logo="" group-title="DISH TV BY DENVER",Sony Ten 4
+http://103.99.249.107:81/play/a021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 2 HD
+http://103.99.249.107:81/play/a00c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 1 HD
+http://103.99.249.107:81/play/a00d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 3 HD
+http://103.99.249.107:81/play/a00q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports Select 1 HD
+http://103.99.249.107:81/play/a01d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports Select 2 HD
+http://103.99.249.107:81/play/a01e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="" group-title="DISH TV BY DENVER",Sun Bangla
+http://103.99.249.107:81/play/a02h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="" group-title="DISH TV BY DENVER",COLORS BANGLA
+http://103.99.249.107:81/play/a02x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS" tvg-logo="" group-title="DISH TV BY DENVER",COLORS
+http://103.99.249.107:81/play/a038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA MOVIES" tvg-logo="" group-title="DISH TV BY DENVER",JALSHA MOVIES
+http://103.99.249.107:81/play/a02w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NGC BANGLA" tvg-logo="" group-title="DISH TV BY DENVER",NGC BANGLA
+http://103.99.249.107:81/play/a033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX" tvg-logo="" group-title="DISH TV BY DENVER",SONY SIX
+http://103.99.249.107:81/play/a031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="DISH TV BY DENVER",Sony Ten 1
+http://103.99.249.107:81/play/a03n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="DISH TV BY DENVER",Sony Ten 2
+http://103.99.249.107:81/play/a03h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="" group-title="DISH TV BY DENVER",Star GOLD
+http://103.99.249.107:81/play/a02n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1" tvg-logo="" group-title="DISH TV BY DENVER", Star Sports Select 1
+http://103.99.249.107:81/play/a03d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="DISH TV BY DENVER", Star Sports 1
+http://103.99.249.107:81/play/a03b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="" group-title="DISH TV BY DENVER",Sun Bangla
+http://103.99.249.107:81/play/a037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bindass" tvg-logo="" group-title="DISH TV BY DENVER",Bindass
+http://103.99.249.107:81/play/a01k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="DISH TV BY DENVER",Zee Bangla Cinema
+http://103.99.249.107:81/play/a039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeiN Sports 1 EN" tvg-logo="" group-title="DISH TV BY DENVER",BeiN Sports 1 EN
+http://103.99.249.107:81/play/a07q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeiN Sports XTRA" tvg-logo="" group-title="DISH TV BY DENVER",BeiN Sports XTRA
+http://103.99.249.107:81/play/a07w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="DISH TV BY DENVER",PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeiN Sports 3 AR" tvg-logo="" group-title="DISH TV BY DENVER",BeiN Sports 3 AR
+http://103.99.249.107:81/play/a02d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport 2 AR" tvg-logo="" group-title="DISH TV BY DENVER",Bein Sport 2 AR
+http://103.99.249.107:81/play/a06f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LaLiga HD" tvg-logo="" group-title="DISH TV BY DENVER",LaLiga HD
+http://103.99.249.107:81/play/a05h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS PSL" tvg-logo="" group-title="DISH TV BY DENVER",SUPER SPORTS PSL
+http://103.99.249.107:81/play/a05o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS W W E" tvg-logo="" group-title="DISH TV BY DENVER",SUPER SPORTS W W E
+http://103.99.249.107:81/play/a07k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="" group-title="DISH TV BY DENVER",BBC News
+http://103.99.249.107:81/play/a05e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN NEWS" tvg-logo="" group-title="DISH TV BY DENVER",CNN NEWS
+http://103.99.249.107:81/play/a05g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD" tvg-logo="" group-title="DISH TV BY DENVER",GAZI TV HD
+http://103.99.249.107:81/play/a02m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Sports" tvg-logo="" group-title="DISH TV BY DENVER",Golf Sports
+http://103.99.249.107:81/play/golfsports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 1 HD
+http://103.99.249.107:81/play/a05k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 2 HD
+http://103.99.249.107:81/play/a05l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 3 HD
+http://103.99.249.107:81/play/a05m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports HD" tvg-logo="" group-title="DISH TV BY DENVER",T Sports HD
+http://103.99.249.107:81/play/a02k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Cricket" tvg-logo="" group-title="DISH TV BY DENVER",Ten Cricket
+http://103.99.249.107:81/play/a03r
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedigital HD" tvg-logo="" group-title="DISH TV BY DENVER",Wedigital HD
+http://103.99.249.107:81/play/a02f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="DISH TV BY DENVER",Disney
+http://103.99.249.107:81/play/a025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="" group-title="DISH TV BY DENVER",Disney Junior
+http://103.99.249.107:81/play/a024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="DISH TV BY DENVER",Nickelodeon
+http://103.99.249.107:81/play/a026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix HD" tvg-logo="" group-title="DISH TV BY DENVER", And Flix HD
+http://103.162.136.235:4500/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pictures HD" tvg-logo="" group-title="DISH TV BY DENVER", And Pictures HD
+http://103.162.136.235:4500/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Prive HD" tvg-logo="" group-title="DISH TV BY DENVER",And prive HD
+http://103.162.136.235:4500/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And TV HD" tvg-logo="" group-title="DISH TV BY DENVER",And TV HD
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ulica HD" tvg-logo="" group-title="DISH TV BY DENVER",Ulica HD
+http://103.162.136.235:4500/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA HITS" tvg-logo="" group-title="DISH TV BY DENVER",AMEDIA HITS
+http://103.162.136.235:4500/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN SPIN" tvg-logo="" group-title="DISH TV BY DENVER",AXN SPIN
+http://103.162.136.235:4500/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD" tvg-logo="" group-title="DISH TV BY DENVER",BBC Earth HD
+http://103.162.136.235:4500/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLACK" tvg-logo="" group-title="DISH TV BY DENVER",BLACK
+http://103.162.136.235:4500/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang HD" tvg-logo="" group-title="DISH TV BY DENVER",Boomerang HD
+http://103.162.136.235:4500/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD" tvg-logo="" group-title="DISH TV BY DENVER",Colors HD
+http://103.162.136.235:4500/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Infinity HD" tvg-logo="" group-title="DISH TV BY DENVER",Colors Infinity HD
+http://103.162.136.235:4500/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="DISH TV BY DENVER",Comedy Central
+http://103.162.136.235:4500/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="DISH TV BY DENVER",Discovery HD
+http://103.162.136.235:4500/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="DISH TV BY DENVER",Discovery Kids
+http://103.162.136.235:4500/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="DISH TV BY DENVER",Discovery Science
+http://103.162.136.235:4500/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovry Life" tvg-logo="" group-title="DISH TV BY DENVER",Discovry Life
+http://103.162.136.235:4500/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovry Poland" tvg-logo="" group-title="DISH TV BY DENVER",Discovry Poland
+http://103.162.136.235:4500/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="DISH TV BY DENVER",Disney
+http://103.162.136.235:4500/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr" tvg-logo="" group-title="DISH TV BY DENVER",Disney Jr
+http://103.162.136.235:4500/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fightbox HD" tvg-logo="" group-title="DISH TV BY DENVER",Fightbox HD
+http://103.162.136.235:4500/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf Chanell" tvg-logo="" group-title="DISH TV BY DENVER",Golf Chanell
+http://103.162.136.235:4500/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO PLUS HD" tvg-logo="" group-title="DISH TV BY DENVER",HBO PLUS HD
+http://103.162.136.235:4500/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",HBO 2 HD
+http://103.162.136.235:4500/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="DISH TV BY DENVER",HGTV
+http://103.162.136.235:4500/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="" group-title="DISH TV BY DENVER",Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ICONCERT HD" tvg-logo="" group-title="DISH TV BY DENVER",ICONCERT HD
+http://103.162.136.235:4500/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="" group-title="DISH TV BY DENVER",MNX
+http://103.162.136.235:4500/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNX+ HD" tvg-logo="" group-title="DISH TV BY DENVER",MN+ HD
+http://103.162.136.235:4500/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony Max HD
+http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="DISH TV BY DENVER",Movies Now
+http://103.162.136.235:4500/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="DISH TV BY DENVER",MTV
+http://103.162.136.235:4500/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo HD" tvg-logo="" group-title="DISH TV BY DENVER",Nat Geo HD
+http://103.162.136.235:4500/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="DISH TV BY DENVER",Nat Geo Wild HD
+http://103.162.136.235:4500/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="DISH TV BY DENVER",Nick
+http://103.162.136.235:4500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD+" tvg-logo="" group-title="DISH TV BY DENVER",Nick HD+
+http://103.162.136.235:4500/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="DISH TV BY DENVER",Nick Jr
+http://103.162.136.235:4500/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLAN B HD" tvg-logo="" group-title="DISH TV BY DENVER",PLAN B HD
+http://103.162.136.235:4500/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony Pix HD
+http://103.162.136.235:4500/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pogo" tvg-logo="" group-title="DISH TV BY DENVER",Pogo
+http://103.162.136.235:4500/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED" tvg-logo="" group-title="DISH TV BY DENVER",RED
+http://103.162.136.235:4500/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Sports" tvg-logo="" group-title="DISH TV BY DENVER",RT Sports
+http://103.162.136.235:4500/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="" group-title="DISH TV BY DENVER",Romedy Now
+http://103.162.136.235:4500/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCI- FI" tvg-logo="" group-title="DISH TV BY DENVER",SCI- FI
+http://103.162.136.235:4500/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET HD" tvg-logo="" group-title="DISH TV BY DENVER",SET HD
+http://103.162.136.235:4500/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony SAB HD
+http://103.162.136.235:4500/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SciFi HD" tvg-logo="" group-title="DISH TV BY DENVER",SciFi HD
+http://103.162.136.235:4500/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY SIX HD
+http://103.162.136.235:4500/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic Hindi" tvg-logo="" group-title="DISH TV BY DENVER",Sonic Hindi
+http://103.162.136.235:4500/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony BBC Earth HD
+http://103.162.136.235:4500/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 1 HD
+http://103.162.136.235:4500/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 2 HD
+http://103.162.136.235:4500/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="DISH TV BY DENVER",SONY TEN 3 HD
+http://103.162.136.235:4500/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Bharat HD
+http://103.162.136.235:4500/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold 2" tvg-logo="" group-title="DISH TV BY DENVER", Star Gold 2
+http://103.162.136.235:4500/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="DISH TV BY DENVER", STAR GOLD HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="DISH TV BY DENVER", STAR GOLD SELECT HD
+http://103.162.136.235:4500/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Movies HD
+http://103.162.136.235:4500/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Plus HD
+http://103.162.136.235:4500/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 1 Hindi HD
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 2 HD
+http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3" tvg-logo="" group-title="DISH TV BY DENVER",Star Sports 3
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starsports1 HD" tvg-logo="" group-title="DISH TV BY DENVER", Star Sports 1 HD
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="DISH TV BY DENVER",Sony pix HD
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="" group-title="DISH TV BY DENVER",Star World HD
+http://103.162.136.235:4500/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World Premier HD" tvg-logo="" group-title="DISH TV BY DENVER",Star World Premier HD
+http://103.162.136.235:4500/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sundance HD" tvg-logo="" group-title="DISH TV BY DENVER",Sundance HD
+http://103.162.136.235:4500/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports HD" tvg-logo="" group-title="DISH TV BY DENVER",Super Sports HD
+http://103.162.136.235:4500/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="DISH TV BY DENVER",TLC
+http://103.162.136.235:4500/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo="" group-title="DISH TV BY DENVER",TLC HD
+http://103.162.136.235:4500/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="DISH TV BY DENVER",UTV HD
+http://103.162.136.235:4500/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="" group-title="DISH TV BY DENVER",Zee Cafe HD
+http://103.162.136.235:4500/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="DISH TV BY DENVER",ZEE CINEMA HD
+http://103.162.136.235:4500/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="DISH TV BY DENVER",Zee TV HD
+http://103.162.136.235:4500/play/a00e/index.m3u8
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xm.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://3o77.short.gy/aioepg.xml.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+https://t.me/DoraemonMovi
+#EXTM3U x-tvg-url="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/79767985600c0cb9a3da8066e567caf832d7bd53/siteini.pack/India/dishtv.in.channels.xml.gz"
+https://t.me/DoraemonMovi
+#EXTINF:-1 group-title="JOIN @DoraemonMovi on Talegram" tvg-logo="https://i.ibb.co/DGFpg6V/images-13.jpg",@DoraemonMovi talegram
+https://t.me/DoraemonMovi
+#EXTINF:-1 group-title="Denver 😎" tvg-logo="https://i.ibb.co/8BSzKQj/images.jpg",Denver hahaha
+https://www.googleapis.com/drive/v3/files/1-scLq-BNomOJIm5L_B37RytqNQo9-Fka?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="its free of cost don't buy & sell" tvg-logo="https://i.ibb.co/0mLdnf7/images-1.jpg",Denver😁
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
