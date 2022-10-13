@@ -1,4 +1,17 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+https://t.me/DenverIPTV
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
+https://t.me/DenverIPTV
+#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+https://t.me/DenverIPTV
+#EXTM3U x-tvg-url="https://3o77.short.gy/aioepg.xml.gz"
+https://t.me/DenverIPTV
+#EXTM3U x-tvg-url="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/79767985600c0cb9a3da8066e567caf832d7bd53/siteini.pack/India/dishtv.in.channels.xml.gz"
+https://t.me/DenverIPTV
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+https://t.me/DenverIPTV
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TECHYMODS" tvg-logo="" group-title="###### TECHYMODS",###### TECHYMODS ######
 https://127.0.0.1
 #EXTINF:-1,*--- LOKI INDIA ---*
@@ -9710,916 +9723,441 @@ https://tv.googledrivelinks.com/live.php?c=TEST8_HD&q=1200&e=junk.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### BJ TECH TATA PLAY" tvg-logo="" group-title="###### BJ TECH TATA PLAY",###### BJ TECH TATA PLAY ######
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### DENVER" tvg-logo="" group-title="###### DENVER",###### DENVER ######
 https://127.0.0.1
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD 1
-http://watchindia.net:8880/live/vvv/vvv/808.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD 2
-http://watchindia.net:8880/live/vvv/vvv/2162.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD 3
-http://watchindia.net:8880/live/vvv/vvv/2186.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 4" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD 4
-http://watchindia.net:8880/live/vvv/vvv/2232.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD Hindi 1
-http://watchindia.net:8880/live/vvv/vvv/1072.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 1 HD Hindi 2
-http://watchindia.net:8880/live/vvv/vvv/2167.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 2 HD 1
-http://watchindia.net:8880/live/vvv/vvv/1069.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports 2 HD 2
-http://watchindia.net:8880/live/vvv/vvv/2163.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports Select 1 HD 1
-http://watchindia.net:8880/live/vvv/vvv/1070.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports Select 2 HD
-http://watchindia.net:8880/live/vvv/vvv/1071.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Sports Select 1 HD 2
-http://watchindia.net:8880/live/vvv/vvv/2292.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Cricket
-http://watchindia.net:8880/live/vvv/vvv/2090.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Cricket 2
-http://watchindia.net:8880/live/vvv/vvv/2143.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Main Event
-http://watchindia.net:8880/live/vvv/vvv/2091.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Premier League
-http://watchindia.net:8880/live/vvv/vvv/2092.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Football
-http://watchindia.net:8880/live/vvv/vvv/2093.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports F1
-http://watchindia.net:8880/live/vvv/vvv/2094.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Arena
-http://watchindia.net:8880/live/vvv/vvv/2095.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Sports Golf
-http://watchindia.net:8880/live/vvv/vvv/2096.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Six HD 1
-http://watchindia.net:8880/live/vvv/vvv/1763.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Six HD 2
-http://watchindia.net:8880/live/vvv/vvv/2144.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/vvv/vvv/1756.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Ten 1 HD 2
-http://watchindia.net:8880/live/vvv/vvv/2215.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Ten 2 HD
-http://watchindia.net:8880/live/vvv/vvv/1757.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Ten 3 HD
-http://watchindia.net:8880/live/vvv/vvv/1758.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Sports
-http://watchindia.net:8880/live/vvv/vvv/2380.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Willow HD 1
-http://watchindia.net:8880/live/vvv/vvv/1067.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Willow HD 2
-http://watchindia.net:8880/live/vvv/vvv/2145.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet HD 1
-http://watchindia.net:8880/live/vvv/vvv/276.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet HD 2
-http://watchindia.net:8880/live/vvv/vvv/2216.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet
-http://watchindia.net:8880/live/vvv/vvv/2321.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet Movies 1
-http://watchindia.net:8880/live/vvv/vvv/278.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet Movies 2
-http://watchindia.net:8880/live/vvv/vvv/2217.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet News 1
-http://watchindia.net:8880/live/vvv/vvv/268.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet News 2
-http://watchindia.net:8880/live/vvv/vvv/2035.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet Plus 1
-http://watchindia.net:8880/live/vvv/vvv/277.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Asianet Plus 2
-http://watchindia.net:8880/live/vvv/vvv/2240.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya TV HD 1
-http://watchindia.net:8880/live/vvv/vvv/279.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya TV HD 2
-http://watchindia.net:8880/live/vvv/vvv/2261.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD USA" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya TV HD USA
-http://watchindia.net:8880/live/vvv/vvv/1938.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya TV
-http://watchindia.net:8880/live/vvv/vvv/2322.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya Comedy
-http://watchindia.net:8880/live/vvv/vvv/299.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy USA" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya Comedy USA
-http://watchindia.net:8880/live/vvv/vvv/2020.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya Movies
-http://watchindia.net:8880/live/vvv/vvv/298.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies USA" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya Movies USA
-http://watchindia.net:8880/live/vvv/vvv/2021.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Surya Music
-http://watchindia.net:8880/live/vvv/vvv/285.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Mazhavil Manorama HD 1
-http://watchindia.net:8880/live/vvv/vvv/280.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Mazhavil Manorama HD 2
-http://watchindia.net:8880/live/vvv/vvv/2231.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Keralam HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Keralam HD
-http://watchindia.net:8880/live/vvv/vvv/287.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Flowers TV 1
-http://watchindia.net:8880/live/vvv/vvv/2.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Flowers TV 2
-http://watchindia.net:8880/live/vvv/vvv/2291.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",24 News 1
-http://watchindia.net:8880/live/vvv/vvv/1064.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",24 News 2
-http://watchindia.net:8880/live/vvv/vvv/2082.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amrita" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Amrita
-http://watchindia.net:8880/live/vvv/vvv/284.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darshana TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Darshana TV
-http://watchindia.net:8880/live/vvv/vvv/1315.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Malayalam
-http://watchindia.net:8880/live/vvv/vvv/303.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garshom TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Garshom TV
-http://watchindia.net:8880/live/vvv/vvv/1291.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goodness TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Goodness TV
-http://watchindia.net:8880/live/vvv/vvv/2234.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harvest TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Harvest TV
-http://watchindia.net:8880/live/vvv/vvv/1303.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaihind" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jaihind
-http://watchindia.net:8880/live/vvv/vvv/293.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janam TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Janam TV
-http://watchindia.net:8880/live/vvv/vvv/309.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jeevan TV
-http://watchindia.net:8880/live/vvv/vvv/300.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali Arabia" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kairali Arabia
-http://watchindia.net:8880/live/vvv/vvv/2205.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kairali News
-http://watchindia.net:8880/live/vvv/vvv/308.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kairali TV
-http://watchindia.net:8880/live/vvv/vvv/307.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kairali We
-http://watchindia.net:8880/live/vvv/vvv/1761.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kappa TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kappa TV
-http://watchindia.net:8880/live/vvv/vvv/1762.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaumudy TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kaumudy TV
-http://watchindia.net:8880/live/vvv/vvv/305.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kochu TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kochu TV
-http://watchindia.net:8880/live/vvv/vvv/290.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magnavision TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Magnavision TV
-http://watchindia.net:8880/live/vvv/vvv/2233.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malayalam Box Office" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Malayalam Box Office
-http://watchindia.net:8880/live/vvv/vvv/2156.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manorama News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Manorama News
-http://watchindia.net:8880/live/vvv/vvv/281.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mathrubhumi News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Mathrubhumi News
-http://watchindia.net:8880/live/vvv/vvv/304.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media One" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Media One
-http://watchindia.net:8880/live/vvv/vvv/302.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News 18
-http://watchindia.net:8880/live/vvv/vvv/301.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Powervision TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Powervision TV
-http://watchindia.net:8880/live/vvv/vvv/1290.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj Musix
-http://watchindia.net:8880/live/vvv/vvv/286.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj News
-http://watchindia.net:8880/live/vvv/vvv/291.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Reporter TV
-http://watchindia.net:8880/live/vvv/vvv/306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safari TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Safari TV
-http://watchindia.net:8880/live/vvv/vvv/1301.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shalom TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Shalom TV
-http://watchindia.net:8880/live/vvv/vvv/288.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors TV HD 1
-http://watchindia.net:8880/live/vvv/vvv/801.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors TV HD 2
-http://watchindia.net:8880/live/vvv/vvv/2264.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors TV HD UK
-http://watchindia.net:8880/live/vvv/vvv/2187.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Rishtey HD
-http://watchindia.net:8880/live/vvv/vvv/830.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aapka Colors" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aapka Colors
-http://watchindia.net:8880/live/vvv/vvv/2320.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony TV HD 1
-http://watchindia.net:8880/live/vvv/vvv/1969.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony TV HD 2
-http://watchindia.net:8880/live/vvv/vvv/2141.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony TV HD UK
-http://watchindia.net:8880/live/vvv/vvv/2117.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Max 2
-http://watchindia.net:8880/live/vvv/vvv/2024.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Max HD
-http://watchindia.net:8880/live/vvv/vvv/788.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Sab UK
-http://watchindia.net:8880/live/vvv/vvv/2189.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Pal
-http://watchindia.net:8880/live/vvv/vvv/812.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Wah
-http://watchindia.net:8880/live/vvv/vvv/814.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Yay
-http://watchindia.net:8880/live/vvv/vvv/2104.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony BBC Earth HD
-http://watchindia.net:8880/live/vvv/vvv/789.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Bharat HD
-http://watchindia.net:8880/live/vvv/vvv/780.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold India HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Gold India HD
-http://watchindia.net:8880/live/vvv/vvv/785.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Gold Select HD
-http://watchindia.net:8880/live/vvv/vvv/784.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Plus HD 1
-http://watchindia.net:8880/live/vvv/vvv/1924.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Plus HD 2
-http://watchindia.net:8880/live/vvv/vvv/2278.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",& Pictures
-http://watchindia.net:8880/live/vvv/vvv/818.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",& Pictures HD
-http://watchindia.net:8880/live/vvv/vvv/783.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",& TV HD
-http://watchindia.net:8880/live/vvv/vvv/782.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&xplor HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",&xplor HD
-http://watchindia.net:8880/live/vvv/vvv/2204.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",9X Jalwa
-http://watchindia.net:8880/live/vvv/vvv/828.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",9XM Music
-http://watchindia.net:8880/live/vvv/vvv/827.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aaj Tak HD
-http://watchindia.net:8880/live/vvv/vvv/807.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha TV UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aastha TV UK
-http://watchindia.net:8880/live/vvv/vvv/2150.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABP News
-http://watchindia.net:8880/live/vvv/vvv/833.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",B4U Music
-http://watchindia.net:8880/live/vvv/vvv/2113.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",B4U Plus
-http://watchindia.net:8880/live/vvv/vvv/823.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Box Office" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood Box Office
-http://watchindia.net:8880/live/vvv/vvv/2157.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood BoxOffice HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood BoxOffice HD
-http://watchindia.net:8880/live/vvv/vvv/819.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Dilse HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood Dilse HD
-http://watchindia.net:8880/live/vvv/vvv/795.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Pop HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood Pop HD
-http://watchindia.net:8880/live/vvv/vvv/797.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Premier HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood Premier HD
-http://watchindia.net:8880/live/vvv/vvv/800.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cineplex HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Cineplex HD
-http://watchindia.net:8880/live/vvv/vvv/803.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilli Aaj Tak" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Dilli Aaj Tak
-http://watchindia.net:8880/live/vvv/vvv/836.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Hindi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Discovery Channel Hindi
-http://watchindia.net:8880/live/vvv/vvv/841.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Discovery World HD
-http://watchindia.net:8880/live/vvv/vvv/793.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",E24
-http://watchindia.net:8880/live/vvv/vvv/829.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Epic HD
-http://watchindia.net:8880/live/vvv/vvv/794.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV18 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",History TV18 HD
-http://watchindia.net:8880/live/vvv/vvv/791.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Today TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",India Today TV
-http://watchindia.net:8880/live/vvv/vvv/835.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kadak Hits HD
-http://watchindia.net:8880/live/vvv/vvv/798.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Manoranjan Movies
-http://watchindia.net:8880/live/vvv/vvv/804.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Mastiii
-http://watchindia.net:8880/live/vvv/vvv/826.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MTV Beats HD
-http://watchindia.net:8880/live/vvv/vvv/786.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hindi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MTV Hindi
-http://watchindia.net:8880/live/vvv/vvv/825.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Music India
-http://watchindia.net:8880/live/vvv/vvv/2293.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",National Geographic HD
-http://watchindia.net:8880/live/vvv/vvv/790.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NDTV News
-http://watchindia.net:8880/live/vvv/vvv/831.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV Profit" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NDTV Profit
-http://watchindia.net:8880/live/vvv/vvv/837.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News Nation
-http://watchindia.net:8880/live/vvv/vvv/838.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nick HD Plus
-http://watchindia.net:8880/live/vvv/vvv/2237.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Hindi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nick Hindi
-http://watchindia.net:8880/live/vvv/vvv/2182.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic Bharat" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Republic Bharat
-http://watchindia.net:8880/live/vvv/vvv/817.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic TV News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Republic TV News
-http://watchindia.net:8880/live/vvv/vvv/815.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanskar TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sanskar TV
-http://watchindia.net:8880/live/vvv/vvv/2151.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Times Now
-http://watchindia.net:8880/live/vvv/vvv/839.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TLC Hindi
-http://watchindia.net:8880/live/vvv/vvv/840.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TravelXP HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TravelXP HD
-http://watchindia.net:8880/live/vvv/vvv/792.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV9 News
-http://watchindia.net:8880/live/vvv/vvv/834.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Gold UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Utsav Gold UK
-http://watchindia.net:8880/live/vvv/vvv/2300.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Plus UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Utsav Plus UK
-http://watchindia.net:8880/live/vvv/vvv/1925.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",UTV Action
-http://watchindia.net:8880/live/vvv/vvv/805.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",UTV HD
-http://watchindia.net:8880/live/vvv/vvv/811.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wion News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Wion News
-http://watchindia.net:8880/live/vvv/vvv/816.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Action
-http://watchindia.net:8880/live/vvv/vvv/821.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Anmol
-http://watchindia.net:8880/live/vvv/vvv/813.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Anmol Cinema
-http://watchindia.net:8880/live/vvv/vvv/820.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Bollywood
-http://watchindia.net:8880/live/vvv/vvv/822.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Cinema HD
-http://watchindia.net:8880/live/vvv/vvv/787.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Classic" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Classic
-http://watchindia.net:8880/live/vvv/vvv/802.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee News
-http://watchindia.net:8880/live/vvv/vvv/832.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee TV HD
-http://watchindia.net:8880/live/vvv/vvv/1970.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD USA" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee TV HD USA
-http://watchindia.net:8880/live/vvv/vvv/1971.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Zest HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Zest HD
-http://watchindia.net:8880/live/vvv/vvv/2359.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zoom
-http://watchindia.net:8880/live/vvv/vvv/842.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun TV HD
-http://watchindia.net:8880/live/vvv/vvv/843.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD USA" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun TV HD USA
-http://watchindia.net:8880/live/vvv/vvv/2089.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Life" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun Life
-http://watchindia.net:8880/live/vvv/vvv/847.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun Music HD
-http://watchindia.net:8880/live/vvv/vvv/844.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun News
-http://watchindia.net:8880/live/vvv/vvv/869.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Vijay HD 1
-http://watchindia.net:8880/live/vvv/vvv/846.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Vijay HD 2
-http://watchindia.net:8880/live/vvv/vvv/2140.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay Super" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Vijay Super
-http://watchindia.net:8880/live/vvv/vvv/2190.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adithya TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Adithya TV
-http://watchindia.net:8880/live/vvv/vvv/855.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Angel TV HD
-http://watchindia.net:8880/live/vvv/vvv/862.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Captain News
-http://watchindia.net:8880/live/vvv/vvv/878.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Captain TV
-http://watchindia.net:8880/live/vvv/vvv/876.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chutti TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Chutti TV
-http://watchindia.net:8880/live/vvv/vvv/882.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Tamil HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Tamil HD
-http://watchindia.net:8880/live/vvv/vvv/2083.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dan News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Dan News
-http://watchindia.net:8880/live/vvv/vvv/859.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Discovery Tamil
-http://watchindia.net:8880/live/vvv/vvv/2085.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isaiaruvi TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Isaiaruvi TV
-http://watchindia.net:8880/live/vvv/vvv/2149.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Max" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jaya Max
-http://watchindia.net:8880/live/vvv/vvv/852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Movie" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jaya Movie
-http://watchindia.net:8880/live/vvv/vvv/849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jaya Plus
-http://watchindia.net:8880/live/vvv/vvv/850.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jaya TV HD
-http://watchindia.net:8880/live/vvv/vvv/851.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalaignar TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kalaignar TV
-http://watchindia.net:8880/live/vvv/vvv/2148.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kollywood Box Office" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kollywood Box Office
-http://watchindia.net:8880/live/vvv/vvv/2152.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",KTV HD
-http://watchindia.net:8880/live/vvv/vvv/845.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Madha TV
-http://watchindia.net:8880/live/vvv/vvv/875.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkal TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Makkal TV
-http://watchindia.net:8880/live/vvv/vvv/871.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Murasu TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Murasu TV
-http://watchindia.net:8880/live/vvv/vvv/880.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nambikkai TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nambikkai TV
-http://watchindia.net:8880/live/vvv/vvv/856.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News 18
-http://watchindia.net:8880/live/vvv/vvv/873.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 7" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News 7
-http://watchindia.net:8880/live/vvv/vvv/867.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nick Tamil
-http://watchindia.net:8880/live/vvv/vvv/2181.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppers" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Peppers
-http://watchindia.net:8880/live/vvv/vvv/870.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Polimer News
-http://watchindia.net:8880/live/vvv/vvv/877.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Polimer TV
-http://watchindia.net:8880/live/vvv/vvv/2147.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthiya Thalaimurai" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Puthiya Thalaimurai
-http://watchindia.net:8880/live/vvv/vvv/879.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthuyugam TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Puthuyugam TV
-http://watchindia.net:8880/live/vvv/vvv/865.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj Digital Plus
-http://watchindia.net:8880/live/vvv/vvv/857.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj Musix Tamil
-http://watchindia.net:8880/live/vvv/vvv/861.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News 24x7" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj News 24x7
-http://watchindia.net:8880/live/vvv/vvv/853.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj TV
-http://watchindia.net:8880/live/vvv/vvv/854.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirippoli TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sirippoli TV
-http://watchindia.net:8880/live/vvv/vvv/2084.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Yay Tamil
-http://watchindia.net:8880/live/vvv/vvv/2125.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sri Sankara TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sri Sankara TV
-http://watchindia.net:8880/live/vvv/vvv/2164.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Tamil Vision TV
-http://watchindia.net:8880/live/vvv/vvv/863.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Thanthi TV
-http://watchindia.net:8880/live/vvv/vvv/860.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Travel XP Tamil
-http://watchindia.net:8880/live/vvv/vvv/872.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Vasanth TV
-http://watchindia.net:8880/live/vvv/vvv/858.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vendhar TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Vendhar TV
-http://watchindia.net:8880/live/vvv/vvv/2146.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tamil" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Tamil
-http://watchindia.net:8880/live/vvv/vvv/887.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Thirai" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Thirai
-http://watchindia.net:8880/live/vvv/vvv/2142.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Maa HD 1
-http://watchindia.net:8880/live/vvv/vvv/933.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Maa HD 2
-http://watchindia.net:8880/live/vvv/vvv/2168.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Maa Movies HD
-http://watchindia.net:8880/live/vvv/vvv/934.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Maa Music
-http://watchindia.net:8880/live/vvv/vvv/2192.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Maa Gold
-http://watchindia.net:8880/live/vvv/vvv/935.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini TV
-http://watchindia.net:8880/live/vvv/vvv/928.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Comedy" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini Comedy
-http://watchindia.net:8880/live/vvv/vvv/971.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini Movies HD
-http://watchindia.net:8880/live/vvv/vvv/930.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini Music HD
-http://watchindia.net:8880/live/vvv/vvv/929.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini Life HD
-http://watchindia.net:8880/live/vvv/vvv/931.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gemini News
-http://watchindia.net:8880/live/vvv/vvv/973.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",10 TV
-http://watchindia.net:8880/live/vvv/vvv/981.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABN News
-http://watchindia.net:8880/live/vvv/vvv/980.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bhakti TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bhakti TV
-http://watchindia.net:8880/live/vvv/vvv/977.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVR News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CVR News
-http://watchindia.net:8880/live/vvv/vvv/975.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Saptagiri" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Saptagiri
-http://watchindia.net:8880/live/vvv/vvv/974.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ETV HD
-http://watchindia.net:8880/live/vvv/vvv/936.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ETV HD
-http://watchindia.net:8880/live/vvv/vvv/2203.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Life" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ETV Life
-http://watchindia.net:8880/live/vvv/vvv/938.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ETV Plus
-http://watchindia.net:8880/live/vvv/vvv/937.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NTV News
-http://watchindia.net:8880/live/vvv/vvv/2193.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Telugu" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj Musix Telugu
-http://watchindia.net:8880/live/vvv/vvv/957.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Telugu" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj News Telugu
-http://watchindia.net:8880/live/vvv/vvv/956.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sakshi TV
-http://watchindia.net:8880/live/vvv/vvv/955.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Telugu" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Yay Telugu
-http://watchindia.net:8880/live/vvv/vvv/2126.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",T News
-http://watchindia.net:8880/live/vvv/vvv/949.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu Box Office" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Telugu Box Office
-http://watchindia.net:8880/live/vvv/vvv/2155.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Thanthi TV
-http://watchindia.net:8880/live/vvv/vvv/947.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV9
-http://watchindia.net:8880/live/vvv/vvv/945.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V6 News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",V6 News
-http://watchindia.net:8880/live/vvv/vvv/943.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vissa TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Vissa TV
-http://watchindia.net:8880/live/vvv/vvv/942.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Cinemalu
-http://watchindia.net:8880/live/vvv/vvv/941.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Telugu
-http://watchindia.net:8880/live/vvv/vvv/940.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Kannada" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors HD Kannada
-http://watchindia.net:8880/live/vvv/vvv/982.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Super HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Super HD
-http://watchindia.net:8880/live/vvv/vvv/983.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cinema" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Cinema
-http://watchindia.net:8880/live/vvv/vvv/2158.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prajaa TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Prajaa TV
-http://watchindia.net:8880/live/vvv/vvv/997.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Public TV
-http://watchindia.net:8880/live/vvv/vvv/996.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Kannada" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj Musix Kannada
-http://watchindia.net:8880/live/vvv/vvv/993.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Kannada" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Raj News Kannada
-http://watchindia.net:8880/live/vvv/vvv/995.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Suvarna HD
-http://watchindia.net:8880/live/vvv/vvv/985.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Suvarna News
-http://watchindia.net:8880/live/vvv/vvv/990.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Suvarna Plus
-http://watchindia.net:8880/live/vvv/vvv/984.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV5 News
-http://watchindia.net:8880/live/vvv/vvv/987.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV9 News
-http://watchindia.net:8880/live/vvv/vvv/986.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Comedy" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Udaya Comedy
-http://watchindia.net:8880/live/vvv/vvv/988.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Udaya HD
-http://watchindia.net:8880/live/vvv/vvv/1002.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Movies" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Udaya Movies
-http://watchindia.net:8880/live/vvv/vvv/1004.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Udaya Music
-http://watchindia.net:8880/live/vvv/vvv/1003.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kannada" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Kannada
-http://watchindia.net:8880/live/vvv/vvv/1001.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",9X Jhakaas
-http://watchindia.net:8880/live/vvv/vvv/926.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Majha" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABP Majha
-http://watchindia.net:8880/live/vvv/vvv/925.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Marathi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors HD Marathi
-http://watchindia.net:8880/live/vvv/vvv/912.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sahyadri" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Sahyadri
-http://watchindia.net:8880/live/vvv/vvv/927.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fakt" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Fakt
-http://watchindia.net:8880/live/vvv/vvv/924.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maiboli" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Maiboli
-http://watchindia.net:8880/live/vvv/vvv/923.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 Lokmat" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News 18 Lokmat
-http://watchindia.net:8880/live/vvv/vvv/922.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saam" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Saam
-http://watchindia.net:8880/live/vvv/vvv/921.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sangeet
-http://watchindia.net:8880/live/vvv/vvv/920.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Marathi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Marathi
-http://watchindia.net:8880/live/vvv/vvv/919.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Pravah HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Pravah HD
-http://watchindia.net:8880/live/vvv/vvv/918.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV9
-http://watchindia.net:8880/live/vvv/vvv/917.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Taas" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee 24 Taas
-http://watchindia.net:8880/live/vvv/vvv/916.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee HD Marathi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee HD Marathi
-http://watchindia.net:8880/live/vvv/vvv/913.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Talkies HD
-http://watchindia.net:8880/live/vvv/vvv/914.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Yuva" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Yuva
-http://watchindia.net:8880/live/vvv/vvv/915.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aakash Aath
-http://watchindia.net:8880/live/vvv/vvv/2295.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABP Ananda
-http://watchindia.net:8880/live/vvv/vvv/2285.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Bangla
-http://watchindia.net:8880/live/vvv/vvv/2284.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Dhoom Music
-http://watchindia.net:8880/live/vvv/vvv/2289.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Jalsha Movies
-http://watchindia.net:8880/live/vvv/vvv/2282.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sangeet Bangla
-http://watchindia.net:8880/live/vvv/vvv/2288.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Aath
-http://watchindia.net:8880/live/vvv/vvv/2286.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Jalsha HD
-http://watchindia.net:8880/live/vvv/vvv/2281.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sun Bangla
-http://watchindia.net:8880/live/vvv/vvv/2290.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Bangla
-http://watchindia.net:8880/live/vvv/vvv/2283.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Bangla Cinema
-http://watchindia.net:8880/live/vvv/vvv/2287.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Asmita HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABP Asmita HD
-http://watchindia.net:8880/live/vvv/vvv/1012.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Bajar" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CNBC Bajar
-http://watchindia.net:8880/live/vvv/vvv/1919.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Gujarati" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Colors Gujarati
-http://watchindia.net:8880/live/vvv/vvv/1006.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Girnar" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Girnar
-http://watchindia.net:8880/live/vvv/vvv/1918.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GSTV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",GSTV
-http://watchindia.net:8880/live/vvv/vvv/1922.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kartavya TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kartavya TV
-http://watchindia.net:8880/live/vvv/vvv/1920.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kathamrut TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kathamrut TV
-http://watchindia.net:8880/live/vvv/vvv/1923.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lakshya TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Lakshya TV HD
-http://watchindia.net:8880/live/vvv/vvv/1014.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mitra" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Mitra
-http://watchindia.net:8880/live/vvv/vvv/1921.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News18" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News18
-http://watchindia.net:8880/live/vvv/vvv/1010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandesh News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sandesh News
-http://watchindia.net:8880/live/vvv/vvv/1011.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Gujarati" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV9 Gujarati
-http://watchindia.net:8880/live/vvv/vvv/1007.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",VTV News
-http://watchindia.net:8880/live/vvv/vvv/1009.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Kalak" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee 24 Kalak
-http://watchindia.net:8880/live/vvv/vvv/1008.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",92 News
-http://watchindia.net:8880/live/vvv/vvv/1060.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",92 News UK
-http://watchindia.net:8880/live/vvv/vvv/1050.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Plus" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",A Plus
-http://watchindia.net:8880/live/vvv/vvv/1021.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aaj News
-http://watchindia.net:8880/live/vvv/vvv/1051.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abbtakk News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Abbtakk News
-http://watchindia.net:8880/live/vvv/vvv/1062.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="App News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",App News
-http://watchindia.net:8880/live/vvv/vvv/1058.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aruj Tv" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Aruj Tv
-http://watchindia.net:8880/live/vvv/vvv/1035.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Digital" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Ary Digital
-http://watchindia.net:8880/live/vvv/vvv/1018.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Ary News
-http://watchindia.net:8880/live/vvv/vvv/1042.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary World UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Ary World UK
-http://watchindia.net:8880/live/vvv/vvv/1041.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zauk" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Ary Zauk
-http://watchindia.net:8880/live/vvv/vvv/1026.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zindagi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Ary Zindagi
-http://watchindia.net:8880/live/vvv/vvv/1025.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Entertainment" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bol Entertainment
-http://watchindia.net:8880/live/vvv/vvv/1030.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Tv News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bol Tv News
-http://watchindia.net:8880/live/vvv/vvv/1052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital Tv News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Capital Tv News
-http://watchindia.net:8880/live/vvv/vvv/1049.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 44 UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Channel 44 UK
-http://watchindia.net:8880/live/vvv/vvv/1040.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dawn News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Dawn News
-http://watchindia.net:8880/live/vvv/vvv/1044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duniya News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Duniya News UK
-http://watchindia.net:8880/live/vvv/vvv/1038.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Dunya News
-http://watchindia.net:8880/live/vvv/vvv/1061.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express Entertainment" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Express Entertainment
-http://watchindia.net:8880/live/vvv/vvv/1029.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Express News
-http://watchindia.net:8880/live/vvv/vvv/1047.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Geo Entertainment
-http://watchindia.net:8880/live/vvv/vvv/2267.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Kahani" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Geo Kahani
-http://watchindia.net:8880/live/vvv/vvv/2268.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Geo News UK
-http://watchindia.net:8880/live/vvv/vvv/1037.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Super" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Geo Super
-http://watchindia.net:8880/live/vvv/vvv/1016.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Tez" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Geo Tez
-http://watchindia.net:8880/live/vvv/vvv/1043.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gnn News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Gnn News
-http://watchindia.net:8880/live/vvv/vvv/1045.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Masala UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Hum Masala UK
-http://watchindia.net:8880/live/vvv/vvv/1023.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Hum Sitaray
-http://watchindia.net:8880/live/vvv/vvv/1024.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum TV HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Hum TV HD
-http://watchindia.net:8880/live/vvv/vvv/1022.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Tv UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Hum Tv UK
-http://watchindia.net:8880/live/vvv/vvv/1019.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kay 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Kay 2
-http://watchindia.net:8880/live/vvv/vvv/1027.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Khyber News
-http://watchindia.net:8880/live/vvv/vvv/1054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber Tv" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Khyber Tv
-http://watchindia.net:8880/live/vvv/vvv/1034.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Lahore News
-http://watchindia.net:8880/live/vvv/vvv/1046.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minhaj Tv" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Minhaj Tv
-http://watchindia.net:8880/live/vvv/vvv/1056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NDTV News UK
-http://watchindia.net:8880/live/vvv/vvv/1055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo News HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Neo News HD
-http://watchindia.net:8880/live/vvv/vvv/1057.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News One" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",News One
-http://watchindia.net:8880/live/vvv/vvv/1017.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pashto 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Pashto 1
-http://watchindia.net:8880/live/vvv/vvv/1036.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Peace TV
-http://watchindia.net:8880/live/vvv/vvv/1063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Global UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTV Global UK
-http://watchindia.net:8880/live/vvv/vvv/1032.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Home" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTV Home
-http://watchindia.net:8880/live/vvv/vvv/1033.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTV News UK
-http://watchindia.net:8880/live/vvv/vvv/1053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Public News
-http://watchindia.net:8880/live/vvv/vvv/1059.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samaa News UK" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Samaa News UK
-http://watchindia.net:8880/live/vvv/vvv/1039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stage Darama" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Stage Darama
-http://watchindia.net:8880/live/vvv/vvv/1031.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv One" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Tv One
-http://watchindia.net:8880/live/vvv/vvv/1028.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Urdu 1
-http://watchindia.net:8880/live/vvv/vvv/1020.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Waqt News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Waqt News
-http://watchindia.net:8880/live/vvv/vvv/1048.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTV Sports
-http://watchindia.net:8880/live/vvv/vvv/2325.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",5AAB TV
-http://watchindia.net:8880/live/vvv/vvv/2195.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Tashan" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",9X Tashan
-http://watchindia.net:8880/live/vvv/vvv/1950.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Sanjha" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABP Sanjha
-http://watchindia.net:8880/live/vvv/vvv/1953.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaal Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Akaal Channel
-http://watchindia.net:8880/live/vvv/vvv/2199.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balle Balle" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Balle Balle
-http://watchindia.net:8880/live/vvv/vvv/1955.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Bol Haddipa HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bollywood Bol Haddipa HD
-http://watchindia.net:8880/live/vvv/vvv/796.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Punjabi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",DD Punjabi
-http://watchindia.net:8880/live/vvv/vvv/1947.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Desi Channel
-http://watchindia.net:8880/live/vvv/vvv/1954.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fateh TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Fateh TV
-http://watchindia.net:8880/live/vvv/vvv/1956.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MH One Music
-http://watchindia.net:8880/live/vvv/vvv/1949.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MH One News
-http://watchindia.net:8880/live/vvv/vvv/1948.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MH1
-http://watchindia.net:8880/live/vvv/vvv/2198.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Asia TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Prime Asia TV
-http://watchindia.net:8880/live/vvv/vvv/2197.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Chakde" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTC Chakde
-http://watchindia.net:8880/live/vvv/vvv/1944.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC IN" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTC IN
-http://watchindia.net:8880/live/vvv/vvv/1941.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Music" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTC Music
-http://watchindia.net:8880/live/vvv/vvv/1945.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTC News
-http://watchindia.net:8880/live/vvv/vvv/1943.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Simran" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PTC Simran
-http://watchindia.net:8880/live/vvv/vvv/1946.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Alpha" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Alpha
-http://watchindia.net:8880/live/vvv/vvv/2196.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Punjab Haryana Himachal
-http://watchindia.net:8880/live/vvv/vvv/1952.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjabi" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Zee Punjabi
-http://watchindia.net:8880/live/vvv/vvv/1951.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",& Flix HD
-http://watchindia.net:8880/live/vvv/vvv/2088.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Prive HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",& Prive HD
-http://watchindia.net:8880/live/vvv/vvv/2103.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Movies Now HD
-http://watchindia.net:8880/live/vvv/vvv/2102.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Romedy Now
-http://watchindia.net:8880/live/vvv/vvv/2188.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Action" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Action
-http://watchindia.net:8880/live/vvv/vvv/2176.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Comedy
-http://watchindia.net:8880/live/vvv/vvv/2177.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Disney
-http://watchindia.net:8880/live/vvv/vvv/2175.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Drama" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Drama
-http://watchindia.net:8880/live/vvv/vvv/2179.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Family" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Family
-http://watchindia.net:8880/live/vvv/vvv/2173.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Greats" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Greats
-http://watchindia.net:8880/live/vvv/vvv/2172.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Hits
-http://watchindia.net:8880/live/vvv/vvv/2171.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Premiere" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Premiere
-http://watchindia.net:8880/live/vvv/vvv/2169.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/vvv/vvv/2180.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Select" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Select
-http://watchindia.net:8880/live/vvv/vvv/2170.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Thriller" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sky Cinema Thriller
-http://watchindia.net:8880/live/vvv/vvv/2178.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Sony Pix HD
-http://watchindia.net:8880/live/vvv/vvv/2101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star Movies HD
-http://watchindia.net:8880/live/vvv/vvv/2080.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Star World HD
-http://watchindia.net:8880/live/vvv/vvv/2191.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",A&E Network
-http://watchindia.net:8880/live/vvv/vvv/2044.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ABC News
-http://watchindia.net:8880/live/vvv/vvv/2120.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",AMC
-http://watchindia.net:8880/live/vvv/vvv/2043.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Animal Planet
-http://watchindia.net:8880/live/vvv/vvv/2039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC America" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",BBC America
-http://watchindia.net:8880/live/vvv/vvv/2055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",BET
-http://watchindia.net:8880/live/vvv/vvv/2063.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bloomberg
-http://watchindia.net:8880/live/vvv/vvv/2301.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Boomerang
-http://watchindia.net:8880/live/vvv/vvv/1295.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Bravo
-http://watchindia.net:8880/live/vvv/vvv/2305.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Cartoon Network
-http://watchindia.net:8880/live/vvv/vvv/2052.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CBS Sports Network
-http://watchindia.net:8880/live/vvv/vvv/2121.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Cinemax
-http://watchindia.net:8880/live/vvv/vvv/2065.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CNBC
-http://watchindia.net:8880/live/vvv/vvv/2053.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC World" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CNBC World
-http://watchindia.net:8880/live/vvv/vvv/2326.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",CNN
-http://watchindia.net:8880/live/vvv/vvv/2058.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Comedy Central
-http://watchindia.net:8880/live/vvv/vvv/2056.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Discovery Channel
-http://watchindia.net:8880/live/vvv/vvv/2036.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Life" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Discovery Life
-http://watchindia.net:8880/live/vvv/vvv/2124.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Disney Channel
-http://watchindia.net:8880/live/vvv/vvv/2046.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr." tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Disney Jr.
-http://watchindia.net:8880/live/vvv/vvv/2105.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Disney XD
-http://watchindia.net:8880/live/vvv/vvv/2066.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ESPN
-http://watchindia.net:8880/live/vvv/vvv/2161.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",ESPN2
-http://watchindia.net:8880/live/vvv/vvv/2307.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Food Network
-http://watchindia.net:8880/live/vvv/vvv/2045.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Business" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Fox Business
-http://watchindia.net:8880/live/vvv/vvv/2201.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Fox News
-http://watchindia.net:8880/live/vvv/vvv/2057.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freeform" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Freeform
-http://watchindia.net:8880/live/vvv/vvv/2137.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",FX
-http://watchindia.net:8880/live/vvv/vvv/2136.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Game Show Network
-http://watchindia.net:8880/live/vvv/vvv/2298.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Hallmark Channel
-http://watchindia.net:8880/live/vvv/vvv/2302.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",HGTV
-http://watchindia.net:8880/live/vvv/vvv/2118.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",History
-http://watchindia.net:8880/live/vvv/vvv/2038.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Investigation Discovery
-http://watchindia.net:8880/live/vvv/vvv/2303.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MLB Network
-http://watchindia.net:8880/live/vvv/vvv/2308.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotorTrend" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MotorTrend
-http://watchindia.net:8880/live/vvv/vvv/2306.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MSNBC
-http://watchindia.net:8880/live/vvv/vvv/2060.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",MTV
-http://watchindia.net:8880/live/vvv/vvv/2062.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nat Geo Wild
-http://watchindia.net:8880/live/vvv/vvv/2047.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",National Geographic
-http://watchindia.net:8880/live/vvv/vvv/2037.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NBA TV
-http://watchindia.net:8880/live/vvv/vvv/2309.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NBC Sports Network
-http://watchindia.net:8880/live/vvv/vvv/2266.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax TV" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Newsmax TV
-http://watchindia.net:8880/live/vvv/vvv/2202.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NFL Network
-http://watchindia.net:8880/live/vvv/vvv/2165.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",NFL RedZone
-http://watchindia.net:8880/live/vvv/vvv/2160.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nick Jr.
-http://watchindia.net:8880/live/vvv/vvv/2059.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nickelodeon
-http://watchindia.net:8880/live/vvv/vvv/2049.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Nicktoons
-http://watchindia.net:8880/live/vvv/vvv/2064.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One America News" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",One America News
-http://watchindia.net:8880/live/vvv/vvv/2138.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Outdoor Channel
-http://watchindia.net:8880/live/vvv/vvv/2119.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paw Patrol" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Paw Patrol
-http://watchindia.net:8880/live/vvv/vvv/1297.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Peppa Pig
-http://watchindia.net:8880/live/vvv/vvv/1298.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PJ Masks" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",PJ Masks
-http://watchindia.net:8880/live/vvv/vvv/1299.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Showtime
-http://watchindia.net:8880/live/vvv/vvv/2054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Syfy
-http://watchindia.net:8880/live/vvv/vvv/2127.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TBS
-http://watchindia.net:8880/live/vvv/vvv/2050.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Tennis Channel
-http://watchindia.net:8880/live/vvv/vvv/2358.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Weather Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",The Weather Channel
-http://watchindia.net:8880/live/vvv/vvv/2042.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TLC
-http://watchindia.net:8880/live/vvv/vvv/2139.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TNT
-http://watchindia.net:8880/live/vvv/vvv/2051.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",Travel Channel
-http://watchindia.net:8880/live/vvv/vvv/2123.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",TV Land
-http://watchindia.net:8880/live/vvv/vvv/2304.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW) ",VH1
-http://watchindia.net:8880/live/vvv/vvv/2185.ts
-
+#EXTINF:-1 group-title="BY Telegram@Freecatv" tvg-logo="https://i.ibb.co/8BSzKQj/images.jpg",Denver hahaha
+https://www.googleapis.com/drive/v3/files/1-scLq-BNomOJIm5L_B37RytqNQo9-Fka?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="It's Free of cost don't buy & sell" tvg-logo="https://i.ibb.co/0mLdnf7/images-1.jpg",Denver
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1,And PRIVE HD
+http://103.151.43.102:8800/play/a03g/index.m3u8
+#EXTINF:-1,And flix HD
+http://103.151.43.102:8800/play/a00w/index.m3u8
+#EXTINF:-1,And TV HD
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1,&tv
+http://103.99.249.107:81/play/a01l
+#EXTINF:-1,And TV HD
+http://103.162.136.235:4500/play/a00u/index.m3u8
+#EXTINF:-1,And Pictures HD
+http://103.151.43.102:8800/play/a03a/index.m3u8
+#EXTINF:-1,B HD
+http://103.151.43.102:8800/play/a054/index.m3u8
+#EXTINF:-1,9XM JALWA
+http://103.151.43.102:8800/play/a02v/index.m3u8
+#EXTINF:-1,9XM JHAKAAS
+http://103.151.43.102:8800/play/a02m/index.m3u8
+#EXTINF:-1,9XM
+http://103.151.43.102:8800/play/a02x/index.m3u8
+#EXTINF:-1,A Sports HD
+http://103.151.43.102:8800/play/a04z/index.m3u8
+#EXTINF:-1,A1 TV
+http://103.151.43.102:8800/play/a06z/index.m3u8
+#EXTINF:-1,ABZY Movies
+http://103.151.43.102:8800/play/a04o/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://103.151.43.102:8800/play/a034/index.m3u8
+#EXTINF:-1,Al Ehsaan TV
+http://103.151.43.102:8800/play/a078/index.m3u8
+#EXTINF:-1,B4U KADAK
+http://103.151.43.102:8800/play/a02o/index.m3u8
+#EXTINF:-1,B4U Movies
+http://103.151.43.102:8800/play/a04p/index.m3u8
+#EXTINF:-1,B4U Music
+http://103.151.43.102:8800/play/a04n/index.m3u8
+#EXTINF:-1,Balle Balle Non-Stop Music
+http://103.151.43.102:8800/play/a02h/index.m3u8
+#EXTINF:-1,Bflix Movies
+http://103.151.43.102:8800/play/a04v/index.m3u8
+#EXTINF:-1,Big Magic
+http://103.151.43.102:8800/play/a04f/index.m3u8
+#EXTINF:-1,BINDASS
+http://103.151.43.102:8800/play/a011/index.m3u8
+#EXTINF:-1,Box Cinema
+http://103.151.43.102:8800/play/a02k/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://103.151.43.102:8800/play/a03j/index.m3u8
+#EXTINF:-1,CINE MAX
+http://103.151.43.102:8800/play/a06v/index.m3u8
+#EXTINF:-1,CINEMA TV INDIA
+http://103.151.43.102:8800/play/a02l/index.m3u8
+#EXTINF:-1,COLORS INFINITY HD
+http://103.151.43.102:8800/play/a03e/index.m3u8
+#EXTINF:-1,Cineplex Bollywood
+http://103.151.43.102:8800/play/a04u/index.m3u8
+#EXTINF:-1,Colors HD
+http://103.151.43.102:8800/play/a00v/index.m3u8
+#EXTINF:-1,Colors Rishtey
+http://103.151.43.102:8800/play/a04i/index.m3u8
+#EXTINF:-1,DABANGG
+http://103.151.43.102:8800/play/a02u/index.m3u8
+#EXTINF:-1,DANGAL
+http://103.151.43.102:8800/play/a05k/index.m3u8
+#EXTINF:-1,DD SPORTS
+http://103.151.43.102:8800/play/a05p/index.m3u8
+#EXTINF:-1,DHAMAAL
+http://103.151.43.102:8800/play/a02s/index.m3u8
+#EXTINF:-1,DIGITAL BAYAN
+http://103.151.43.102:8800/play/a014/index.m3u8
+#EXTINF:-1,DIGITAL FOLK
+http://103.151.43.102:8800/play/a01e/index.m3u8
+#EXTINF:-1,DIGITAL NAAT
+http://103.151.43.102:8800/play/a015/index.m3u8
+#EXTINF:-1,DIGITAL QURAN
+http://103.151.43.102:8800/play/a013/index.m3u8
+#EXTINF:-1,DILLAGI
+http://103.151.43.102:8800/play/a02q/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://103.151.43.102:8800/play/a03u/index.m3u8
+#EXTINF:-1,Dhanak News
+http://103.151.43.102:8800/play/a06y/index.m3u8
+#EXTINF:-1,Dhinchaak
+http://103.151.43.102:8800/play/a04q/index.m3u8
+#EXTINF:-1,Dhinchaak 2
+http://103.151.43.102:8800/play/a04l/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://103.151.43.102:8800/play/a06n/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://103.151.43.102:8800/play/a01o/index.m3u8
+#EXTINF:-1,Disney
+http://103.151.43.102:8800/play/a03l/index.m3u8
+#EXTINF:-1,Disney Junior
+http://103.151.43.102:8800/play/a03o/index.m3u8
+#EXTINF:-1,Etv
+http://103.151.43.102:8800/play/a071/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://103.151.43.102:8800/play/a00n/index.m3u8
+#EXTINF:-1,EYE TV
+http://103.151.43.102:8800/play/a077/index.m3u8
+#EXTINF:-1,Enterr-10 Movies
+http://103.151.43.102:8800/play/a04m/index.m3u8
+#EXTINF:-1,FIRANGI
+http://103.151.43.102:8800/play/a087/index.m3u8
+#EXTINF:-1,GEM COMEDY
+http://103.151.43.102:8800/play/a05a/index.m3u8
+#EXTINF:-1,GEM DRAMA HD
+http://103.151.43.102:8800/play/a056/index.m3u8
+#EXTINF:-1,GEM LATINO
+http://103.151.43.102:8800/play/a059/index.m3u8
+#EXTINF:-1,GEM NATURE
+http://103.151.43.102:8800/play/a05b/index.m3u8
+#EXTINF:-1,GEM SERIES HD
+http://103.151.43.102:8800/play/a057/index.m3u8
+#EXTINF:-1,GEM TV HD
+http://103.151.43.102:8800/play/a055/index.m3u8
+#EXTINF:-1,GR8 TV
+http://103.151.43.102:8800/play/a06w/index.m3u8
+#EXTINF:-1,HEX MAX
+http://103.151.43.102:8800/play/a060/index.m3u8
+#EXTINF:-1,HEX KS USB
+http://103.151.43.102:8800/play/a061/index.m3u8
+#EXTINF:-1,HEX DITTU
+http://103.151.43.102:8800/play/a06h/index.m3u8
+#EXTINF:-1,HEX-IP Traveling
+http://103.151.43.102:8800/play/a06i/index.m3u8
+#EXTINF:-1,HEX Stage
+http://103.151.43.102:8800/play/a06j/index.m3u8
+#EXTINF:-1,HEX ZPakSong
+http://103.151.43.102:8800/play/a06k/index.m3u8
+#EXTINF:-1,HISTORY TV18 HD
+http://103.151.43.102:8800/play/a036/index.m3u8
+#EXTINF:-1,Hungama
+http://103.151.43.102:8800/play/a03k/index.m3u8
+#EXTINF:-1,UTV Movies
+http://103.151.43.102:8800/play/a06x/index.m3u8
+#EXTINF:-1,MANORANJAN MOVIES
+http://103.151.43.102:8800/play/a05n/index.m3u8
+#EXTINF:-1,MASTIII
+http://103.151.43.102:8800/play/a02p/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.151.43.102:8800/play/a00c/index.m3u8
+#EXTINF:-1,MBC ACTION
+http://103.151.43.102:8800/play/a01a/index.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://103.151.43.102:8800/play/a02y/index.m3u8
+#EXTINF:-1,MBC DRAMA
+http://103.151.43.102:8800/play/a01b/index.m3u8
+#EXTINF:-1,MBC MAX
+http://103.151.43.102:8800/play/a019/index.m3u8
+#EXTINF:-1,MBC1
+http://103.151.43.102:8800/play/a01c/index.m3u8
+#EXTINF:-1,MBC2
+http://103.151.43.102:8800/play/a016/index.m3u8
+#EXTINF:-1,MBC3
+http://103.151.43.102:8800/play/a017/index.m3u8
+#EXTINF:-1,MBC4
+http://103.151.43.102:8800/play/a018/index.m3u8
+#EXTINF:-1,MIFA + HD
+http://103.151.43.102:8800/play/a05c/index.m3u8
+#EXTINF:-1,MIFA MUSIC HD
+http://103.151.43.102:8800/play/a058/index.m3u8
+#EXTINF:-1,MINI MAX
+http://103.151.43.102:8800/play/a06u/index.m3u8
+#EXTINF:-1,MN+ HD
+http://103.151.43.102:8800/play/a01k/index.m3u8
+#EXTINF:-1,MTV
+http://103.151.43.102:8800/play/a05u/index.m3u8
+#EXTINF:-1,MTV BEATS
+http://103.151.43.102:8800/play/a05s/index.m3u8
+#EXTINF:-1,Maha Movies
+http://103.151.43.102:8800/play/a04g/index.m3u8
+#EXTINF:-1,Manoranjan Grand
+http://103.151.43.102:8800/play/a04r/index.m3u8
+#EXTINF:-1,Manoranjan TV
+http://103.151.43.102:8800/play/a04j/index.m3u8
+#EXTINF:-1,Movie Plus
+http://103.151.43.102:8800/play/a02g/index.m3u8
+#EXTINF:-1,Mtunes+
+http://103.151.43.102:8800/play/a02i/index.m3u8
+#EXTINF:-1,Music India
+http://103.151.43.102:8800/play/a02n/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://103.151.43.102:8800/play/a01n/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD
+http://103.151.43.102:8800/play/a00d/index.m3u8
+#EXTINF:-1,NOOR TV
+http://103.151.43.102:8800/play/a06t/index.m3u8
+#EXTINF:-1,NS TV
+http://103.151.43.102:8800/play/a075/index.m3u8
+#EXTINF:-1,Nick
+http://103.151.43.102:8800/play/a03m/index.m3u8
+#EXTINF:-1,Nick Junior
+http://103.151.43.102:8800/play/a03t/index.m3u8
+#EXTINF:-1,ONYX HD
+http://103.151.43.102:8800/play/a051/index.m3u8
+#EXTINF:-1,OSN
+http://103.151.43.102:8800/play/a089/index.m3u8
+#EXTINF:-1,PITAARA
+http://103.151.43.102:8800/play/a02w/index.m3u8
+#EXTINF:-1,PIX HD
+http://103.151.43.102:8800/play/a039/index.m3u8
+#EXTINF:-1,PTC chakde
+http://103.151.43.102:8800/play/a06f/index.m3u8
+#EXTINF:-1,Pak News
+http://103.151.43.102:8800/play/a073/index.m3u8
+#EXTINF:-1,Pogo
+http://103.151.43.102:8800/play/a03q/index.m3u8
+#EXTINF:-1,Quran TV
+http://103.151.43.102:8800/play/a076/index.m3u8
+#EXTINF:-1,RIVER HD
+http://103.151.43.102:8800/play/a053/index.m3u8
+#EXTINF:-1,RUBIX HD
+http://103.151.43.102:8800/play/a052/index.m3u8
+#EXTINF:-1,Colors Rishtey Cineplex
+http://103.151.43.102:8800/play/a04d/index.m3u8
+#EXTINF:-1,SET HD
+http://103.151.43.102:8800/play/a00x/index.m3u8
+#EXTINF:-1,SHEMAROO TV
+http://103.151.43.102:8800/play/a02r/index.m3u8
+#EXTINF:-1,SHOWTIME
+http://103.151.43.102:8800/play/a01g/index.m3u8
+#EXTINF:-1,SONY SIX HD
+http://103.151.43.102:8800/play/a00a/index.m3u8
+#EXTINF:-1,SKY Cinema
+http://103.151.43.102:8800/play/a072/index.m3u8
+#EXTINF:-1,Sonic Hindi
+http://103.151.43.102:8800/play/a03p/index.m3u8
+#EXTINF:-1,SONY PAL
+http://103.151.43.102:8800/play/a04c/index.m3u8
+#EXTINF:-1,SONY WAH
+http://103.151.43.102:8800/play/a05q/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://103.151.43.102:8800/play/a033/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://103.151.43.102:8800/play/a01l/index.m3u8
+#EXTINF:-1,STAR UTSAV MOVIES
+http://103.151.43.102:8800/play/a05o/index.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://103.151.43.102:8800/play/a006/index.m3u8
+#EXTINF:-1,STARWORLD Premier HD
+http://103.151.43.102:8800/play/a005/index.m3u8
+#EXTINF:-1,SULTAN RAHI
+http://103.151.43.102:8800/play/a01f/index.m3u8
+#EXTINF:-1,Sahara Filmi
+http://103.151.43.102:8800/play/a086/index.m3u8
+#EXTINF:-1,Sahara ONE
+http://103.151.43.102:8800/play/a085/index.m3u8
+#EXTINF:-1,See TV
+http://103.151.43.102:8800/play/a06q/index.m3u8
+#EXTINF:-1,Showbox
+http://103.151.43.102:8800/play/a04w/index.m3u8
+#EXTINF:-1,Silver Screen N
+http://103.151.43.102:8800/play/a074/index.m3u8
+#EXTINF:-1,Sindh News
+http://103.151.43.102:8800/play/a06p/index.m3u8
+#EXTINF:-1,Sindh TV
+http://103.151.43.102:8800/play/a06o/index.m3u8
+#EXTINF:-1,Sony BBC Earth HD
+http://103.151.43.102:8800/play/a038/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://103.151.43.102:8800/play/a009/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://103.151.43.102:8800/play/a03d/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://103.151.43.102:8800/play/a00q/index.m3u8
+#EXTINF:-1,Sony Ten 4
+http://103.151.43.102:8800/play/a05t/index.m3u8
+#EXTINF:-1,Star GOLD HD
+http://103.151.43.102:8800/play/a035/index.m3u8
+#EXTINF:-1,Star Gold Select HD
+http://103.151.43.102:8800/play/a037/index.m3u8
+#EXTINF:-1,Star News
+http://103.151.43.102:8800/play/a06r/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.151.43.102:8800/play/a00t/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://103.151.43.102:8800/play/a007/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.151.43.102:8800/play/a008/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://103.151.43.102:8800/play/a00r/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD
+http://103.151.43.102:8800/play/a00b/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://103.151.43.102:8800/play/a03b/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://103.151.43.102:8800/play/a03c/index.m3u8
+#EXTINF:-1,Star Utsav
+http://103.151.43.102:8800/play/a04s/index.m3u8
+#EXTINF:-1,StarMovies Select HD
+http://103.151.43.102:8800/play/a01m/index.m3u8
+#EXTINF:-1,Super Hungama
+http://103.151.43.102:8800/play/a062/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.151.43.102:8800/play/a01i/index.m3u8
+#EXTINF:-1,The Q
+http://103.151.43.102:8800/play/a04t/index.m3u8
+#EXTINF:-1,Vh1
+http://103.151.43.102:8800/play/a05v/index.m3u8
+#EXTINF:-1,WOW CINEMA ONE
+http://103.151.43.102:8800/play/a02t/index.m3u8
+#EXTINF:-1,WWE
+http://103.151.43.102:8800/play/a01d/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://103.151.43.102:8800/play/a032/index.m3u8
+#EXTINF:-1,ZEE Cafe HD
+http://103.151.43.102:8800/play/a01j/index.m3u8
+#EXTINF:-1,ZEE Hindustan
+http://103.151.43.102:8800/play/a04h/index.m3u8
+#EXTINF:-1,ZEE NEWS
+http://103.151.43.102:8800/play/a05l/index.m3u8
+#EXTINF:-1,ZEE PUNJABI
+http://103.151.43.102:8800/play/a05m/index.m3u8
+#EXTINF:-1,ZEE TV HD
+http://103.151.43.102:8800/play/a00u/index.m3u8
+#EXTINF:-1,ZING
+http://103.151.43.102:8800/play/a05r/index.m3u8
+#EXTINF:-1,Zee Anmol
+http://103.151.43.102:8800/play/a04e/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema
+http://103.151.43.102:8800/play/a04k/index.m3u8
+#EXTINF:-1,Zindagi TV
+http://103.151.43.102:8800/play/a070/index.m3u8
+#EXTINF:-1,Zoom
+http://103.151.43.102:8800/play/a03v/index.m3u8
+#EXTINF:-1,Zee ACTION
+http://103.151.43.102:8800/play/a028/index.m3u8
+#EXTINF:-1,BENGALI
+http://103.151.43.102:8800/play/a026/index.m3u8
+#EXTINF:-1,ZEE CLASSIC
+http://103.151.43.102:8800/play/a025/index.m3u8
+#EXTINF:-1,LOVE STORY
+http://103.151.43.102:8800/play/a027/index.m3u8
+#EXTINF:-1,NEW SONGS
+http://103.151.43.102:8800/play/a029/index.m3u8
+#EXTINF:-1,OLD SONGS
+http://103.151.43.102:8800/play/a02a/index.m3u8
+#EXTINF:-1,PUNJABI MOVIES
+http://103.151.43.102:8800/play/a02b/index.m3u8
+#EXTINF:-1,PUNJABI SONGS
+http://103.151.43.102:8800/play/a02c/index.m3u8
+#EXTINF:-1,LOVE
+http://103.151.43.102:8800/play/a02j/index.m3u8
+#EXTINF:-1,Nick HD+
+http://103.151.43.102:8800/play/a03f/index.m3u8
+#EXTINF:-1, SONY SAB HD
+http://50.7.237.4:8080/SONYSABHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Wah
+http://50.7.237.4:8080/SONYWAH/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Max 2
+http://50.7.237.4:8080/SONYMAX2/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Tamil
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6704/index.m3u8
+#EXTINF:-1,Sun TV tamil
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6692/index.m3u8
+#EXTINF:-1,Sun music tamil
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6694/index.m3u8
+#EXTINF:-1,Jaya TV
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6696/index.m3u8
+#EXTINF:-1,Jaya plus
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6698/index.m3u8
+#EXTINF:-1,KTV
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6693/index.m3u8
+#EXTINF:-1,Star Vijay
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sun TV
+http://50.7.237.4:8080/SUNTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Tamil
+http://50.7.237.4:8080/ZEETAMILHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star maa
+http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sun music
+http://50.7.237.4:8080/SUNMUSICHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Jaya TV
+http://50.7.237.4:8080/JAYATVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,KTV HD
+http://50.7.237.4:8080/KTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Maa Gold
+http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Etv TELUGU
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1,Star maa gold
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+#EXTINF:-1,Star maa music
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+#EXTINF:-1,STAR MAA TV
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1,STAR SUVARNA
+.http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+#EXTINF:-1,MAA MOVIES
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
+#EXTINF:-1,Gemini tv
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1,Gemini movies
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+#EXTINF:-1,Sony Max
+http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee TV HD
+http://50.7.237.4:8080/ZEETVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Colors HD
+http://50.7.237.4:8080/COLORSHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,STAR JALSHA
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Utsav Bharat
+http://50.7.237.4:8080/STARBHARATHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Gold 2
+http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Surya tv
+http://50.7.237.4:8080/SURYAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://50.7.237.4:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE KANNADA
+http://50.7.237.4:8080/ZEEKANNADAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,RAJ TV
+http://50.7.237.4:8080/RAJTV/tracks-v1a1/index.m3u8
+#EXTINF:-1,RAJ digital plus
+http://50.7.237.4:8080/RAJDIGITALPLUS/tracks-v1a1/index.m3u8
+9xm
+http://50.7.237.4:8080/9XM/tracks-v1a1/index.m3u8
+#EXTINF:-1,B4u music
+http://50.7.237.4:8080/B4UMUSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sun TV
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6692/index.m3u8
+#EXTINF:-1,RAJ TV
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6700/index.m3u8
+#EXTINF:-1,RAJ digital plus
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6701/index.m3u8
 
 
 
