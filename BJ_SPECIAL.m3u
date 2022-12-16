@@ -809,8 +809,6 @@ https://127.0.0.1
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram 👉 @bjtechknowledge2" tvg-logo="" group-title="Join us on Telegram @bjtechknowledge_2",Join us on Telegram 👉 @bjtechknowledge2
 https://t.me/bjtechknowledge_2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us" tvg-logo="" group-title="This playlist is FREE Dont Buy",Join us
-https://t.me/bjtechknowledge_24
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram 👉 bjtechknowledge2" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",Join us on Telegram 👉 bjtechknowledge2
 https://3uog.short.gy/IPL_LOW_360p_BJ.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",LIVE LINK 1
@@ -821,420 +819,52 @@ https://3uog.short.gy/Live_events.m3u8
 https://Join_us_on_Telegram_bjtechknowledge_24@3uog.short.gy/BEIN_SPORTS_ENGLISH_BJTECHKNOWLEDGE_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 4" tvg-logo="" group-title="LIVE EVENTS ( CRICKET LIVE)",LIVE LINK 4
 https://JOIN_US_ON_TELEGRAM_BJTECHKNOWLEDGE_24@3uog.short.gy/BJTECHKNOWLEDGE_2_STAR_SPORTS_1HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 1 HD" tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",BT SPORTS 1 HD
-https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 2 HD " tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",BT SPORTS 2 HD 
-https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 3 HD " tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",BT SPORTS 3 HD 
-https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 501 HD" tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",FOX 501 HD
-https://webdi.openhd.lol/ddyx2/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 1" tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",LINK 1
-https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 2 " tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",LINK 2 
-https://3uog.short.gy/Live_events.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET " tvg-logo="" group-title="INDIA 🆚 NEWZEALAND T20/ODI ",SUPER SPORTS CRICKET 
-https://webudi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 1" tvg-logo="" group-title="LIVE MOVIES HINDI 📡(LATEST)",LINK 1
 https://3uog.short.gy/bj_tech_knowledge_24.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Link 2" tvg-logo="" group-title="LIVE MOVIES HINDI 📡(LATEST)",Link 2
 https://3uog.short.gy/Live_movies_bj_tech.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURE HD " tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",& PICTURE HD 
-https://3uog.short.gy/&PICTURE_HD-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE CINEMA HD
-https://3uog.short.gy/ZEE_CINEMA-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE MARATHI
-https://3uog.short.gy/ZEE_MARATHI_BJTECH_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE MARATHI HD
-https://3uog.short.gy/ZEE_MARATHI_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TALKIES HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE TALKIES HD
-https://3uog.short.gy/ZEE_TALKIES_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE TAMIL
-https://3uog.short.gy/ZEE_TAMIL-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TELGU" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE TELGU
-https://3uog.short.gy/ZEE_TELGU_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE TV
-https://3uog.short.gy/ZEE_TV_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",AAJ TAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD NATIONAL" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",DD NATIONAL
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD RETRO" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",DD RETRO
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",MUSIC INDIA
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV NEWS" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",NDTV NEWS
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE NEWS
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH) ",ZEE ANMOL CINEMA
-http://208.86.19.13:81/722.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",COLORS CINEPLEX HD
-https://3uog.short.gy/COLORS_CINEPLEX_HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV + HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",MTV + HD
-https://3uog.short.gy/MTV+_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD " tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",MTV HD 
-https://3uog.short.gy/MTV_BTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bollywood (BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",Colors Bollywood (BJ TECH)
-https://3uog.short.gy/COLORS_BOLLYWOOD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",COLORS HD
-https://3uog.short.gy/COLORS_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",COLORS INFINITY
-https://3uog.short.gy/COLORS_INFINITY.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS MARATHI HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",COLORS MARATHI HD
-https://3uog.short.gy/Colors HD_MARATHI.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL ( BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",COLORS TAMIL ( BJ TECH)
-https://3uog.short.gy/COLORS_TAMIL.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M3U BEATS" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",M3U BEATS
-https://3uog.short.gy/M3U BEATS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",NICK HD
-https://3uog.short.gy/NICK_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONIC" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",SONIC
-https://3uog.short.gy/SONI.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD ( BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH)",SPORTS 18 HD ( BJ TECH)
-https://3uog.short.gy/SPORTS_18HD_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",COLORS BANGLA
-http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",E24
-http://208.86.19.13:81/719.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC CHALDE" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",PTC CHALDE
-http://208.86.19.13:81/704.stream/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY AATH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY BBC EARTH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MARATHI{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX2{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY PAL{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY PIX HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SAB HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SIX HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SIX{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 1{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 1 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 2 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 2{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 3 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 3{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 4 HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 4{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY WAH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY YAY{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",MUSIC INDIA
-http://208.86.19.13:81/733.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPUBLIC TV" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",REPUBLIC TV
-http://208.86.19.13:81/727.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE ANMOL CINEMA
-http://208.86.19.13:81/722.stream/index.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY LIV Official",SONY HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONY LIV Official",SONY SAB HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONY LIV Official",SONY MARATHI{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONY LIV Official",SONY PAL{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONY LIV Official",SONY AATH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONY LIV Official",SONY YAY{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONY LIV Official",SONY MAX HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONY LIV Official",SONY MAX{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONY LIV Official",SONY WAH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONY LIV Official",SONY MAX2{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONY LIV Official",SONY PIX HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONY LIV Official",SONY BBC EARTH{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONY LIV Official",SONY TEN 1{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONY LIV Official",SONY TEN 2{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONY LIV Official",SONY TEN 3{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SONY LIV Official",SONY TEN 4{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONY LIV Official",SONY SIX{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONY LIV Official",SONY TEN 1 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY LIV Official",SONY TEN 2 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY LIV Official",SONY TEN 3 HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONY LIV Official",SONY TEN 4 HD{SONYLIV}
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONY LIV Official",SONY SIX HD{SONYLIV}
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG BOSS MARATHI 24/7" tvg-logo="" group-title="BIG BOSS 24/7",BIG BOSS MARATHI 24/7
 https://pubads.g.doubleclick.net/ssai/event/_V55i0gNSGC7UNKwwxRj4Q/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HINDI" tvg-logo="" group-title="BIG BOSS 24/7",HINDI
 https://3uog.short.gy/Bugboss_24/7_Hindi_Bj_tech_special.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KANADA BIG BOSS 24/7" tvg-logo="" group-title="BIG BOSS 24/7",KANADA BIG BOSS 24/7
 https://pubads.g.doubleclick.net/ssai/event/79aj9qCVR1i7pwaLRCb5tg/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET_T20 WCC 2022" tvg-logo="" group-title="SPORTS MIX",SKY SPORTS CRICKET_T20 WCC 2022
-http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7343/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SPORTS HD" tvg-logo="" group-title="SPORTS MIX",ASTRO SPORTS HD
-https://3uog.short.gy/Astro_cricket_bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLO CRICKET HD EXTRA" tvg-logo="" group-title="SPORTS MIX",WILLO CRICKET HD EXTRA
-https://3uog.short.gy/Willo_cricket_Xtra+Bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A SPORTS HD" tvg-logo="" group-title="SPORTS MIX",A SPORTS HD
-https://3uog.short.gy/A_sports_bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="SPORTS MIX",LIVE LINK 1
-https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="SPORTS MIX",LIVE LINK 2
-https://3uog.short.gy/Live_events.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH_ENGLISH" tvg-logo="" group-title="SPORTS MIX",LIVE MATCH_ENGLISH
-https://Join_us_on_Telegram_bjtechknowledge_24@3uog.short.gy/BEIN_SPORTS_ENGLISH_BJTECHKNOWLEDGE_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH_HINDI" tvg-logo="" group-title="SPORTS MIX",LIVE MATCH_HINDI
-https://JOIN_US_ON_TELEGRAM_BJTECHKNOWLEDGE_24@3uog.short.gy/BJTECHKNOWLEDGE_2_STAR_SPORTS_1HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="SPORTS MIX",STAR SPORTS HD 1 HINDI
-https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS VERITY 2 HD" tvg-logo="" group-title="SPORTS MIX",SUPER SPORTS VERITY 2 HD
-http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS MIX",SKY SPORTS CRICKET HD
-http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD" tvg-logo="" group-title="SPORTS MIX",PTV SPORTS HD
-http://bandookk.xyz:8000/BJTECH/0055hh11/17534
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR BHARAT HD
-https://3uog.short.gy/STAR_BHARAT_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD HD
-https://3uog.short.gy/STAR_GOLD_HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD SELECT HD
-https://3uog.short.gy/STAR_GOLD_SELECT_BJ_TECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS NEW",STAR PLUS
-https://3uog.short.gy/STAR_PLUS_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS 2 HD
-https://3uog.short.gy/STAR_SPORTS_2HD-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS ENGLISH
-https://3uog.short.gy/STAR_SPORTS_1HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS HD 1 HINDI
-https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES" tvg-logo="" group-title="STAR CHANNELS NEW",UTV MOVIES
-https://3uog.short.gy/UTV_HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR BHARAT HD
-http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD SELECT
-http://208.86.19.16/709.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="" group-title="STAR CHANNELS NEW",STAR JALSHA
-http://208.86.19.13:81/609.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS NEW",STAR PLUS
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",Disney Channel
-https://3uog.short.gy/Disney_india_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA TV" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",HUNGAMA TV
-https://3uog.short.gy/Hungama_bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER HUNGAMA" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",SUPER HUNGAMA
-https://3uog.short.gy/Super_Hungama_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR BHARAT HD
-https://3uog.short.gy/STAR_BHARAT_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR GOLD HD
-https://3uog.short.gy/STAR_GOLD_HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR GOLD SELECT HD
-https://3uog.short.gy/STAR_GOLD_SELECT_BJ_TECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR PLUS
-https://3uog.short.gy/STAR_PLUS_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS 2 HD
-https://3uog.short.gy/STAR_SPORTS_2HD-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS ENGLISH
-https://3uog.short.gy/STAR_SPORTS_1HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS HD 1 HINDI
-https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",UTV MOVIES
-https://3uog.short.gy/UTV_HD_BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bramsastra Movie" tvg-logo="" group-title="Bramsastra Movie",Bramsastra Movie
-https://assets-1.mypowerdisk.com/transcode_video/5bd0b86dde187b07fbb25836ce71e025/dash/254270c36b5ca975e3f20c0034dae27a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMIMI LIFE" tvg-logo="" group-title="SUN NEXT NEW",GEMIMI LIFE
-https://3uog.short.gy/GEMINI_LIFE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="" group-title="SUN NEXT NEW",GEMINI COMEDY
-http://bandookk.xyz:8000/BJTECH/BJTECH/9296
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI HD" tvg-logo="" group-title="SUN NEXT NEW",GEMINI HD
-https://3uog.short.gy/Gemini_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="SUN NEXT NEW",KTV HD
-https://3uog.short.gy/Ktv_hd-bjtech.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD" tvg-logo="" group-title="SUN NEXT NEW",STAR VIJAY HD
-https://3uog.short.gy/STAR_VIJAY_HD-m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV" tvg-logo="" group-title="SUN NEXT NEW",SUN TV
-https://3uog.short.gy/SUN_TV-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="SUN NEXT NEW",SURYA MOVIES
-https://3uog.short.gy/SURYA_MOVIED-BJTECH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D SPORTS HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",D SPORTS HD
-https://jiotv.hadinetbd.tech/jio/v1/Dsports_HD/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SPORTS" tvg-logo="" group-title="SPORTS MIX ( NEW)",DD SPORTS
-https://jiotv.hadinetbd.tech/jio/v1/DD_Sports/DD_Sports/DD_Sports.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JIO CRICKET HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",JIO CRICKET HD
-https://jiotv.hadinetbd.tech/jio/v1/Jio_Cricket/Jio_Cricket/Jio_Cricket.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JIO TV FOOTBALL" tvg-logo="" group-title="SPORTS MIX ( NEW)",JIO TV FOOTBALL
-https://jiotv.hadinetbd.tech/jio/v1/Jio_Football/Jio_Football/Jio_Football.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHEL 18" tvg-logo="" group-title="SPORTS MIX ( NEW)",KHEL 18
-https://3uog.short.gy/KHEL18_BJ.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",SPORTS 18 HD
-https://3uog.short.gy/SPORTS_18HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EK 2" tvg-logo="" group-title="Disney + Hotstar",HULK EK 2
-https://assets-1.entertainvideo.com/assets/media/1fcb89cc95794a7d056be30f8cf9ac2b/dash/388c0a4b5a3d47cef17543825bab4a9d.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP  6" tvg-logo="" group-title="Disney + Hotstar",HULK EP  6
-https://assets-1.mypowerdisk.com/transcode_video/796ee533d6ae2235c5f8dd7294595f76/dash/ca9617b09636ca6b8b0c67c69733217f.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 1" tvg-logo="" group-title="Disney + Hotstar",HULK EP 1
-https://assets-1.entertainvideo.com/assets/media/9d7620066229617d6a5dbfb40b074364/dash/ac9a2f083d416250334d6a0180904f3b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 4" tvg-logo="" group-title="Disney + Hotstar",HULK EP 4
-https://assets-1.mypowerdisk.com/transcode_video/33eeaba0118fda5a4c0706e3ffafce6f/dash/60001f883d708e852936fad4dd84e0b8.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 5" tvg-logo="" group-title="Disney + Hotstar",HULK EP 5
-https://assets-1.mypowerdisk.com/transcode_video/4aeb8e168ec2efd5fdd07d99f813de7f/dash/67eddae5ca14db940d32465bfdcdf46e.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE THUNDER 2022" tvg-logo="" group-title="Disney + Hotstar",LOVE THUNDER 2022
-https://assets-1.mypowerdisk.com/transcode_video/a4879051087ffe38bf84222c8758a133/dash/85c468398e7b3a992ef01bd21daf17fb.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMINAL JUSTICE S2 EP 1" tvg-logo="" group-title="Disney + Hotstar",CRIMINAL JUSTICE S2 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/6df70fac1e5e5a01beebe7e6d81b5584/dash/268036a5f17fbcd01b78826b4963649a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMINAL JUSTICE S2 EP 2" tvg-logo="" group-title="Disney + Hotstar",CRIMINAL JUSTICE S2 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/1ee987b065fd126c6fe757ce0cee530b/dash/96dbfcf8a66e69be805574c4c62c5cc5.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadveer  (2022)" tvg-logo="" group-title="Disney + Hotstar",Cadveer  (2022)
-https://assets-1.entertainvideo.com/assets/media/cdf65ab0b29aaf44aae5417989fcef95/dash/cb39c9f1a1bb4f74586476cf5323aa3a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 1 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 1 Coffee with Karan
-https://assets-1.mypowerdisk.com/transcode_video/2198463b840c2038b0a9c3857de13512/dash/3d0a87dcb9665841a2c1f95cb90a1ad5.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",EPISODE 3 Coffee with Karan
-https://assets-1.mypowerdisk.com/transcode_video/b8ad81bb74cdecb559885c2f5e37c028/h265_1080/dash/h265_1080/3fcae140bf7b24deac4bc898cc7de9ef.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 4 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 4 Coffee with Karan
-https://assets-1.mypowerdisk.com/transcode_video/e9caf361e7de2d4ddec004e8c9b1a94d/dash/613e3e39b20e51300cc1c3319760360b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 5 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 5 Coffee with Karan
-https://assets-1.mypowerdisk.com/transcode_video/b579383391b8f5e54c90ae9bf47a7cff/dash/548069299f1983dc6e8a47f4894adc17.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 6 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 6 Coffee with Karan
-https://assets-1.entertainvideo.com/assets/media/27d7fd0caa5158dc218634b22ce692df/dash/ac2a9c9c7d916e05dae55116bf01cb6b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramrao on duty (2022)" tvg-logo="" group-title="Disney + Hotstar",Ramrao on duty (2022)
-https://assets-1.entertainvideo.com/assets/media/4259845579861c3ae1dea3ec6c749a8c/dash/db2c2ea8bcb081c0b7733567667aabac.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/6d967838a551ce6558163176c8324f46/dash/0998e7bef8abaae6a5f3735984d57427.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/ca8d99b1138b9bf79ce77f03a2456682/dash/7a2aa320ff7c43e1cb7ca5b437649ed6.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/23ceea95cf81618cd1d505b0c0a0e929/dash/216274ea1fe39bea80cbec677aa44511.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 4
-https://assets-1.mypowerdisk.com/transcode_video/d0dd51a9067b30f2f970b0e38f6ee56a/dash/9d70f07fd14fb218e47a390cd61b4174.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 5
-https://assets-1.mypowerdisk.com/transcode_video/1fc648bcb942d7dac9d8d90fda31ba61/dash/150ae214c7c6b55613826876aad18bd1.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 6" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 6
-https://assets-1.mypowerdisk.com/transcode_video/27aec23b2d303712c8c62a503ac9941c/dash/ca5f4c9447be18fe02bb3433a7161960.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 7" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 7
-https://assets-1.mypowerdisk.com/transcode_video/81bec295b6a94bdfac246d6d26627ee0/dash/05c8f33a1450f6795527c69f5bcf7d8e.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 8" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 8
-https://assets-1.mypowerdisk.com/transcode_video/e6194fb8665010f15e5f917ff1cbf460/dash/eec36a9438c535ae6703729d480553f9.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/2da6f2b611397c9bf25044bd3a3b506b/dash/dcd8d2d38bc4bd976e17ec674ca77729.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/6a98b9666edf1ca379a8e0e07d95426f/dash/74a53b6a45f24c6b797bdc5a7b7f80df.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/462321ccbc3691f97ab4c289ca7f016f/dash/3d6582989ea99191086b6305c110a3b7.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 4
-https://assets-1.mypowerdisk.com/transcode_video/f3ad53fe3d5b79d092bf22b76c539258/dash/b81345dbb54c23f031de043c7beaa05a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 5
-https://assets-1.mypowerdisk.com/transcode_video/321b260029110df3f2b9db7799e04686/dash/6f2741ed10a56ff6dc5d54f5f2fa9523.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 10" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 10
-https://assets-1.mypowerdisk.com/transcode_video/4aac14211627d94fe36b895c26b90325/dash/0723e84c467f4bda29ab6cf5f8fd74a0.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 2
-https://assets-1.mypowerdisk.com/transcode_video/6ec635db3a2ba36b0deef821ffa80484/dash/1888a9524d5cda5ba828a3800b390a32.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 3
-https://assets-1.mypowerdisk.com/transcode_video/70bf50a23996305a65802ad46a32bcc7/dash/a9f8a777cdbd3020640d0e04c9e2e69a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 4
-https://assets-1.mypowerdisk.com/transcode_video/37574024db4b6fa41703710e04a9344c/dash/8ca329d4674ade6afc03ec5a489b6c02.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 5
-https://assets-1.mypowerdisk.com/transcode_video/b50da69a6f791046792f65873836ffba/dash/84ca893ae66e1dc50259352248ec4963.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 6" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 6
-https://assets-1.mypowerdisk.com/transcode_video/b3fef7ab57946477eb934d9b3f59bb7a/dash/78ee4fcd4dd046f031921e62ac514655.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 7" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 7
-https://assets-1.mypowerdisk.com/transcode_video/9a92449b87368ca68b363f8d770447b2/dash/6958046ec612fae6461c0e74744023ef.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 8" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 8
-https://assets-1.mypowerdisk.com/transcode_video/26146ba35b533c32e464c4fb1564247e/dash/f35eb1ada04b28c1710675424d059294.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 9" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 9
-https://assets-1.mypowerdisk.com/transcode_video/8009a43e4deb1b6899ea9c6adb276338/dash/35bc7367aed8d2fc93fdb9f050a90506.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAHARANI SEASON 2_EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",MAHARANI SEASON 2_EP 1
-https://assets-1.mypowerdisk.com/transcode_video/5afa455f8f057e4b5a2568f4c300b446/dash/a4e6ad8831ab1a01a59f768bb5eb4208.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 (HINDI+TAMIL) EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 (HINDI+TAMIL) EP 1
-https://assets-1.mypowerdisk.com/transcode_video/438af9df0e408a757f424ae4b7eb5634/dash/5bec611bd9a0c455d011f203917320d4.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/f178e920a8baa336d1b4153eb158b39c/dash/b4198731bb42b6e6c4da2b68d222982a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/ec8c20a31cc221e46f460f1aaa922b02/dash/c337e6a4a6d7b49ef3bc176de66ad59d.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 1" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/6d967838a551ce6558163176c8324f46/dash/0998e7bef8abaae6a5f3735984d57427.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 2" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/ca8d99b1138b9bf79ce77f03a2456682/dash/7a2aa320ff7c43e1cb7ca5b437649ed6.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 3" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/23ceea95cf81618cd1d505b0c0a0e929/dash/216274ea1fe39bea80cbec677aa44511.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 4" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 4
-https://assets-1.mypowerdisk.com/transcode_video/d0dd51a9067b30f2f970b0e38f6ee56a/dash/9d70f07fd14fb218e47a390cd61b4174.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 5" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 5
-https://assets-1.mypowerdisk.com/transcode_video/1fc648bcb942d7dac9d8d90fda31ba61/dash/150ae214c7c6b55613826876aad18bd1.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 6" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 6
-https://assets-1.mypowerdisk.com/transcode_video/27aec23b2d303712c8c62a503ac9941c/dash/ca5f4c9447be18fe02bb3433a7161960.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 7" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 7
-https://assets-1.mypowerdisk.com/transcode_video/81bec295b6a94bdfac246d6d26627ee0/dash/05c8f33a1450f6795527c69f5bcf7d8e.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 8" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 8
-https://assets-1.mypowerdisk.com/transcode_video/e6194fb8665010f15e5f917ff1cbf460/dash/eec36a9438c535ae6703729d480553f9.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANADOOR 2022 EP 2" tvg-logo="" group-title="NETFLIX",ANADOOR 2022 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/67018f0a54b7e1856865301a51d666f5/dash/68c21a13b2022c72256560ec143d086f.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANADOOR 2022 EP 3" tvg-logo="" group-title="NETFLIX",ANADOOR 2022 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/8061ed1033e9f54d7b5285a562c9ab81/dash/9249d7787be85081407a76b2993cbf97.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANDOOR 2022 EP 1" tvg-logo="" group-title="NETFLIX",ANDOOR 2022 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/f79b5f1f638840067d01283972475859/dash/4283c56695e62420f577e801d2f67259.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JOGI 2022 HD" tvg-logo="" group-title="NETFLIX",JOGI 2022 HD
-https://assets-1.mypowerdisk.com/transcode_video/f3fed325049e61d335134c647340c5f7/dash/10baa4d6313065255c383e127852bfbe.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 1" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 1
-https://assets-1.mypowerdisk.com/transcode_video/2da6f2b611397c9bf25044bd3a3b506b/dash/dcd8d2d38bc4bd976e17ec674ca77729.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 2" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 2
-https://assets-1.mypowerdisk.com/transcode_video/6a98b9666edf1ca379a8e0e07d95426f/dash/74a53b6a45f24c6b797bdc5a7b7f80df.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 3" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 3
-https://assets-1.mypowerdisk.com/transcode_video/462321ccbc3691f97ab4c289ca7f016f/dash/3d6582989ea99191086b6305c110a3b7.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 4" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 4
-https://assets-1.mypowerdisk.com/transcode_video/f3ad53fe3d5b79d092bf22b76c539258/dash/b81345dbb54c23f031de043c7beaa05a.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 5" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 5
-https://assets-1.mypowerdisk.com/transcode_video/321b260029110df3f2b9db7799e04686/dash/6f2741ed10a56ff6dc5d54f5f2fa9523.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIT THE FIRST CASE 2022 HINDI" tvg-logo="" group-title="NETFLIX",HIT THE FIRST CASE 2022 HINDI
-https://assets-1.mypowerdisk.com/transcode_video/1af160318e77f2178b7e851e7e7d8cad/dash/8effe8cd51dd704101a26b1120db378b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dasvi (2022)" tvg-logo="" group-title="NETFLIX",Dasvi (2022)
-https://assets-1.mypowerdisk.com/transcode_video/f3a709cf52342c7e56ee165265071189/dash/fecf88769543131f9ec490f0dafda4a0.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JYAADUGAR (2022)" tvg-logo="" group-title="NETFLIX",JYAADUGAR (2022)
-https://assets-1.mypowerdisk.com/transcode_video/03b3b6e5f4046e78f46e27ac2fb730a3/dash/fb9262eef55b92814cb34bd63d5b8d11.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KEEP BREATHING (2022)" tvg-logo="" group-title="NETFLIX",KEEP BREATHING (2022)
-https://assets-1.entertainvideo.com/assets/media/1a6f4431d4605cb8c1536169bfdf1c00/dash/bc15136a424427a2e1b734b108e154db.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHEDIYA 2022 HD " tvg-logo="" group-title="Hindi Movies (2022) New added",BHEDIYA 2022 HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTION HERO 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",ACTION HERO 2022 HD
+https://assets-1.mypowerdisk.com/transcode_video/0044ebbae8b19340e0eee3fa65932339/dash/21ec7caf777ce49194f918494531f855.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLURR 2022 FHD" tvg-logo="" group-title="Hindi Movies (2022) New added",BLURR 2022 FHD
+https://assets-1.mypowerdisk.com/transcode_video/fabd6535bd42448444fe6bbc4091058b/dash/54fd16cf34b6be5dce8c06e39bf03d12.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCTOR G 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",DOCTOR G 2022 HD
+https://assets-1.mypowerdisk.com/transcode_video/26f6ab06b6e3ece478e6cc066c02b39a/dash/c530d5f614ec3e2fd66f56697f03b29b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIAN LOCKDOWN 2022 FHD" tvg-logo="" group-title="Hindi Movies (2022) New added",INDIAN LOCKDOWN 2022 FHD
+https://assets-1.mypowerdisk.com/transcode_video/aef62ca5ab27fd769375e59fc384841d/dash/59a6886003eab72af2c19f28ab5e65f9.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAMSETU 2022 FHD" tvg-logo="" group-title="Hindi Movies (2022) New added",RAMSETU 2022 FHD
+https://assets-1.mypowerdisk.com/transcode_video/30723ab5cfb994989706b24065810f13/dash/1864510a9092ec7afbd5cf31026e4e4e.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adam Black 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",Adam Black 2022 HD
+https://assets-1.mypowerdisk.com/transcode_video/9f451228d82614d28726ab203aa40a49/dash/c00d7636a919fe15c20096734bf339fc.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makhati Mummu 2022 HD " tvg-logo="" group-title="Hindi Movies (2022) New added",Makhati Mummu 2022 HD 
+https://assets-1.mypowerdisk.com/transcode_video/7cf71cebd97d5493bdc9437fa48e0d5d/dash/7eec8acc75e5732e1b1a29850e7a11fe.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJ TILLU HD  2022" tvg-logo="" group-title="Hindi Movies (2022) New added",DJ TILLU HD  2022
+https://assets-1.mypowerdisk.com/transcode_video/fe03675e404f56d51b95aa4c8184adb0/dash/4caf0d5fc64061beec08de5cfeefb16c.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Last Film Show 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",The Last Film Show 2022 HD
+https://assets-1.mypowerdisk.com/transcode_video/6fbc1674a0647c180b338ef8e418884c/dash/a28c13373296948b31094ab0b29fd660.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paddavet 2022 HD " tvg-logo="" group-title="Hindi Movies (2022) New added",Paddavet 2022 HD 
+https://assets-1.mypowerdisk.com/transcode_video/48c44b3c5bc9c247dc016e54518b1f41/dash/b89c8cf1187c1380d7aecb240070bb8b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reddy 2022 HD " tvg-logo="" group-title="Hindi Movies (2022) New added",Reddy 2022 HD 
+https://assets-1.mypowerdisk.com/transcode_video/7611dd2815a161af850adc7ab11090e3/dash/c522dd310f717e64c73055c2891be0c7.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHEDIYA 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",BHEDIYA 2022 HD
 https://assets-1.mypowerdisk.com/transcode_video/939153be7819d60d2589a8fe026d3c4e/dash/0859727cb1cd8acb904ce30492ab6fe9.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoka Round D Corner 2022 FHD" tvg-logo="" group-title="Hindi Movies (2022) New added",Dhoka Round D Corner 2022 FHD
 https://assets-1.mypowerdisk.com/transcode_video/2aec57d3bffd6fa52317f40b7e70c087/dash/9c75be723e8ac5150bd7c9dd1191a9f7.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOD FATHER 2022 HD " tvg-logo="" group-title="Hindi Movies (2022) New added",GOD FATHER 2022 HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOD FATHER 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",GOD FATHER 2022 HD
 https://assets-1.mypowerdisk.com/transcode_video/e6bf2ffda470a5381684266e07538e33/dash/f50120bc972329e6093aa33528f4afa9.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KABADA 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",KABADA 2022
 https://assets-1.mypowerdisk.com/transcode_video/6ab97f8913a06609386ff2ed9f45f7ec/dash/e75ed489950b7a377feb0d2a73c8ee34.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rorach 2022 HD" tvg-logo="" group-title="Hindi Movies (2022) New added",Rorach 2022 HD
 https://assets-1.mypowerdisk.com/transcode_video/13da9938f0a264aa7145c289ce1a5c3e/dash/79291ea8f9e9405b4bbff9874f4804bf.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drushyam 2 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",Drushyam 2 2022
-https://assets-1.mypowerdisk.com/transcode_video/0fec41c902f641b71078e22b9b65074e/dash/c78550e0ee5e5492514b8487842d4b6f.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mitti Mimmi 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",Mitti Mimmi 2022
 https://assets-1.mypowerdisk.com/transcode_video/284a96c534aef27db41db5605cb99a67/dash/254d58b8a98a918440530f1193d7372f.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drushyam 2 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",Drushyam 2 2022
+https://assets-1.mypowerdisk.com/transcode_video/0fec41c902f641b71078e22b9b65074e/dash/c78550e0ee5e5492514b8487842d4b6f.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monika My Darling 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",Monika My Darling 2022
 https://assets-1.mypowerdisk.com/transcode_video/4d68676b3d712b955230f88b9b17e5e6/dash/44c5733085ed8dc828951b689d0ee14d.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pakka Commercial 2022" tvg-logo="" group-title="Hindi Movies (2022) New added",Pakka Commercial 2022
@@ -1295,74 +925,152 @@ https://assets-1.entertainvideo.com/assets/media/0179165ff5923c9f328bd64e87f3cad
 https://assets-1.entertainvideo.com/assets/media/dd16e79a13df5f4c76854e06bfd1aa73/dash/878309d9af0caec774cd5e7520ed6fe1.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thar Movie 2022_1080p" tvg-logo="" group-title="Hindi Movies (2022) New added",Thar Movie 2022_1080p
 https://assets-1.entertainvideo.com/assets/media/5e14d90eb270dcd3f04ff97a16269693/dash/5e14d90eb270dcd3f04ff97a16269693.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TISMAR KHAN 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",TISMAR KHAN 2022
-https://assets-1.mypowerdisk.com/transcode_video/793b9b24468cf09b61468d0a10e0afbd/dash/b4cc0c4201ae9f0f12d5593acda0b7c4.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COBRA 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",COBRA 2022
-https://assets-1.mypowerdisk.com/transcode_video/a32ade6a36e934154ba6675dfa5ecd3c/dash/d92c7028669bf5ca1ae402908170f521.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DON 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",DON 2022
-https://assets-1.entertainvideo.com/assets/media/87c6dd3c3bbfe52cc9b49490f525574c/dash/59b3a4a326ea30ede7c7edf4768186da.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 1" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 1
-https://assets-1.mypowerdisk.com/transcode_video/2198463b840c2038b0a9c3857de13512/dash/3d0a87dcb9665841a2c1f95cb90a1ad5.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="" group-title="Coffee With Karan Season (2022)",EPISODE 3
-https://assets-1.mypowerdisk.com/transcode_video/b8ad81bb74cdecb559885c2f5e37c028/h265_1080/dash/h265_1080/3fcae140bf7b24deac4bc898cc7de9ef.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 4" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 4
-https://assets-1.mypowerdisk.com/transcode_video/e9caf361e7de2d4ddec004e8c9b1a94d/dash/613e3e39b20e51300cc1c3319760360b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 5" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 5
-https://assets-1.mypowerdisk.com/transcode_video/b579383391b8f5e54c90ae9bf47a7cff/dash/548069299f1983dc6e8a47f4894adc17.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 6" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 6
-https://assets-1.entertainvideo.com/assets/media/27d7fd0caa5158dc218634b22ce692df/dash/ac2a9c9c7d916e05dae55116bf01cb6b.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAMIPASS 3" tvg-logo="" group-title="Marathi Movies 2022",TAMIPASS 3
-https://assets-1.mypowerdisk.com/transcode_video/f2565c29f395ad63837a1a22bdda266f/dash/d15d800cfc85211920640870343caf84.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUMBAI PENE MUMBAI 2" tvg-logo="" group-title="Marathi Movies 2022",MUMBAI PENE MUMBAI 2
-https://assets-1.entertainvideo.com/assets/media/ca276b7b3568103979ec5bdb082d2604/dash/61e68c52e0a5e3ad0e442ef505b69b1c.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIMEPASS 3" tvg-logo="" group-title="Marathi Movies 2022",TIMEPASS 3
-https://assets-1.entertainvideo.com/assets/media/910b3b6ce3b18952c59212265fe6e6ba/dash/e951ae61c6a53a37fc459f69e894cd5f.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapatlela 2" tvg-logo="" group-title="Marathi Movies 2022",Zapatlela 2
-https://assets-1.entertainvideo.com/assets/media/8f53ec063b5ec8bd6b0585b721b26dea/dash/8f53ec063b5ec8bd6b0585b721b26dea.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALI (2021)" tvg-logo="" group-title="Marathi Movies 2022",BALI (2021)
-https://assets-1.entertainvideo.com/assets/media/f7c3c752bb85216c7c6ed63b25bfb8aa/dash/ce45199145dc90d1176d3229e98877e9.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DARLING (2021)" tvg-logo="" group-title="Marathi Movies 2022",DARLING (2021)
-https://assets-1.entertainvideo.com/assets/media/621998ae721923682a4012a829157dac/dash/621998ae721923682a4012a829157dac.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAYANTI 2021" tvg-logo="" group-title="Marathi Movies 2022",JAYANTI 2021
-https://assets-1.mypowerdisk.com/transcode_video/03b3b6e5f4046e78f46e27ac2fb730a3/dash/fb9262eef55b92814cb34bd63d5b8d11.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE LOST CITY 2022" tvg-logo="" group-title="Hollywood Movies",THE LOST CITY 2022
-https://assets-1.mypowerdisk.com/transcode_video/89a08ad2dc1f1204db0275fde7fcd379/dash/076d9b8a7e5d677a673fad112cb20c25.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JURASSIC WORLD (2022) HINDI" tvg-logo="" group-title="Hollywood Movies",JURASSIC WORLD (2022) HINDI
-https://assets-1.mypowerdisk.com/transcode_video/c5a59a805161a9c9a43ecfda9f502df7/dash/de8c039459155144624a1c507a73aa8c.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ghost Rider" tvg-logo="" group-title="Hollywood Movies",Ghost Rider
-https://assets-1.entertainvideo.com/assets/media/07d72f24ddef4db4f590513715de0280/dash/07d72f24ddef4db4f590513715de0280.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WAR (2017)" tvg-logo="" group-title="Hollywood Movies",STAR WAR (2017)
-https://assets-1.entertainvideo.com/assets/media/e531c0eabeaa80fe378614d7aa1d0aa9/dash/e531c0eabeaa80fe378614d7aa1d0aa9.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Flight Crue" tvg-logo="" group-title="Hollywood Movies",The Flight Crue
-https://assets-1.mypowerdisk.com/transcode_video/9183d3ef6dfc90196dee83202efac536/dash/f1f14e4ad380dd184f5f5b74f07fa956.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wonder Woman 2022" tvg-logo="" group-title="Hollywood Movies",Wonder Woman 2022
-https://assets-1.mypowerdisk.com/transcode_video/dcd3b3c2ef670de7a13c4dbcb451f3dd/dash/dcd3b3c2ef670de7a13c4dbcb451f3dd.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet English" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="DISCOVERY +",Animal Planet English
-http://techmaxlive.ml/live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="DISCOVERY +",Animal Planet HD Tamil
-http://techmaxlive.ml/live.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="DISCOVERY +",Animal Planet HD World
-http://techmaxlive.ml/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="DISCOVERY +",Animal Planet Hindi
-http://techmaxlive.ml/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="DISCOVERY +",D Tamil
-http://techmaxlive.ml/live.php?c=Discovery_Channel_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="DISCOVERY +",Discovery
-http://techmaxlive.ml/live.php?c=Discovery&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="DISCOVERY +",Discovery Channel Hindi
-http://techmaxlive.ml/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="DISCOVERY +",Discovery HD World
-http://techmaxlive.ml/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="DISCOVERY +",Discovery Kids 2
-http://techmaxlive.ml/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="DISCOVERY +",Discovery Kids Tamil
-http://techmaxlive.ml/live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="DISCOVERY +",Discovery Science
-http://techmaxlive.ml/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="DISCOVERY +",Discovery Turbo
-http://techmaxlive.ml/live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="DISCOVERY +",Eurosport HD
-http://techmaxlive.ml/live.php?c=Dsports_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SONY SIX HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SONY TEN 1 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SONY TEN 2 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SONY TEN 3 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SONY TEN 4 HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 1" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",LINK 1
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LINK 2" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",LINK 2
+https://3uog.short.gy/Live_events.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 1 HD" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",BT SPORTS 1 HD
+https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 2 HD" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",BT SPORTS 2 HD
+https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT SPORTS 3 HD" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",BT SPORTS 3 HD
+https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 501 HD" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",FOX 501 HD
+https://webdi.openhd.lol/ddyx2/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET" tvg-logo="" group-title="INDIA 🆚 BANGLADESH SERIES 2022",SUPER SPORTS CRICKET
+https://webudi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR BHARAT HD
+https://3uog.short.gy/STAR_BHARAT_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR GOLD HD
+https://3uog.short.gy/STAR_GOLD_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR GOLD SELECT HD
+https://3uog.short.gy/STAR_GOLD_SELECT_BJ_TECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR PLUS
+https://3uog.short.gy/STAR_PLUS_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS 2 HD
+https://3uog.short.gy/STAR_SPORTS_2HD-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS ENGLISH
+https://3uog.short.gy/STAR_SPORTS_1HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",STAR SPORTS HD 1 HINDI
+https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES" tvg-logo="" group-title="STAR CHANNELS ( STAR INDIA) NEW",UTV MOVIES
+https://3uog.short.gy/UTV_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="DISCOVERY + (LITE) ",NAT GEO WILD
+https://3uog.short.gy/Nat_geo_WILD_BJ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DISCOVERY + (LITE) ",Discovery Channel HD
+https://3uog.short.gy/Discovery_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISCOVERY + (LITE) ",Investigation Discovery
+https://3uog.short.gy/Investigation_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD " tvg-logo="" group-title="DISCOVERY + (LITE) ",Animal Planet HD 
+https://3uog.short.gy/Animal_Planet_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISCOVERY + (LITE) ",Discovery Turbo
+https://3uog.short.gy/Trubo_bj.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="DISCOVERY + (LITE) ",TLC
+https://3uog.short.gy/TLC_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="" group-title="DISCOVERY + (LITE) ",Discovery Science
+https://3uog.short.gy/Discovery_science.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURE HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",& PICTURE HD
+https://3uog.short.gy/&PICTURE_HD-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE CINEMA HD
+https://3uog.short.gy/ZEE_CINEMA-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE MARATHI
+https://3uog.short.gy/ZEE_MARATHI_BJTECH_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE MARATHI HD
+https://3uog.short.gy/ZEE_MARATHI_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TALKIES HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE TALKIES HD
+https://3uog.short.gy/ZEE_TALKIES_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE TAMIL
+https://3uog.short.gy/ZEE_TAMIL-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TELGU" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE TELGU
+https://3uog.short.gy/ZEE_TELGU_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE TV
+https://3uog.short.gy/ZEE_TV_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD NATIONAL" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",DD NATIONAL
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD RETRO" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",DD RETRO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",MUSIC INDIA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV NEWS" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE NEWS
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="ZEE 5 BJ LITE (BJ TECH)",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS CINEPLEX HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",COLORS CINEPLEX HD
+https://3uog.short.gy/COLORS_CINEPLEX_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV + HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",MTV + HD
+https://3uog.short.gy/MTV+_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",MTV HD
+https://3uog.short.gy/MTV_BTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bollywood (BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",Colors Bollywood (BJ TECH)
+https://3uog.short.gy/COLORS_BOLLYWOOD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",COLORS HD
+https://3uog.short.gy/COLORS_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",COLORS INFINITY
+https://3uog.short.gy/COLORS_INFINITY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS MARATHI HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",COLORS MARATHI HD
+https://3uog.short.gy/Colors HD_MARATHI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS TAMIL ( BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",COLORS TAMIL ( BJ TECH)
+https://3uog.short.gy/COLORS_TAMIL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M3U BEATS" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",M3U BEATS
+https://3uog.short.gy/M3U BEATS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK HD" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",NICK HD
+https://3uog.short.gy/NICK_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONIC" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",SONIC
+https://3uog.short.gy/SONI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD ( BJ TECH)" tvg-logo="" group-title="VOOT LIVE ( BJ TECH) LITE",SPORTS 18 HD ( BJ TECH)
+https://3uog.short.gy/SPORTS_18HD_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR BHARAT HD
+https://3uog.short.gy/STAR_BHARAT_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD HD
+https://3uog.short.gy/STAR_GOLD_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD SELECT HD
+https://3uog.short.gy/STAR_GOLD_SELECT_BJ_TECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS NEW",STAR PLUS
+https://3uog.short.gy/STAR_PLUS_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS 2 HD
+https://3uog.short.gy/STAR_SPORTS_2HD-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS ENGLISH" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS ENGLISH
+https://3uog.short.gy/STAR_SPORTS_1HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="STAR CHANNELS NEW",STAR SPORTS HD 1 HINDI
+https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES" tvg-logo="" group-title="STAR CHANNELS NEW",UTV MOVIES
+https://3uog.short.gy/UTV_HD_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="STAR CHANNELS NEW",STAR BHARAT HD
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="STAR CHANNELS NEW",STAR GOLD SELECT
+http://208.86.19.16/709.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="" group-title="STAR CHANNELS NEW",STAR JALSHA
+http://208.86.19.13:81/609.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS" tvg-logo="" group-title="STAR CHANNELS NEW",STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMIMI LIFE" tvg-logo="" group-title="SUN NEXT NEW",GEMIMI LIFE
+https://3uog.short.gy/GEMINI_LIFE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="" group-title="SUN NEXT NEW",GEMINI COMEDY
+https://3uog.short.gy/Gemini_com_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI HD" tvg-logo="" group-title="SUN NEXT NEW",GEMINI HD
+https://3uog.short.gy/Gemini_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="SUN NEXT NEW",KTV HD
+https://3uog.short.gy/Ktv_hd-bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD" tvg-logo="" group-title="SUN NEXT NEW",STAR VIJAY HD
+https://3uog.short.gy/STAR_VIJAY_HD-m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV" tvg-logo="" group-title="SUN NEXT NEW",SUN TV
+https://3uog.short.gy/SUN_TV-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="SUN NEXT NEW",SURYA MOVIES
+https://3uog.short.gy/SURYA_MOVIED-BJTECH.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Kalak" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="ZEE 5",Zee 24 Kalak
 http://techmaxlive.ml/live.php?c=Zee_24_Kalak&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Taas" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="ZEE 5",Zee 24 Taas
@@ -1405,10 +1113,54 @@ http://techmaxlive.ml/live.php?c=Zee_Purvaiya&q=1200&e=junk.m3u8
 http://techmaxlive.ml/live.php?c=Zee_Talkies&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ZEE 5",Zee TV HD
 http://techmaxlive.ml/live.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee UP UK" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="ZEE 5",Zee UP UK
-http://techmaxlive.ml/live.php?c=Living_Foodz&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Yuva" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="ZEE 5",Zee Yuva
 http://techmaxlive.ml/live.php?c=Zee_Yuva&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee UP UK" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="ZEE 5",Zee UP UK
+http://techmaxlive.ml/live.php?c=Living_Foodz&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONY LIV Official",SONY HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONY LIV Official",SONY SAB HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONY LIV Official",SONY MARATHI{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONY LIV Official",SONY PAL{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONY LIV Official",SONY AATH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONY LIV Official",SONY YAY{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONY LIV Official",SONY MAX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONY LIV Official",SONY MAX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONY LIV Official",SONY WAH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONY LIV Official",SONY MAX2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONY LIV Official",SONY PIX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONY LIV Official",SONY BBC EARTH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONY LIV Official",SONY TEN 1{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONY LIV Official",SONY TEN 2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONY LIV Official",SONY TEN 3{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SONY LIV Official",SONY TEN 4{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONY LIV Official",SONY SIX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONY LIV Official",SONY TEN 1 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONY LIV Official",SONY TEN 2 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONY LIV Official",SONY TEN 3 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONY LIV Official",SONY TEN 4 HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONY LIV Official",SONY SIX HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cineplex HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="JIO-TV",Colors Cineplex HD
 http://techmaxlive.ml/live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD National" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="JIO-TV",DD National
@@ -2895,112 +2647,397 @@ http://techmaxlive.ml/live.php?c=Sangat_TV&q=1200&e=junk.m3u8
 http://techmaxlive.ml/live.php?c=Sarvamangala&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AB News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="JIO-TV",AB News
 http://techmaxlive.ml/live.php?c=AB_News&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet English" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="DISCOVERY +",Animal Planet English
+http://techmaxlive.ml/live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="DISCOVERY +",Animal Planet HD Tamil
+http://techmaxlive.ml/live.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="DISCOVERY +",Animal Planet HD World
+http://techmaxlive.ml/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="DISCOVERY +",Animal Planet Hindi
+http://techmaxlive.ml/live.php?c=Animal_Planet_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="DISCOVERY +",D Tamil
+http://techmaxlive.ml/live.php?c=Discovery_Channel_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="DISCOVERY +",Discovery
+http://techmaxlive.ml/live.php?c=Discovery&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="DISCOVERY +",Discovery Channel Hindi
+http://techmaxlive.ml/live.php?c=Discovery_Channel_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="DISCOVERY +",Discovery HD World
+http://techmaxlive.ml/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids 2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="DISCOVERY +",Discovery Kids 2
+http://techmaxlive.ml/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids Tamil" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="DISCOVERY +",Discovery Kids Tamil
+http://techmaxlive.ml/live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="DISCOVERY +",Discovery Science
+http://techmaxlive.ml/live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="DISCOVERY +",Discovery Turbo
+http://techmaxlive.ml/live.php?c=Discovery_Turbo&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="DISCOVERY +",Eurosport HD
+http://techmaxlive.ml/live.php?c=Dsports_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="KIDS",Nick Hindi
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Nick_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS",Pogo Hindi
-[JIO]  http://techmaxlive.ml/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS",Cartoon Network Hindi
-[JIO]  http://techmaxlive.ml/live.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="KIDS",Sonic Hindi
-[JIO]  http://techmaxlive.ml/live.php?c=sonic_Hindi&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=sonic_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="KIDS",Sony Yay Hindi
-[JIO]  http://techmaxlive.ml/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="547" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="KIDS",Nickelodeon
-[JIO]  http://techmaxlive.ml/live.php?c=Nickelodeon&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Nickelodeon&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="KIDS",CN HD+ English
-[JIO]  http://techmaxlive.ml/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="KIDS",Discovery Kids 2
-[JIO]  http://techmaxlive.ml/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="KIDS",Nick Junior
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="551" tvg-name="Testton" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="KIDS",Testton
-[JIO]  http://techmaxlive.ml/live.php?c=Toonami&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="KIDS",Nickelodeon Jr.
-[JIO]  http://techmaxlive.ml/live.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1216" tvg-name="Highbrow" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="KIDS",Highbrow
-[JIO]  http://techmaxlive.ml/live.php?c=Highbrow&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Nick_Junior&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="KIDS",Nick HD+
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="KIDS",sonic Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=sonic_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="KIDS",Discovery Kids Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=sonic_Tamil&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",Nick Telugu
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="874" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony Yay Telugu
-[JIO]  http://techmaxlive.ml/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Nick_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="1080" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD+ Telugu
-[JIO]  http://techmaxlive.ml/live.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1242" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic Telugu
-[JIO]  http://techmaxlive.ml/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1343" tvg-name="Nick Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="KIDS",Nick Gujarati
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Gujarati&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1347" tvg-name="Sonic Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Gujarati.png" group-title="KIDS",Sonic Gujarati
-[JIO]  http://techmaxlive.ml/live.php?c=Sonic_Gujarati&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1243" tvg-name="Sonic Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="KIDS",Sonic Kannada
-[JIO]  http://techmaxlive.ml/live.php?c=Sonic_Kannada&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1244" tvg-name="Nick Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="KIDS",Nick Kannada
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Kannada&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1341" tvg-name="Nick Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KIDS",Nick Bangla
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Bangla&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="MTV HD Plus [VOOT]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="KIDS",MTV HD Plus [VOOT]
-http://techmaxlive.ml/voot/apivoot.php?id=1300&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Nick HD Plus [VOOT]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="KIDS",Nick HD Plus [VOOT]
-http://techmaxlive.ml/voot/apivoot.php?id=1307&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Nick Junior [VOOT]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="KIDS",Nick Junior [VOOT]
-http://techmaxlive.ml/voot/apivoot.php?id=1305&e=.m3u8
-#EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="KIDS",Sonic Bangla
-[JIO]  http://techmaxlive.ml/live.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1342" tvg-name="Nick Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="KIDS",Nick Marathi
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Marathi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="KIDS",Sonic Marathi
-[JIO]  http://techmaxlive.ml/live.php?c=Sonic_Marathi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="KIDS",Nick Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=Nick_Tamil&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="KIDS",Pogo Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="KIDS",Cartoon Network Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
+http://techmaxlive.ml/live.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="569" tvg-name="D Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="KIDS",D Tamil
-[JIO]  http://techmaxlive.ml/live.php?c=Discovery_Kids_Tamil&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Clubbing TV BJTECH" tvg-logo="http://v3img.voot.com/v3Storage/assets/clubbing-tv-live-channels-16x9-1642675776637.jpg" group-title="VOOT",Clubbing TV BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="VOOT",Colors Bangla HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1314&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Cineplex HD BJTECH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="VOOT",Colors Cineplex HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1309&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Cineplex Superhits BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="VOOT",Colors Cineplex Superhits BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1628&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Gujarati BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="VOOT",Colors Gujarati BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1312&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT",Colors HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1301&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Infinity HD BJTECH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="VOOT",Colors Infinity HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1313&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Kannada HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="VOOT",Colors Kannada HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1308&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Marathi HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="VOOT",Colors Marathi HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1310&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Oriya BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT",Colors Oriya BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1306&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Rishtey BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT",Colors Rishtey BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1298&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Super BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="VOOT",Colors Super BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1311&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Colors Tamil HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="VOOT",Colors Tamil HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1302&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Comedy Central HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy Central HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1303&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="MTV Beats HD BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1304&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="MTV HD Plus BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1300&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Nick HD Plus BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="VOOT",Nick HD Plus BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1307&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Nick Junior BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="VOOT",Nick Junior BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1305&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Sonic Nickelodeon BJTECH" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="VOOT",Sonic Nickelodeon BJTECH
-http://techmaxlive.ml/voot/apivoot.php?id=1318&e=.m3u8
+http://techmaxlive.ml/live.php?c=Discovery_Kids_Tamil&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",Disney Channel
+https://3uog.short.gy/Disney_india_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA TV" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",HUNGAMA TV
+https://3uog.short.gy/Hungama_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER HUNGAMA" tvg-logo="" group-title="KIDS SPECIAL_BJ TECH",SUPER HUNGAMA
+https://3uog.short.gy/Super_Hungama_BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS BANGLA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",COLORS BANGLA
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC CHALDE" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",PTC CHALDE
+http://208.86.19.13:81/704.stream/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY AATH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY AATH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="SONY BBC EARTH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY BBC EARTH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MARATHI{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MARATHI{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY MAX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY MAX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PAL{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY PAL{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY PIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY PIX HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SAB HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SAB HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SIX HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY SIX{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY SIX{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 1{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 1 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 1 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 2 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 2{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 2{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 3 HD{SONYLIV}
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY TEN 3{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 3{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4 HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 4 HD{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 4{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY TEN 4{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY WAH{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY WAH{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="SONY YAY{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="VIDOCON DTH INDIA 🇮🇳",SONY YAY{SONYLIV}
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",MUSIC INDIA
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPUBLIC TV" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",REPUBLIC TV
+http://208.86.19.13:81/727.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="VIDOCON DTH INDIA 🇮🇳",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1" tvg-logo="" group-title="SPORTS MIX",LIVE LINK 1
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 2" tvg-logo="" group-title="SPORTS MIX",LIVE LINK 2
+https://3uog.short.gy/Live_events.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET_T20 WCC 2022" tvg-logo="" group-title="SPORTS MIX",SKY SPORTS CRICKET_T20 WCC 2022
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7343/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO SPORTS HD" tvg-logo="" group-title="SPORTS MIX",ASTRO SPORTS HD
+https://3uog.short.gy/Astro_cricket_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLO CRICKET HD EXTRA" tvg-logo="" group-title="SPORTS MIX",WILLO CRICKET HD EXTRA
+https://3uog.short.gy/Willo_cricket_Xtra+Bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A SPORTS HD" tvg-logo="" group-title="SPORTS MIX",A SPORTS HD
+https://3uog.short.gy/A_sports_bjtech.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH_ENGLISH" tvg-logo="" group-title="SPORTS MIX",LIVE MATCH_ENGLISH
+https://Join_us_on_Telegram_bjtechknowledge_24@3uog.short.gy/BEIN_SPORTS_ENGLISH_BJTECHKNOWLEDGE_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH_HINDI" tvg-logo="" group-title="SPORTS MIX",LIVE MATCH_HINDI
+https://JOIN_US_ON_TELEGRAM_BJTECHKNOWLEDGE_24@3uog.short.gy/BJTECHKNOWLEDGE_2_STAR_SPORTS_1HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="SPORTS MIX",STAR SPORTS HD 1 HINDI
+https://3uog.short.gy/STAR_SPORTS_HD_HINDI-BJTECH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS VERITY 2 HD" tvg-logo="" group-title="SPORTS MIX",SUPER SPORTS VERITY 2 HD
+http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS MIX",SKY SPORTS CRICKET HD
+http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD" tvg-logo="" group-title="SPORTS MIX",PTV SPORTS HD
+http://bandookk.xyz:8000/BJTECH/0055hh11/17534
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us" tvg-logo="" group-title="This playlist is FREE Dont Buy",Join us
+https://t.me/bjtechknowledge_24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bramsastra Movie" tvg-logo="" group-title="Bramsastra Movie",Bramsastra Movie
+https://assets-1.mypowerdisk.com/transcode_video/5bd0b86dde187b07fbb25836ce71e025/dash/254270c36b5ca975e3f20c0034dae27a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D SPORTS HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",D SPORTS HD
+https://jiotv.hadinetbd.tech/jio/v1/Dsports_HD/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SPORTS" tvg-logo="" group-title="SPORTS MIX ( NEW)",DD SPORTS
+https://jiotv.hadinetbd.tech/jio/v1/DD_Sports/DD_Sports/DD_Sports.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JIO CRICKET HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",JIO CRICKET HD
+https://jiotv.hadinetbd.tech/jio/v1/Jio_Cricket/Jio_Cricket/Jio_Cricket.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JIO TV FOOTBALL" tvg-logo="" group-title="SPORTS MIX ( NEW)",JIO TV FOOTBALL
+https://jiotv.hadinetbd.tech/jio/v1/Jio_Football/Jio_Football/Jio_Football.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHEL 18" tvg-logo="" group-title="SPORTS MIX ( NEW)",KHEL 18
+https://3uog.short.gy/KHEL18_BJ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD" tvg-logo="" group-title="SPORTS MIX ( NEW)",SPORTS 18 HD
+https://3uog.short.gy/SPORTS_18HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EK 2" tvg-logo="" group-title="Disney + Hotstar",HULK EK 2
+https://assets-1.entertainvideo.com/assets/media/1fcb89cc95794a7d056be30f8cf9ac2b/dash/388c0a4b5a3d47cef17543825bab4a9d.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP  6" tvg-logo="" group-title="Disney + Hotstar",HULK EP  6
+https://assets-1.mypowerdisk.com/transcode_video/796ee533d6ae2235c5f8dd7294595f76/dash/ca9617b09636ca6b8b0c67c69733217f.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 1" tvg-logo="" group-title="Disney + Hotstar",HULK EP 1
+https://assets-1.entertainvideo.com/assets/media/9d7620066229617d6a5dbfb40b074364/dash/ac9a2f083d416250334d6a0180904f3b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 4" tvg-logo="" group-title="Disney + Hotstar",HULK EP 4
+https://assets-1.mypowerdisk.com/transcode_video/33eeaba0118fda5a4c0706e3ffafce6f/dash/60001f883d708e852936fad4dd84e0b8.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HULK EP 5" tvg-logo="" group-title="Disney + Hotstar",HULK EP 5
+https://assets-1.mypowerdisk.com/transcode_video/4aeb8e168ec2efd5fdd07d99f813de7f/dash/67eddae5ca14db940d32465bfdcdf46e.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOVE THUNDER 2022" tvg-logo="" group-title="Disney + Hotstar",LOVE THUNDER 2022
+https://assets-1.mypowerdisk.com/transcode_video/a4879051087ffe38bf84222c8758a133/dash/85c468398e7b3a992ef01bd21daf17fb.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMINAL JUSTICE S2 EP 1" tvg-logo="" group-title="Disney + Hotstar",CRIMINAL JUSTICE S2 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/6df70fac1e5e5a01beebe7e6d81b5584/dash/268036a5f17fbcd01b78826b4963649a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CRIMINAL JUSTICE S2 EP 2" tvg-logo="" group-title="Disney + Hotstar",CRIMINAL JUSTICE S2 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/1ee987b065fd126c6fe757ce0cee530b/dash/96dbfcf8a66e69be805574c4c62c5cc5.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadveer  (2022)" tvg-logo="" group-title="Disney + Hotstar",Cadveer  (2022)
+https://assets-1.entertainvideo.com/assets/media/cdf65ab0b29aaf44aae5417989fcef95/dash/cb39c9f1a1bb4f74586476cf5323aa3a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 1 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 1 Coffee with Karan
+https://assets-1.mypowerdisk.com/transcode_video/2198463b840c2038b0a9c3857de13512/dash/3d0a87dcb9665841a2c1f95cb90a1ad5.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",EPISODE 3 Coffee with Karan
+https://assets-1.mypowerdisk.com/transcode_video/b8ad81bb74cdecb559885c2f5e37c028/h265_1080/dash/h265_1080/3fcae140bf7b24deac4bc898cc7de9ef.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 4 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 4 Coffee with Karan
+https://assets-1.mypowerdisk.com/transcode_video/e9caf361e7de2d4ddec004e8c9b1a94d/dash/613e3e39b20e51300cc1c3319760360b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 5 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 5 Coffee with Karan
+https://assets-1.mypowerdisk.com/transcode_video/b579383391b8f5e54c90ae9bf47a7cff/dash/548069299f1983dc6e8a47f4894adc17.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 6 Coffee with Karan" tvg-logo="" group-title="Disney + Hotstar",Episode 6 Coffee with Karan
+https://assets-1.entertainvideo.com/assets/media/27d7fd0caa5158dc218634b22ce692df/dash/ac2a9c9c7d916e05dae55116bf01cb6b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramrao on duty (2022)" tvg-logo="" group-title="Disney + Hotstar",Ramrao on duty (2022)
+https://assets-1.entertainvideo.com/assets/media/4259845579861c3ae1dea3ec6c749a8c/dash/db2c2ea8bcb081c0b7733567667aabac.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/6d967838a551ce6558163176c8324f46/dash/0998e7bef8abaae6a5f3735984d57427.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/ca8d99b1138b9bf79ce77f03a2456682/dash/7a2aa320ff7c43e1cb7ca5b437649ed6.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/23ceea95cf81618cd1d505b0c0a0e929/dash/216274ea1fe39bea80cbec677aa44511.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 4
+https://assets-1.mypowerdisk.com/transcode_video/d0dd51a9067b30f2f970b0e38f6ee56a/dash/9d70f07fd14fb218e47a390cd61b4174.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 5
+https://assets-1.mypowerdisk.com/transcode_video/1fc648bcb942d7dac9d8d90fda31ba61/dash/150ae214c7c6b55613826876aad18bd1.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 6" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 6
+https://assets-1.mypowerdisk.com/transcode_video/27aec23b2d303712c8c62a503ac9941c/dash/ca5f4c9447be18fe02bb3433a7161960.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 7" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 7
+https://assets-1.mypowerdisk.com/transcode_video/81bec295b6a94bdfac246d6d26627ee0/dash/05c8f33a1450f6795527c69f5bcf7d8e.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 8" tvg-logo="" group-title="WEB SERIES HINDI (2022)",JAMTARA SEASON 2 EP 8
+https://assets-1.mypowerdisk.com/transcode_video/e6194fb8665010f15e5f917ff1cbf460/dash/eec36a9438c535ae6703729d480553f9.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/2da6f2b611397c9bf25044bd3a3b506b/dash/dcd8d2d38bc4bd976e17ec674ca77729.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/6a98b9666edf1ca379a8e0e07d95426f/dash/74a53b6a45f24c6b797bdc5a7b7f80df.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/462321ccbc3691f97ab4c289ca7f016f/dash/3d6582989ea99191086b6305c110a3b7.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 4
+https://assets-1.mypowerdisk.com/transcode_video/f3ad53fe3d5b79d092bf22b76c539258/dash/b81345dbb54c23f031de043c7beaa05a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",DELHI CRIME S2 EP 5
+https://assets-1.mypowerdisk.com/transcode_video/321b260029110df3f2b9db7799e04686/dash/6f2741ed10a56ff6dc5d54f5f2fa9523.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 10" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 10
+https://assets-1.mypowerdisk.com/transcode_video/4aac14211627d94fe36b895c26b90325/dash/0723e84c467f4bda29ab6cf5f8fd74a0.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 2
+https://assets-1.mypowerdisk.com/transcode_video/6ec635db3a2ba36b0deef821ffa80484/dash/1888a9524d5cda5ba828a3800b390a32.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 3
+https://assets-1.mypowerdisk.com/transcode_video/70bf50a23996305a65802ad46a32bcc7/dash/a9f8a777cdbd3020640d0e04c9e2e69a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 4" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 4
+https://assets-1.mypowerdisk.com/transcode_video/37574024db4b6fa41703710e04a9344c/dash/8ca329d4674ade6afc03ec5a489b6c02.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 5" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 5
+https://assets-1.mypowerdisk.com/transcode_video/b50da69a6f791046792f65873836ffba/dash/84ca893ae66e1dc50259352248ec4963.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 6" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 6
+https://assets-1.mypowerdisk.com/transcode_video/b3fef7ab57946477eb934d9b3f59bb7a/dash/78ee4fcd4dd046f031921e62ac514655.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 7" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 7
+https://assets-1.mypowerdisk.com/transcode_video/9a92449b87368ca68b363f8d770447b2/dash/6958046ec612fae6461c0e74744023ef.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 8" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 8
+https://assets-1.mypowerdisk.com/transcode_video/26146ba35b533c32e464c4fb1564247e/dash/f35eb1ada04b28c1710675424d059294.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maharani Season 2 Ep 9" tvg-logo="" group-title="WEB SERIES HINDI (2022)",Maharani Season 2 Ep 9
+https://assets-1.mypowerdisk.com/transcode_video/8009a43e4deb1b6899ea9c6adb276338/dash/35bc7367aed8d2fc93fdb9f050a90506.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAHARANI SEASON 2_EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",MAHARANI SEASON 2_EP 1
+https://assets-1.mypowerdisk.com/transcode_video/5afa455f8f057e4b5a2568f4c300b446/dash/a4e6ad8831ab1a01a59f768bb5eb4208.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 (HINDI+TAMIL) EP 1" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 (HINDI+TAMIL) EP 1
+https://assets-1.mypowerdisk.com/transcode_video/438af9df0e408a757f424ae4b7eb5634/dash/5bec611bd9a0c455d011f203917320d4.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 EP 2" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/f178e920a8baa336d1b4153eb158b39c/dash/b4198731bb42b6e6c4da2b68d222982a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VICTIM 2022 EP 3" tvg-logo="" group-title="WEB SERIES HINDI (2022)",VICTIM 2022 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/ec8c20a31cc221e46f460f1aaa922b02/dash/c337e6a4a6d7b49ef3bc176de66ad59d.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 1" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/6d967838a551ce6558163176c8324f46/dash/0998e7bef8abaae6a5f3735984d57427.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 2" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/ca8d99b1138b9bf79ce77f03a2456682/dash/7a2aa320ff7c43e1cb7ca5b437649ed6.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 3" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/23ceea95cf81618cd1d505b0c0a0e929/dash/216274ea1fe39bea80cbec677aa44511.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 4" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 4
+https://assets-1.mypowerdisk.com/transcode_video/d0dd51a9067b30f2f970b0e38f6ee56a/dash/9d70f07fd14fb218e47a390cd61b4174.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 5" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 5
+https://assets-1.mypowerdisk.com/transcode_video/1fc648bcb942d7dac9d8d90fda31ba61/dash/150ae214c7c6b55613826876aad18bd1.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 6" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 6
+https://assets-1.mypowerdisk.com/transcode_video/27aec23b2d303712c8c62a503ac9941c/dash/ca5f4c9447be18fe02bb3433a7161960.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 7" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 7
+https://assets-1.mypowerdisk.com/transcode_video/81bec295b6a94bdfac246d6d26627ee0/dash/05c8f33a1450f6795527c69f5bcf7d8e.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMTARA SEASON 2 EP 8" tvg-logo="" group-title="NETFLIX",JAMTARA SEASON 2 EP 8
+https://assets-1.mypowerdisk.com/transcode_video/e6194fb8665010f15e5f917ff1cbf460/dash/eec36a9438c535ae6703729d480553f9.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANADOOR 2022 EP 2" tvg-logo="" group-title="NETFLIX",ANADOOR 2022 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/67018f0a54b7e1856865301a51d666f5/dash/68c21a13b2022c72256560ec143d086f.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANADOOR 2022 EP 3" tvg-logo="" group-title="NETFLIX",ANADOOR 2022 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/8061ed1033e9f54d7b5285a562c9ab81/dash/9249d7787be85081407a76b2993cbf97.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANDOOR 2022 EP 1" tvg-logo="" group-title="NETFLIX",ANDOOR 2022 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/f79b5f1f638840067d01283972475859/dash/4283c56695e62420f577e801d2f67259.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JOGI 2022 HD" tvg-logo="" group-title="NETFLIX",JOGI 2022 HD
+https://assets-1.mypowerdisk.com/transcode_video/f3fed325049e61d335134c647340c5f7/dash/10baa4d6313065255c383e127852bfbe.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 1" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 1
+https://assets-1.mypowerdisk.com/transcode_video/2da6f2b611397c9bf25044bd3a3b506b/dash/dcd8d2d38bc4bd976e17ec674ca77729.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 2" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 2
+https://assets-1.mypowerdisk.com/transcode_video/6a98b9666edf1ca379a8e0e07d95426f/dash/74a53b6a45f24c6b797bdc5a7b7f80df.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 3" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 3
+https://assets-1.mypowerdisk.com/transcode_video/462321ccbc3691f97ab4c289ca7f016f/dash/3d6582989ea99191086b6305c110a3b7.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 4" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 4
+https://assets-1.mypowerdisk.com/transcode_video/f3ad53fe3d5b79d092bf22b76c539258/dash/b81345dbb54c23f031de043c7beaa05a.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DELHI CRIME S2 EP 5" tvg-logo="" group-title="NETFLIX",DELHI CRIME S2 EP 5
+https://assets-1.mypowerdisk.com/transcode_video/321b260029110df3f2b9db7799e04686/dash/6f2741ed10a56ff6dc5d54f5f2fa9523.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HIT THE FIRST CASE 2022 HINDI" tvg-logo="" group-title="NETFLIX",HIT THE FIRST CASE 2022 HINDI
+https://assets-1.mypowerdisk.com/transcode_video/1af160318e77f2178b7e851e7e7d8cad/dash/8effe8cd51dd704101a26b1120db378b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dasvi (2022)" tvg-logo="" group-title="NETFLIX",Dasvi (2022)
+https://assets-1.mypowerdisk.com/transcode_video/f3a709cf52342c7e56ee165265071189/dash/fecf88769543131f9ec490f0dafda4a0.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JYAADUGAR (2022)" tvg-logo="" group-title="NETFLIX",JYAADUGAR (2022)
+https://assets-1.mypowerdisk.com/transcode_video/03b3b6e5f4046e78f46e27ac2fb730a3/dash/fb9262eef55b92814cb34bd63d5b8d11.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KEEP BREATHING (2022)" tvg-logo="" group-title="NETFLIX",KEEP BREATHING (2022)
+https://assets-1.entertainvideo.com/assets/media/1a6f4431d4605cb8c1536169bfdf1c00/dash/bc15136a424427a2e1b734b108e154db.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TISMAR KHAN 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",TISMAR KHAN 2022
+https://assets-1.mypowerdisk.com/transcode_video/793b9b24468cf09b61468d0a10e0afbd/dash/b4cc0c4201ae9f0f12d5593acda0b7c4.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COBRA 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",COBRA 2022
+https://assets-1.mypowerdisk.com/transcode_video/a32ade6a36e934154ba6675dfa5ecd3c/dash/d92c7028669bf5ca1ae402908170f521.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DON 2022" tvg-logo="" group-title="SOUTH INDIAN MOVIES (HINDI DOUBED)",DON 2022
+https://assets-1.entertainvideo.com/assets/media/87c6dd3c3bbfe52cc9b49490f525574c/dash/59b3a4a326ea30ede7c7edf4768186da.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 1" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 1
+https://assets-1.mypowerdisk.com/transcode_video/2198463b840c2038b0a9c3857de13512/dash/3d0a87dcb9665841a2c1f95cb90a1ad5.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="" group-title="Coffee With Karan Season (2022)",EPISODE 3
+https://assets-1.mypowerdisk.com/transcode_video/b8ad81bb74cdecb559885c2f5e37c028/h265_1080/dash/h265_1080/3fcae140bf7b24deac4bc898cc7de9ef.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 4" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 4
+https://assets-1.mypowerdisk.com/transcode_video/e9caf361e7de2d4ddec004e8c9b1a94d/dash/613e3e39b20e51300cc1c3319760360b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 5" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 5
+https://assets-1.mypowerdisk.com/transcode_video/b579383391b8f5e54c90ae9bf47a7cff/dash/548069299f1983dc6e8a47f4894adc17.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Episode 6" tvg-logo="" group-title="Coffee With Karan Season (2022)",Episode 6
+https://assets-1.entertainvideo.com/assets/media/27d7fd0caa5158dc218634b22ce692df/dash/ac2a9c9c7d916e05dae55116bf01cb6b.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TAMIPASS 3" tvg-logo="" group-title="Marathi Movies 2022",TAMIPASS 3
+https://assets-1.mypowerdisk.com/transcode_video/f2565c29f395ad63837a1a22bdda266f/dash/d15d800cfc85211920640870343caf84.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUMBAI PENE MUMBAI 2" tvg-logo="" group-title="Marathi Movies 2022",MUMBAI PENE MUMBAI 2
+https://assets-1.entertainvideo.com/assets/media/ca276b7b3568103979ec5bdb082d2604/dash/61e68c52e0a5e3ad0e442ef505b69b1c.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIMEPASS 3" tvg-logo="" group-title="Marathi Movies 2022",TIMEPASS 3
+https://assets-1.entertainvideo.com/assets/media/910b3b6ce3b18952c59212265fe6e6ba/dash/e951ae61c6a53a37fc459f69e894cd5f.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zapatlela 2" tvg-logo="" group-title="Marathi Movies 2022",Zapatlela 2
+https://assets-1.entertainvideo.com/assets/media/8f53ec063b5ec8bd6b0585b721b26dea/dash/8f53ec063b5ec8bd6b0585b721b26dea.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALI (2021)" tvg-logo="" group-title="Marathi Movies 2022",BALI (2021)
+https://assets-1.entertainvideo.com/assets/media/f7c3c752bb85216c7c6ed63b25bfb8aa/dash/ce45199145dc90d1176d3229e98877e9.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DARLING (2021)" tvg-logo="" group-title="Marathi Movies 2022",DARLING (2021)
+https://assets-1.entertainvideo.com/assets/media/621998ae721923682a4012a829157dac/dash/621998ae721923682a4012a829157dac.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAYANTI 2021" tvg-logo="" group-title="Marathi Movies 2022",JAYANTI 2021
+https://assets-1.mypowerdisk.com/transcode_video/03b3b6e5f4046e78f46e27ac2fb730a3/dash/fb9262eef55b92814cb34bd63d5b8d11.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE LOST CITY 2022" tvg-logo="" group-title="Hollywood Movies",THE LOST CITY 2022
+https://assets-1.mypowerdisk.com/transcode_video/89a08ad2dc1f1204db0275fde7fcd379/dash/076d9b8a7e5d677a673fad112cb20c25.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JURASSIC WORLD (2022) HINDI" tvg-logo="" group-title="Hollywood Movies",JURASSIC WORLD (2022) HINDI
+https://assets-1.mypowerdisk.com/transcode_video/c5a59a805161a9c9a43ecfda9f502df7/dash/de8c039459155144624a1c507a73aa8c.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ghost Rider" tvg-logo="" group-title="Hollywood Movies",Ghost Rider
+https://assets-1.entertainvideo.com/assets/media/07d72f24ddef4db4f590513715de0280/dash/07d72f24ddef4db4f590513715de0280.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WAR (2017)" tvg-logo="" group-title="Hollywood Movies",STAR WAR (2017)
+https://assets-1.entertainvideo.com/assets/media/e531c0eabeaa80fe378614d7aa1d0aa9/dash/e531c0eabeaa80fe378614d7aa1d0aa9.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Flight Crue" tvg-logo="" group-title="Hollywood Movies",The Flight Crue
+https://assets-1.mypowerdisk.com/transcode_video/9183d3ef6dfc90196dee83202efac536/dash/f1f14e4ad380dd184f5f5b74f07fa956.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wonder Woman 2022" tvg-logo="" group-title="Hollywood Movies",Wonder Woman 2022
+https://assets-1.mypowerdisk.com/transcode_video/dcd3b3c2ef670de7a13c4dbcb451f3dd/dash/dcd3b3c2ef670de7a13c4dbcb451f3dd.mpd
+#EXTINF:-1 tvg-id="SunMarathi" tvg-name="SunMarathi" tvg-logo="https://sund-images.sunnxt.com/125944/300x300_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg" group-title="SUN NEXT_BJ TECH",SunMarathi
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=125944
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SUN NEXT_BJ TECH",Sun TV HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=14020
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SUN NEXT_BJ TECH",Sun Music HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9013
+#EXTINF:-1 tvg-id="Sun News" tvg-name="Sun News" tvg-logo="https://sund-images.sunnxt.com/38926/300x300_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="SUN NEXT_BJ TECH",Sun News
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=38926
+#EXTINF:-1 tvg-id="Sun Bangla" tvg-name="Sun Bangla" tvg-logo="https://sund-images.sunnxt.com/75117/300x300_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="SUN NEXT_BJ TECH",Sun Bangla
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=75117
+#EXTINF:-1 tvg-id="Sun TV" tvg-name="Sun TV" tvg-logo="https://sund-images.sunnxt.com/9016/300x300_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SUN NEXT_BJ TECH",Sun TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9016
+#EXTINF:-1 tvg-id="Sun Life" tvg-name="Sun Life" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SUN NEXT_BJ TECH",Sun Life
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26569
+#EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="https://sund-images.sunnxt.com/9025/300x300_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="SUN NEXT_BJ TECH",Sun Music
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9025
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-name="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SUN NEXT_BJ TECH",Gemini TV HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=14019
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SUN NEXT_BJ TECH",Gemini Movies HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26570
+#EXTINF:-1 tvg-id="Gemini Music HD" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SUN NEXT_BJ TECH",Gemini Music HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26568
+#EXTINF:-1 tvg-id="Gemini Music" tvg-name="Gemini Music" tvg-logo="https://sund-images.sunnxt.com/9026/300x300_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="SUN NEXT_BJ TECH",Gemini Music
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9026
+#EXTINF:-1 tvg-id="Gemini Movies" tvg-name="Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/9015/300x300_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="SUN NEXT_BJ TECH",Gemini Movies
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9015
+#EXTINF:-1 tvg-id="Gemini Life" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SUN NEXT_BJ TECH",Gemini Life
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26572
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SUN NEXT_BJ TECH",Gemini Comedy
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9027
+#EXTINF:-1 tvg-id="Gemini TV" tvg-name="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/9017/300x300_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="SUN NEXT_BJ TECH",Gemini TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9017
+#EXTINF:-1 tvg-id="Udaya TV HD" tvg-name="Udaya TV HD" tvg-logo="https://sund-images.sunnxt.com/30846/300x300_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SUN NEXT_BJ TECH",Udaya TV HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=30846
+#EXTINF:-1 tvg-id="Udaya TV" tvg-name="Udaya TV" tvg-logo="https://sund-images.sunnxt.com/9029/300x300_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SUN NEXT_BJ TECH",Udaya TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9029
+#EXTINF:-1 tvg-id="Udaya Music" tvg-name="Udaya Music" tvg-logo="https://sund-images.sunnxt.com/9022/300x300_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SUN NEXT_BJ TECH",Udaya Music
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9022
+#EXTINF:-1 tvg-id="Udaya Movies" tvg-name="Udaya Movies" tvg-logo="https://sund-images.sunnxt.com/26576/300x300_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SUN NEXT_BJ TECH",Udaya Movies
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26576
+#EXTINF:-1 tvg-id="Udaya Comedy" tvg-name="Udaya Comedy" tvg-logo="https://sund-images.sunnxt.com/9014/300x300_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SUN NEXT_BJ TECH",Udaya Comedy
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9014
+#EXTINF:-1 tvg-id="Surya TV HD" tvg-name="Surya TV HD" tvg-logo="https://sund-images.sunnxt.com/26574/300x300_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="SUN NEXT_BJ TECH",Surya TV HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26574
+#EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" tvg-logo="https://sund-images.sunnxt.com/9018/300x300_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="SUN NEXT_BJ TECH",Surya TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9018
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-name="Surya Comedy" tvg-logo="https://sund-images.sunnxt.com/30835/300x300_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="SUN NEXT_BJ TECH",Surya Comedy
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=30835
+#EXTINF:-1 tvg-id="Surya Music" tvg-name="Surya Music" tvg-logo="https://sund-images.sunnxt.com/26575/300x300_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="SUN NEXT_BJ TECH",Surya Music
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26575
+#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/9019/300x300_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="SUN NEXT_BJ TECH",Surya Movies
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9019
+#EXTINF:-1 tvg-id="KTV HD" tvg-name="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SUN NEXT_BJ TECH",KTV HD
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26566
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="SUN NEXT_BJ TECH",KTV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=32138
+#EXTINF:-1 tvg-id="Chintu TV" tvg-name="Chintu TV" tvg-logo="https://sund-images.sunnxt.com/26577/300x300_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SUN NEXT_BJ TECH",Chintu TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26577
+#EXTINF:-1 tvg-id="Kushi TV" tvg-name="Kushi TV" tvg-logo="https://sund-images.sunnxt.com/26571/300x300_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" group-title="SUN NEXT_BJ TECH",Kushi TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26571
+#EXTINF:-1 tvg-id="Kochu TV" tvg-name="Kochu TV" tvg-logo="https://sund-images.sunnxt.com/26573/300x300_5787336f-08b9-480f-9c97-3db09999b558.jpg" group-title="SUN NEXT_BJ TECH",Kochu TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26573
+#EXTINF:-1 tvg-id="Chutti TV" tvg-name="Chutti TV" tvg-logo="https://sund-images.sunnxt.com/26567/300x300_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="SUN NEXT_BJ TECH",Chutti TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=26567
+#EXTINF:-1 tvg-id="Adithya TV" tvg-name="Adithya TV" tvg-logo="https://sund-images.sunnxt.com/9023/300x300_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="SUN NEXT_BJ TECH",Adithya TV
+http://jiotv.tech/Sun/master.m3u8?key=MRX&c=9023
+
 
 
 
@@ -10193,148 +10230,323 @@ http://techmaxlive.ml/live.php?c=Jio_Cricket_Kannada
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TataPlay Denver" tvg-logo="" group-title="###### TataPlay Denver",###### TataPlay Denver ######
 https://127.0.0.1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Flix HD
-http://223.29.231.66:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Pictures HD
-http://223.29.231.66:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And Prive HD
-http://223.29.231.66:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",And TV HD 
-http://223.29.231.66:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Animal Planet HD
-http://223.29.231.66:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",BIG MAGIC
-http://223.29.231.66:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",BINDASS
-http://223.29.231.66:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Cartoon Network
-http://223.29.231.66:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colour Cineplex HD
-http://223.29.231.66:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors HD
-http://223.29.231.66:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors Infinity HD
-http://223.29.231.66:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Colors Rishtey
-http://223.29.231.66:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery HD
-http://223.29.231.66:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Kids
-http://223.29.231.66:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Science
-http://223.29.231.66:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Discovery Turbo
-http://223.29.231.66:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Disney Junior
-http://223.29.231.66:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Disney
-http://223.29.231.66:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",EUROSPORT HD
-http://223.29.231.66:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",HISTORY TV18 HD
-http://223.29.231.66:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Hungama
-http://223.29.231.66:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",MTV
-http://223.29.231.66:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",MTV Beats
-http://223.29.231.66:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play", National Geographic HD
-http://223.29.231.66:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",NatGeo Wild HD
-http://223.29.231.66:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick
-http://223.29.231.66:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick HD+
-http://223.29.231.66:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Nick Junior
-http://223.29.231.66:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",PUNJABI Movies
-http://223.29.231.66:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",PTC chakde
-http://223.29.231.66:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Pogo 
-http://223.29.231.66:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Romedy NOW
-http://223.29.231.66:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SAB HD
-http://223.29.231.66:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SET HD 
-http://223.29.231.66:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Shemaroo TV
-http://223.29.231.66:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY BBC EARTH HD
-http://223.29.231.66:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Sonic Hindi
-http://223.29.231.66:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY MAX HD
-http://223.29.231.66:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY MAX 2 
-http://223.29.231.66:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY PAL
-http://223.29.231.66:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY PIX HD
-http://223.29.231.66:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 1 HD
-http://223.29.231.66:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 2 HD
-http://223.29.231.66:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 3 HD
-http://223.29.231.66:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",SONY TEN 4
-http://223.29.231.66:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Bharat HD
-http://223.29.231.66:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Gold Select HD
-http://223.29.231.66:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star GOLD HD 
-http://223.29.231.66:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Gold 2
-http://223.29.231.66:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",STAR MOVIES HD
-http://223.29.231.66:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Movie Select HD
-http://223.29.231.66:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Plus HD 
-http://223.29.231.66:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sport Select 1 HD
-http://223.29.231.66:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sport Select 2 HD
-http://223.29.231.66:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 1 HD
-http://223.29.231.66:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 1 Hindi HD
-http://223.29.231.66:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 2 HD
-http://223.29.231.66:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star Sports 3
-http://223.29.231.66:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Star World Premiere HD
-http://223.29.231.66:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Super Hungama
-http://223.29.231.66:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",TLC HD
-http://223.29.231.66:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",UTV ACTION
-http://223.29.231.66:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",UTV MOVIES
-http://223.29.231.66:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Voot music
-http://223.29.231.66:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE ANMOL
-http://223.29.231.66:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE BOLLYWOOD
-http://223.29.231.66:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE CINEMA HD
-http://223.29.231.66:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE Cafe HD 
-http://223.29.231.66:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE TV HD
-http://223.29.231.66:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",ZEE Anmol Cinema
-http://223.29.231.66:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tata play",Zoom 
-http://223.29.231.66:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",&PRIVE HD-Rs 19
+http://59.103.244.239:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",&flix HD-Rs 19
+http://59.103.244.239:8001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",&pictures HD -Rs 19
+http://59.103.244.239:8001/play/a018/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",24 News HD
+http://59.103.244.239:8001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",9XM
+http://59.103.244.239:8001/play/a02k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ANIMAL PLAN HD-Rs 3
+http://59.103.244.239:8001/play/a012/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ARYDigitalAsia HD
+http://59.103.244.239:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ARYMusik
+http://59.103.244.239:8001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ARYNewsAsia
+http://59.103.244.239:8001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ARYQTV
+http://59.103.244.239:8001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ARYZindagi
+http://59.103.244.239:8001/play/a01n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Al Jazeera English HD
+http://59.103.244.239:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U Hitz
+http://59.103.244.239:8001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U KADAK
+http://59.103.244.239:8001/play/a02b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U Music
+http://59.103.244.239:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U Plus
+http://59.103.244.239:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U_MOVIES_INDIA
+http://59.103.244.239:8001/play/a01z/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",B4U_MUSIC_INDIA
+http://59.103.244.239:8001/play/a020/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Big Magic
+http://59.103.244.239:8001/play/a02a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",,CARTOON- Rs 4.25
+http://59.103.244.239:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",CITY
+http://59.103.244.239:8001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",CITY
+http://59.103.244.239:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",CITY-21
+http://59.103.244.239:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",CITY-41
+http://59.103.244.239:8001/play/a02r/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",CITY-42 HD
+http://59.103.244.239:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Colors HD-Rs 19
+http://59.103.244.239:8001/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",DW English HD
+http://59.103.244.239:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Dangal 2
+http://59.103.244.239:8001/play/a026/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Dhinchaak 2
+http://59.103.244.239:8001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Digital 1
+http://59.103.244.239:8001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Digital 1
+http://59.103.244.239:8001/play/a03e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Digital 1
+http://59.103.244.239:8001/play/a03d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Discovery HD-Rs6
+http://59.103.244.239:8001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",,Disney Chan-Rs 8
+http://59.103.244.239:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",,Disney Jr.-Rs 4
+http://59.103.244.239:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",EUROSPORT HD-Rs 6
+http://59.103.244.239:8001/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",EXP ENTERTAINMENT
+http://59.103.244.239:8001/play/a03a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",EXP MUSIC
+http://59.103.244.239:8001/play/a039/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",EXP NEWS
+http://59.103.244.239:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Enter10
+http://59.103.244.239:8001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Geo News
+http://59.103.244.239:8001/play/a036/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Geo Tez
+http://59.103.244.239:8001/play/a037/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",hISTORY TV18 HD-Rs 7
+http://59.103.244.239:8001/play/a014/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",hUM NEWS HD
+http://59.103.244.239:8001/play/a032/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",hUM PASHTO-1
+http://59.103.244.239:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",hUM SITARAY
+http://59.103.244.239:8001/play/a034/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",MASALA TV
+http://59.103.244.239:8001/play/a033/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",MAX HD -Rs 17
+http://59.103.244.239:8001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",,MN+ HD-Rs 10
+http://59.103.244.239:8001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",MTV Beats
+http://59.103.244.239:8001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Manoranjan Movies
+http://59.103.244.239:8001/play/a029/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Manoranjan TV
+http://59.103.244.239:8001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Masti
+http://59.103.244.239:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Movie Plus
+http://59.103.244.239:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",NAT Geo Wild HD-Rs 5
+http://59.103.244.239:8001/play/a00c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",NHK WORLD-JPN
+http://59.103.244.239:8001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",National G HD-Rs10
+http://59.103.244.239:8001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Nick Jr.- Rs 1
+http://59.103.244.239:8001/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",PIX HD - Rs 15
+http://59.103.244.239:8001/play/a017/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",PTV-Home
+http://59.103.244.239:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",PTV-NEWS HD
+http://59.103.244.239:8001/play/a02y/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",PTV-SPORTS-HD
+http://59.103.244.239:8001/play/a030/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",PTV-Teleschool
+http://59.103.244.239:8001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Pogo - Rs 4.25
+http://59.103.244.239:8001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Popcorn Movies
+http://59.103.244.239:8001/play/a02h/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",RISHTEY CINEPLEX
+http://59.103.244.239:8001/play/a027/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ROHI TV
+http://59.103.244.239:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",SET HD - Rs 19
+http://59.103.244.239:8001/play/a01k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",SIX HD - Rs 19
+http://59.103.244.239:8001/play/a009/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",SONIC- Rs 2
+http://59.103.244.239:8001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",STAR MOV HD-Rs 19
+http://59.103.244.239:8001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",STAR WOR P HD-Rs 9
+http://59.103.244.239:8001/play/a004/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",STAR WORLD HD -Rs 9
+http://59.103.244.239:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Sony BBC EarHD-Rs 10
+http://59.103.244.239:8001/play/a016/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Sony Ten 1 HD- Rs 19
+http://59.103.244.239:8001/play/a008/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Sony Ten 2 HD- Rs 17
+http://59.103.244.239:8001/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Sony Ten 3 HD- Rs 17
+http://59.103.244.239:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Sony Wah
+http://59.103.244.239:8001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star GOLD HD -Rs 10
+http://59.103.244.239:8001/play/a013/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Gold SelHD-Rs 10
+http://59.103.244.239:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Plus HD -Rs 19
+http://59.103.244.239:8001/play/a01g/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star S Hin 1 HD- Rs 19
+http://59.103.244.239:8001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Spo 1 HD-Rs 19
+http://59.103.244.239:8001/play/a006/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Spo 2 HD- Rs 19
+http://59.103.244.239:8001/play/a007/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Sports S 1 HD-Rs 19
+http://59.103.244.239:8001/play/a019/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Sports S 2 HD-Rs 10
+http://59.103.244.239:8001/play/a01a/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Star Utsav Movies
+http://59.103.244.239:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",StarMov S HD-Rs 10
+http://59.103.244.239:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",TLC HD- Rs3
+http://59.103.244.239:8001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",TRT World HD
+http://59.103.244.239:8001/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",UK-44
+http://59.103.244.239:8001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ZEE ANMOL CINEMA
+http://59.103.244.239:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ZEE CINEMA HD-Rs 19
+http://59.103.244.239:8001/play/a011/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ZEE Cafe HD - Rs19
+http://59.103.244.239:8001/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",ZEE TV HD-Rs 19
+http://59.103.244.239:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",Zing
+http://59.103.244.239:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",colors INFIN HD-Rs 9
+http://59.103.244.239:8001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",hungama tv-Rs 6
+http://59.103.244.239:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",nick - Rs 6
+http://59.103.244.239:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY V9" tvg-name="" tvg-logo="",nick HD+- Rs 10
+http://59.103.244.239:8001/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="TATA PLAY V9",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="OWN BY @DenverIPTV",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="THIS PLAYLIST IS FREE DON'T SELL & PURCHASE",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="DISH TV MIX V4 New",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="DISH TV MIX V4 New",8X music
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Mtv Beats
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Mtv
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Music Mastii
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 group-title="DISH TV MIX V4 New",UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Zee Cinema
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DISH TV MIX V4 New",SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",ZEE TV HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="DISH TV MIX V4 New",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",ZEE CLASSIC
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="DISH TV MIX V4 New",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="DISH TV MIX V4 New",ZEE ACTION
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New", MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",pogo
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Star gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",STAR GOLD 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="DISH TV MIX V4 New",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 group-title="DISH TV MIX V4 New",ZEE CINEMA HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",UTV ACTION
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",8XM MUSIC
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="DISH TV MIX V4 New",MASTI MUSIC
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/G72r8gQ/CC-20221204-181807.png" group-title="DISH TV MIX V4 New",@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
 
 
 
