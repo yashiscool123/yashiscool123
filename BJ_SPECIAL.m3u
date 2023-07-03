@@ -694,7 +694,6 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/192069
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### LOKI" tvg-logo="" group-title="###### LOKI",###### LOKI ######
 https://127.0.0.1
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony Marathi HD 
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Max HD 
@@ -1182,7 +1181,7 @@ http://txm1.flysat.live:2089/152099290352684/152082825718580/201866
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Dish TV" tvg-logo="" group-title="###### Dish TV",###### Dish TV ######
 http://127.0.0.1
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="" group-title="JOIN OUR TELEGRAM CHANNEL @TIVIMAXX ➤",JOIN@TIVIMAXX
 THIS PLAYLIST IS FREE
 #EXTINF:0 tvg-id="CartoonNetwork.in" group-title="INDIAN KIDS ➤",IN: Cartoon Network 1
@@ -1223,7 +1222,7 @@ http://ranapk.sytes.net/live?channelId=91169&deviceMac=00:1A:79:57:EE:DF
 http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/96270
 #EXTINF:0 tvg-id="ext" group-title="INDIAN KIDS ➤", DISNEY JR.
 http://sansat.net:25461/simon/SDHhf23GFGLf34jhbcssd324fdfsfdsdddsfw3/93652
-#EXTM3U
+
 #EXTINF:0 tvg-id="Pictures.in" group-title="INDIAN MOVIES ➤", Goldmines
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=945980&extension=m3u8&play_token=KIRlgTY6ds
 #EXTINF:0 tvg-id="Pictures.in" group-title="INDIAN MOVIES ➤", & PICTURES
@@ -1417,7 +1416,7 @@ http://pakin.liveblog365.com/1/master.m3u8?id=14773
 http://pakin.liveblog365.com/1/master.m3u8?id=23984
 #EXTINF:0 tvg-id="" group-title="TIVIMAXX (PAKIN IPTV PLAYLIST) ➤",POGO
 http://pakin.liveblog365.com/1/master.m3u8?id=2766 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="VOOT",Sports18 1 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
@@ -2995,7 +2994,7 @@ https://madplay.live/jiotv/app/live/2388/null/index.m3u8
 https://madplay.live/jiotv/app/live/2423/null/index.m3u8
 #EXTINF:-1 tvg-id="750" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Entertainment -⭕ JIO",Sun Marathi
 https://madplay.live/jiotv/app/live/2424/null/index.m3u8
-#EXTM3U
+
 #EXTINF:-1group-title="Tivimaxx ➤",IN: & pictures
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/16958
 #EXTINF:-1group-title="Tivimaxx ➤",IN: & prive
@@ -3709,7 +3708,7 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Tivimaxx sony liv ➤",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8             
-#EXTM3U
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DD FREE DISH", Discovery
 http://103.121.31.251:8000/play/d-1/index.m3u8
 
@@ -6547,7 +6546,7 @@ https://assets-1.mypowerdisk.com/transcode_video/dcd3b3c2ef670de7a13c4dbcb451f3d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### DENVER" tvg-logo="" group-title="###### DENVER",###### DENVER ######
 http://127.0.0.1
 
-#EXTM3U
+
 #EXTINF:-1,Movies 4K Family
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/30718
 #EXTINF:-1,Movies 4K Blockbusters
