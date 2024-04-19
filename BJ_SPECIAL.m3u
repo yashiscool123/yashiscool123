@@ -22664,3 +22664,91 @@ http://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=2771&e=.
 http://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=2772&e=.m3u
 #EXTINF:-1 tvg-id="2773" tvg-name="Aaj Ki Khabar" tvg-type="News" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Khabar.png",Aaj Ki Khabar
 http://weekends-aimed-decade-practice.trycloudflare.com/app/live.php?id=2773&e=.m3u
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### IPL 2024" tvg-logo="" group-title="###### IPL 2024",###### IPL 2024 ######
+
+#EXTINF:-1 tvg-id="27701" tvg-name="Insiders ❤️" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg", Insiders ❤️
+https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8
+
+#EXTINF:-1 tvg-id="27711" tvg-name="Hangout 😈" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg", Hangout ❤️
+https://prod-ent-live-gm.jiocinema.com/out/v1/3533142cda074c078afc16bf1bc5c75b/master.m3u8
+
+#EXTINF:-1 tvg-id="27712" tvg-name="Hero Cam 🙄" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg", Hero Cam 🙄
+https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8
+
+#EXTINF:-1 tvg-id="27713" tvg-name="Batter Cam 🤩" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Batter Cam 🤩
+https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8
+
+#EXTINF:-1 tvg-id="27714" tvg-name="Stump Cam 😈" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Stump Cam 😈
+https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8
+
+#EXTINF:-1 tvg-id="27715" tvg-name="Bird Eye Cam 💃" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Bird Eye Cam 💃
+https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8
+
+#EXTINF:-1 tvg-id="27716" tvg-name="Split Cam 🤩" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Split Cam 🤩
+https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8
+
+#EXTINF:-1 tvg-id="27717" tvg-name="Hindi 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Hindi 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1170424/index.m3u8
+
+#EXTINF:-1 tvg-id="27718" tvg-name="English 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="English" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",English 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1170424/index.m3u8
+
+#EXTINF:-1 tvg-id="27719" tvg-name="Gujarati 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Gujarati" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Gujarati 4K
+https://prod-sports-north-cf.jiocinema.com/hls/live/2109749/uhd_akamai_atv_avc_guj_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27720" tvg-name="Bengali 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Bengali" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Bengali 4K
+http://prod-sports-north-gm.jiocinema.com/hls/live/2109773/uhd_akamai_atv_avc_ben_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27721" tvg-name="Tamil 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Tamil" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Tamil 4K
+https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27722" tvg-name="Telugu 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Telugu" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Telugu 4K
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27723" tvg-name="Malayalam 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Malayalam" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Malayalam 4K
+http://prod-sports-south-cf.jiocinema.com/hls/live/2109705/uhd_akamai_atv_avc_mal_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27724" tvg-name="Kannada 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Kannada" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Kannada 4K
+http://prod-sports-south.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27725" tvg-name="Marathi 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Marathi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Marathi 4K
+http://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27726" tvg-name="Bhojpuri 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Bhojpuri" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Bhojpuri 4K
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27727" tvg-name="Haryavaanvi 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Haryavaanvi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Haryavaanvi 4K
+http://prod-sports-south-cf.jiocinema.com/hls/live/2109699/uhd_akamai_atv_avc_odia_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27728" tvg-name="Punjabi 4K" tvg-type="Sports" group-title="IPL 2024" tvg-language="Punjabi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Punjabi 4K
+http://prod-sports-north-fa.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27729" tvg-name="Hindi" tvg-type="Sports" group-title="IPL 2024" tvg-language="Hindi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Hindi
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27730" tvg-name="English" tvg-type="Sports" group-title="IPL 2024" tvg-language="English" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",English
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27731" tvg-name="Gujarati" tvg-type="Sports" group-title="IPL 2024" tvg-language="Gujarati" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Gujarati
+http://prod-sports-north-cf.jiocinema.com/hls/live/2109750/hd_akamai_androidmob_avc_guj_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27732" tvg-name="Bengali" tvg-type="Sports" group-title="IPL 2024" tvg-language="Bengali" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Bengali
+http://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_androidmob_avc_ben_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27733" tvg-name="Tamil" tvg-type="Sports" group-title="IPL 2024" tvg-language="Tamil" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Tamil
+http://prod-sports-south.jiocinema.com/hls/live/2109712/hd_akamai_androidmob_avc_tam_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27734" tvg-name="Telugu" tvg-type="Sports" group-title="IPL 2024" tvg-language="Telugu" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Telugu
+http://prod-sports-south-fa.jiocinema.com/hls/live/2109718/hd_akamai_androidmob_avc_tel_ipl_s1_m1170424/mmaster.m3u8
+
+#EXTINF:-1 tvg-id="27735" tvg-name="Malayalam" tvg-type="Sports" group-title="IPL 2024" tvg-language="Malayalam" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Malayalam
+http://prod-sports-south-cf.jiocinema.com/hls/live/2109706/hd_akamai_androidmob_avc_mal_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27736" tvg-name="Kannada" tvg-type="Sports" group-title="IPL 2024" tvg-language="Kannada" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Kannada
+http://prod-sports-south.jiocinema.com/hls/live/2109724/hd_akamai_androidmob_avc_kan_ipl_s1_m1170424/master.m3u8
+
+#EXTINF:-1 tvg-id="27737" tvg-name="Marathi" tvg-type="Sports" group-title="IPL 2024" tvg-language="Marathi" tvg-logo="https://substack-post-media.s3.amazonaws.com/public/images/f5e1e25a-ff00-4345-bb91-4c235617154b_1200x609.jpeg",Marathi
+http://prod-sports-north-cf.jiocinema.com/hls/live/2109768/hd_akamai_androidmob_avc_mar_ipl_s1_m1170424/master.m3u8
