@@ -32,6 +32,7 @@ EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
+
 #EXTINF:-1 tvg-id="0001" tvg-name="###### Dhoom " tvg-logo="" group-title="###### Dhoom",###### Dhoom ##
 http://127.0.0.1
 
@@ -26570,7 +26571,7 @@ https://livea.streamready.in/airtelentertainmenthome2/smil:common.smil/manifest.
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### TATA PLAY UNIVERSAL" tvg-logo="" group-title="###### TATA PLAY UNIVERSAL",###### TATA PLAY UNIVERSAL ######
+#EXTINF:-1 tvg-id="00010" tvg-name="###### TATA PLAY UNIVERSAL" tvg-logo="" group-title="###### TATA PLAY UNIVERSAL",###### TATA PLAY UNIVERSAL ######
 
 
 #EXTINF:-1 tvg-id="ts1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="News",INDIA TODAY
