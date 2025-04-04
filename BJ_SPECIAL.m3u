@@ -12803,8 +12803,22 @@ https://play.denver1769.in/J/Jtv7.mpd?id=3073
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Denver Opplex" tvg-logo="" group-title="###### Denver Opplex",###### Denver Opplex ######
 
-#EXTINF:-1 tvg-id="" tvg-name="Denver" tvg-logo="https://cdn.bio.link/uploads/profile_pictures/2024-05-01/4IHrznAeaWGXHdOZni5qKeUxWepY68Id.png" group-title="Opplex",Denver1769
-https://denverisalive.github.io/Intro/Denver.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IPL 25 HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2025)",IPL 25 HINDI
+#EXTVLCOPT:http-user-agent=Denver1769
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IPL 25 ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2025)",IPL 25 ENGLISH
+#EXTVLCOPT:http-user-agent=Denver1769
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IPL 25 GUJARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2025)",IPL 25 GUJARAT
+#EXTVLCOPT:http-user-agent=Denver1769
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IPL 25 MARATHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2025)",IPL 25 MARATHI
+#EXTVLCOPT:http-user-agent=Denver1769
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_MAR_IDC_MOB/Fallback/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SERVER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 1
 #EXTVLCOPT:http-user-agent=Denver1769
