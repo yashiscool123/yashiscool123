@@ -16415,6 +16415,107 @@ https://play.denver1769.in/J/Jtv7.mpd?id=3073
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### Denver Opplex" tvg-logo="" group-title="###### Denver Opplex",###### Denver Opplex ######
 
+#EXTINF:-1 tvg-id="" tvg-name=" CRICKET 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS", CRICKET 01
+http://filex.tv:8080/live/Home329/Sohailhome/141872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 02
+http://filex.tv:8080/live/Home329/Sohailhome/191878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 03" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 03
+http://filex.tv:8080/live/Home329/Sohailhome/178637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 04" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 04
+http://filex.tv:8080/live/Home329/Sohailhome/191879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 05
+http://filex.tv:8080/live/Home329/Sohailhome/141723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 06" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 06
+http://filex.tv:8080/live/Home329/Sohailhome/191819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 07" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png" group-title="YS_SPORTS",CRICKET 07
+http://filex.tv:8080/live/Home329/Sohailhome/500839.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI FHD" tvg-logo="" group-title="YS_SPORTS",IN | STAR SPORTS 1 HINDI FHD
+http://filex.tv:8080/live/Home329/Sohailhome/500837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 5 FHD" tvg-logo="" group-title="YS_SPORTS",IN | STAR SPORTS 5 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/500838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY SPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="YS_SPORTS",IN | SONY SPORTS 1 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="YS_SPORTS",SONY SPORTS 2 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="YS_SPORTS",SONY SPORTS 3 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS 1 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS 2 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS SELECT 1 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS SELECT 2 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 18 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" group-title="YS_SPORTS",SPORTS 18 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEO SUPER FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="YS_SPORTS",GEO SUPER FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="YS_SPORTS",A SPORTS FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAST SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="YS_SPORTS",FAST SPORTS HD
+http://filex.tv:8080/live/Home329/Sohailhome/247169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="YS_SPORTS",PTV SPORTS FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="YS_SPORTS",TEN SPORTS FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="YS_SPORTS",SONY SPORTS 5 FHD
+http://filex.tv:8080/live/Home329/Sohailhome/247158.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS CRICKET FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGblnHUtV4s3-_Xsa4X3AUO3pKnjfoFoZRxA&usqp=CAU" group-title="YS_SPORTS",NZ | SKY SPORTS CRICKET FHD
+http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="YS_SPORTS",PK | ARY SPORTS HD
+http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AF | SUPER SPORTS CRICKET " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="YS_SPORTS",AF | SUPER SPORTS CRICKET 
+http://filex.tv:8080/live/Home329/Sohailhome/53044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" group-title="YS_SPORTS",IN | 18 SPORTS HD
+http://filex.tv:8080/live/Home329/Sohailhome/52077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="YS_SPORTS",PK | GEO SUPER HD
+http://filex.tv:8080/live/Home329/Sohailhome/52080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="YS_SPORTS",IN | SONY TEN 1 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="YS_SPORTS",IN | SONY TEN 2 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="YS_SPORTS",IN | SONY TEN 3 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS 1 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="YS_SPORTS",IN | STAR SPORTS 2 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="YS_SPORTS",IN | STAR SPORTS SELECT 1 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="YS_SPORTS",IN | STAR SPORTS SELECT 2 HD
+http://filex.tv:8080/live/Home329/Sohailhome/52100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | TEN SPORTS HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="YS_SPORTS",IN | TEN SPORTS HD
+http://filex.tv:8080/live/Home329/Sohailhome/52106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS SD." tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="YS_SPORTS",PK | ARY SPORTS SD.
+http://filex.tv:8080/live/Home329/Sohailhome/62393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI HD " tvg-logo="" group-title="YS_SPORTS",IN | STAR SPORTS 1 HINDI HD 
+http://filex.tv:8080/live/Home329/Sohailhome/90342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="YS_SPORTS",PK | PTV SPORTS SD
+http://filex.tv:8080/live/Home329/Sohailhome/250211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | FAST SPORTS " tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="YS_SPORTS",IN | FAST SPORTS 
+http://filex.tv:8080/live/Home329/Sohailhome/277207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | EURO SPORTS" tvg-logo="https://filex.vip:443/images/_HmHo_P7L3IdYO67j5S70HslD6BC0k2Qu3MvF_Z5NnMpGtOkRH9y6nHeUNQPJ4hBYp97V9EwNXSBxlnUbmxOiw.png" group-title="YS_SPORTS",IN | EURO SPORTS
+http://filex.tv:8080/live/Home329/Sohailhome/297577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS HD" tvg-logo="" group-title="YS_SPORTS",PK | PTV SPORTS HD
+http://filex.tv:8080/live/Home329/Sohailhome/453434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="YS_SPORTS",IN | SONY TEN 5 HD
+http://filex.tv:8080/live/Home329/Sohailhome/453435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU | FOX CRICKET 501" tvg-logo="" group-title="YS_SPORTS",AU | FOX CRICKET 501
+http://filex.tv:8080/live/Home329/Sohailhome/247166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | ASTRO CRICKET" tvg-logo="" group-title="YS_SPORTS",IN | ASTRO CRICKET
+http://filex.tv:8080/live/Home329/Sohailhome/451415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD | T SPORTS" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="YS_SPORTS",BD | T SPORTS
+http://filex.tv:8080/live/Home329/Sohailhome/111409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW CRICKET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="YS_SPORTS",IN | WILLOW CRICKET HD
+http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD SPORTS" tvg-logo="" group-title="YS_SPORTS",IN | DD SPORTS
+http://filex.tv:8080/live/Home329/Sohailhome/479719.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="IPL 25 HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2025)",IPL 25 HINDI
 #EXTVLCOPT:http-user-agent=Denver1769
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
@@ -16431,34 +16532,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/i
 #EXTVLCOPT:http-user-agent=Denver1769
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_MAR_IDC_MOB/Fallback/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 1
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220059
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 2
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220060
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 3
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220061
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 4
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220062
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 5
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220063
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 6
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220064
-
-#EXTINF:-1 tvg-id="" tvg-name="SERVER 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png" group-title="IPL (2024)",SERVER 7
-#EXTVLCOPT:http-user-agent=Denver1769
-http://port.denver1769.in/oplx3.php?id=220065
 
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="4K ULTRA HD",Colors (4K)
 #EXTVLCOPT:http-user-agent=Denver1769
