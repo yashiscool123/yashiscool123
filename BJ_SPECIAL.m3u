@@ -30,137 +30,498 @@ EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
-#EXTINF:-1 tvg-id="0002" tvg-name="###### JioHotstar " tvg-logo="" group-title="###### JioHotstar",###### JioHotstar ##
-https://m3u.ch/adZr0Px.m3u
+#EXTINF:-1 tvg-id="0002" tvg-name="###### JioHotstar " tvg-logo="" group-title="###### Lorde.org",###### Lorde.org ##
+https://#
 
-#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3694429&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: & flix
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266646
+#EXTINF:0 tvg-id="Pictures.in" group-title="YS_INDIA VIP",IN: & pictures
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266647
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: & prive
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266648
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: & TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266649
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="YS_INDIA VIP",IN: 9X Jalwa
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266653
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="YS_INDIA VIP",IN: 9X Jhakaas
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266654
+#EXTINF:0 tvg-id="9XTashan.in" group-title="YS_INDIA VIP",IN: 9X Tashan
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266655
+#EXTINF:0 tvg-id="9XM.in" group-title="YS_INDIA VIP",IN: 9XM
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266656
+#EXTINF:0 tvg-id="AajTak.in" group-title="YS_INDIA VIP",IN: Aaj Tak
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266658
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Aastha Kannada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266659
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ABN Telugu
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266661
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ABP Ananda
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266662
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ABP News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266663
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Akaal Channel
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266665
+#EXTINF:0 tvg-id="AmritaTv.in" group-title="YS_INDIA VIP",IN: Amrita TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266666
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ANIMAL PLANET (TATA PLAY)
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266668
+#EXTINF:0 tvg-id="Asianet.in" group-title="YS_INDIA VIP",IN: Asianet
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266669
+#EXTINF:0 tvg-id="AsianetMovies.in" group-title="YS_INDIA VIP",IN: Asianet Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266670
+#EXTINF:0 tvg-id="AsianetNews.in" group-title="YS_INDIA VIP",IN: Asianet News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266671
+#EXTINF:0 tvg-id="AsianetPlus.in" group-title="YS_INDIA VIP",IN: Asianet Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266673
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Asianet Suvarna News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266674
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Ayush TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266675
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: B4U Bhojpuri
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266676
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: B4U Kadak
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266677
+#EXTINF:0 tvg-id="B4UMovies.in" group-title="YS_INDIA VIP",IN: B4U Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266678
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="YS_INDIA VIP",IN: B4U Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266679
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: B4U Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266680
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Balle Balle
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266681
+#EXTINF:0 tvg-id="BansalNews.in" group-title="YS_INDIA VIP",IN: Bansal News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266682
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: BBC Toronto
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266683
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Bhojpuri Cinema
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266684
+#EXTINF:0 tvg-id="BigMagic.in" group-title="YS_INDIA VIP",IN: Big Magic
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266685
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Blessing TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266686
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Bollywood CLASSIC
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266687
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Bollywood Prime
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266688
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Brit Asia TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266690
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Channel i
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266694
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Channel WIN
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266695
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Channel Y
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266696
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Cine Voice
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266698
+#EXTINF:0 tvg-id="CNBCAWAAZ.in" group-title="YS_INDIA VIP",IN: CNBC Awaaz
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266699
+#EXTINF:0 tvg-id="CNBCBajar.in" group-title="YS_INDIA VIP",IN: CNBC Bajar
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266700
+#EXTINF:0 tvg-id="Colors.in" group-title="YS_INDIA VIP",IN: Colors
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266701
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Bangla
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266702
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Cineplex
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266703
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Cineplex Bollywood
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266704
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Cineplex SuperHits
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266705
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Gujarati
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266706
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="YS_INDIA VIP",IN: Colors Infinity
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266707
+#EXTINF:0 tvg-id="EtvKannada.in" group-title="YS_INDIA VIP",IN: Colors Kannada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266708
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Colors Rishtey
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266710
+#EXTINF:0 tvg-id="ColorsSuper.in" group-title="YS_INDIA VIP",IN: Colors Super
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266711
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: CVR News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266712
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Dabangg
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266713
+#EXTINF:0 tvg-id="DDBharati.in" group-title="YS_INDIA VIP",IN: DD Bharati
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266714
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: DD Malayalam
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266717
+#EXTINF:0 tvg-id="DDNational.in" group-title="YS_INDIA VIP",IN: DD National
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266718
+#EXTINF:0 tvg-id="DDNews.in" group-title="YS_INDIA VIP",IN: DD News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266719
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: DD Punjabi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266721
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Desi Channel
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266723
+#EXTINF:0 tvg-id="DhamaalTV.in" group-title="YS_INDIA VIP",IN: Dhamaal
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266724
+#EXTINF:0 tvg-id="DhoomMusic.in" group-title="YS_INDIA VIP",IN: Dhoom Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266725
+#EXTINF:0 tvg-id="DiscoveryKids.in" group-title="YS_INDIA VIP",IN: Discovery Kids
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266727
+#EXTINF:0 tvg-id="DiscoveryScience.in" group-title="YS_INDIA VIP",IN: Discovery Science
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266728
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Discovery World
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266729
+#EXTINF:0 tvg-id="E24.in" group-title="YS_INDIA VIP",IN: E 24
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266731
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Eet TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266732
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Enterr 10
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266734
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ET Now
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266735
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ETV Life
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266737
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ETV Network
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266738
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ETV Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266739
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ETV Telugu
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266741
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Fateh TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266742
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Filamchi Bhojpuri
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266743
+#EXTINF:0 tvg-id="FoodFood.in" group-title="YS_INDIA VIP",IN: Food Food
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266745
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: GDNS Ludhiana
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266747
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Gemini
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266748
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Gemini Comedy
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266749
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="YS_INDIA VIP",IN: Gemini Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266750
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Good News Today
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266751
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: GS TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266753
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Harvest TV 24x7
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266754
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: High News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266756
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: History
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266757
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: HMTV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266758
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Hulchul TV Canada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266759
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: IBC 24
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266760
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: India News Rajasthan
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266763
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: India News Uttar Pradesh
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266764
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: India Today
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266765
+#EXTINF:0 tvg-id="IndiaTV.in" group-title="YS_INDIA VIP",IN: India TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266766
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Ion TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266768
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: J Movie
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266769
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Jaihind TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266770
+#EXTINF:0 tvg-id="JayaMax.in" group-title="YS_INDIA VIP",IN: Jaya Max
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266773
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="YS_INDIA VIP",IN: Jaya Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266774
+#EXTINF:0 tvg-id="JayaTv.in" group-title="YS_INDIA VIP",IN: Jaya TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266775
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: jhanjar music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266777
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: K News India
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266778
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Kairali We
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266780
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Kalaignar Murasu TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266781
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Kanshi TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266782
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Kaumudy TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266784
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Kerala Vision
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266785
+#EXTINF:0 tvg-id="KTV.in" group-title="YS_INDIA VIP",IN: KTV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266787
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Lok Sabha TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266788
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Madha TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266789
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Makkal TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266791
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Manoranjan Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266792
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Manoranjan TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266793
+#EXTINF:0 tvg-id="Mastiii.in" group-title="YS_INDIA VIP",IN: Mastiii
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266794
+#EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="YS_INDIA VIP",IN: Mathrubhumi News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266795
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="YS_INDIA VIP",IN: Mazhavil Manorama
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266796
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Media One
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266797
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Mh 1 Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266798
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Moon TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266799
+#EXTINF:0 tvg-id="MoviesNow.in" group-title="YS_INDIA VIP",IN: Movies Now
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266800
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="YS_INDIA VIP",IN: Music India
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266803
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Namdhari TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266805
+#EXTINF:0 tvg-id="NDTV24X7.in" group-title="YS_INDIA VIP",IN: NDTV 24X7
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266806
+#EXTINF:0 tvg-id="NDTVIndia.in" group-title="YS_INDIA VIP",IN: NDTV India
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266807
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 7 Tamil
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266808
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Bengali
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266809
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Gujarati
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266810
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Kannada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266811
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Lokmat
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266813
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Punjab
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266814
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Tamil
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266815
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: News 18 Uttar Pradesh & Uttarakhand
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266816
+#EXTINF:0 tvg-id="News24.in" group-title="YS_INDIA VIP",IN: News 24
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266818
+#EXTINF:0 tvg-id="Nickelodeon.in" group-title="YS_INDIA VIP",IN: Nickelodeon
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266820
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: NRB TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266821
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: NTV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266822
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Param Satta
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266824
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Pitaara
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266826
+#EXTINF:0 tvg-id="POGO.in" group-title="YS_INDIA VIP",IN: Pogo
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266827
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="YS_INDIA VIP",IN: Polimer TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266829
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Pravasi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266830
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="YS_INDIA VIP",IN: PTC Chakde
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266831
+#EXTINF:0 tvg-id="PTCNews.in" group-title="YS_INDIA VIP",IN: PTC News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266832
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: PTC Punjabi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266833
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: PTC Punjabi Gold
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266834
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Puthiya Thalaimurai
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266838
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="YS_INDIA VIP",IN: Raj Digital Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266839
+#EXTINF:0 tvg-id="RajTv.in" group-title="YS_INDIA VIP",IN: Raj TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266842
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Real News Kerala
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266843
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Reporter
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266845
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Republic TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266846
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="YS_INDIA VIP",IN: Romedy Now
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266847
+#EXTINF:0 tvg-id="RuposhiBangla.in" group-title="YS_INDIA VIP",IN: Ruposhi Bangla
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266848
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sada TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266849
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sadhna Plus News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266850
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sadhna TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266851
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Safari
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266852
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sakshi TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266854
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sangat TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266856
+#EXTINF:0 tvg-id="SangeetBangla.in" group-title="YS_INDIA VIP",IN: Sangeet Bangla
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266857
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sankara TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266858
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sankhya TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266859
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sanskar TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266860
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sardari TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266862
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sarv Dharam Sangam
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266863
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Satsang TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266864
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Shemaroo TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266865
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Shubhsandesh TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266866
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sikh Channel
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266867
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sikh Spiritual Centre
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266868
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sivan TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266869
+#EXTINF:0 tvg-id="Sonic.in" group-title="YS_INDIA VIP",IN: Sonic Nickelodeon
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266870
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony (Set India)
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266871
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony Aath
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266872
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony BBC Earth
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266873
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="YS_INDIA VIP",IN: Sony Max
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266875
+#EXTINF:0 tvg-id="SonyMax2.in" group-title="YS_INDIA VIP",IN: Sony Max 2
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266876
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="YS_INDIA VIP",IN: Sony Pix
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266878
+#EXTINF:0 tvg-id="SonySAB.in" group-title="YS_INDIA VIP",IN: Sony SAB
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266879
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony Sports Ten 1 (Sony Ten 1)
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266880
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony Sports Ten 3 (Sony Ten 3)
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266882
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony TV Asia
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266883
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sony Wah
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266884
+#EXTINF:0 tvg-id="LifeOk.in" group-title="YS_INDIA VIP",IN: Star Bharat
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266887
+#EXTINF:0 tvg-id="StarGold.in" group-title="YS_INDIA VIP",IN: Star Gold
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266888
+#EXTINF:0 tvg-id="StarJalsha.in" group-title="YS_INDIA VIP",IN: Star Jalsha
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266891
+#EXTINF:0 tvg-id="MaaMovies.in" group-title="YS_INDIA VIP",IN: Star Maa Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266892
+#EXTINF:0 tvg-id="StarMovies.in" group-title="YS_INDIA VIP",IN: Star Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266893
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Star Movies Select
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266894
+#EXTINF:0 tvg-id="StarPlus.in" group-title="YS_INDIA VIP",IN: Star Plus
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266895
+#EXTINF:0 tvg-id="StarPravah.in" group-title="YS_INDIA VIP",IN: Star Pravah
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266896
+#EXTINF:0 tvg-id="StarSports1.in" group-title="YS_INDIA VIP",IN: Star Sports 1
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266897
+#EXTINF:0 tvg-id="StarSports2.in" group-title="YS_INDIA VIP",IN: Star Sports 2
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266898
+#EXTINF:0 tvg-id="StarSports3.in" group-title="YS_INDIA VIP",IN: Star Sports 3
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266899
+#EXTINF:0 tvg-id="StarSportsSelect1.in" group-title="YS_INDIA VIP",IN: Star Sports Select 1
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266900
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Star Suvarna
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266902
+#EXTINF:0 tvg-id="StarUtsav.in" group-title="YS_INDIA VIP",IN: Star Utsav
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266903
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Star Utsav Movies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266904
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Steelbird Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266906
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Subhavaartha TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266907
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Sun Life
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266908
+#EXTINF:0 tvg-id="SunMusic.in" group-title="YS_INDIA VIP",IN: Sun Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266909
+#EXTINF:0 tvg-id="SunTv.in" group-title="YS_INDIA VIP",IN: Sun TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266911
+#EXTINF:0 tvg-id="SuryaTv.in" group-title="YS_INDIA VIP",IN: Surya
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266912
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Surya Comedy
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266913
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Surya Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266915
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: SVBC
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266916
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Tamil Vision
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266918
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Thanthi TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266920
+#EXTINF:0 tvg-id="TimesNow.in" group-title="YS_INDIA VIP",IN: Times Now
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266921
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Travelxp
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266922
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: TV 9 Gujarati
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266925
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: TV 9 Kannada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266926
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: TV 9 Marathi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266927
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: TV 9 Telugu
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266928
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Utsav Gold
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266930
+#EXTINF:0 tvg-id="V6News.in" group-title="YS_INDIA VIP",IN: V6 News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266932
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Verbum TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266934
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Vision Punjab Music
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266936
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: We
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266939
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Willow
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266940
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Wow Cinema One
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266941
+#EXTINF:0 tvg-id="Zee24Ghanta.in" group-title="YS_INDIA VIP",IN: Zee 24 Ghanta
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266942
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee 24 Kalak
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266943
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="YS_INDIA VIP",IN: Zee Action
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266944
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Aflam
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266945
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Anmol Cinema
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266947
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="YS_INDIA VIP",IN: Zee Bangla
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266948
+#EXTINF:0 tvg-id="ZeeBusiness.in" group-title="YS_INDIA VIP",IN: Zee Business
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266952
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Cinema Asia
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266954
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="YS_INDIA VIP",IN: Zee Classic
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266955
+#EXTINF:0 tvg-id="ZeeKannada.in" group-title="YS_INDIA VIP",IN: Zee Kannada
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266956
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Magic
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266958
+#EXTINF:0 tvg-id="ZeeMarathi.in" group-title="YS_INDIA VIP",IN: Zee Marathi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266959
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Music Co
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266960
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="YS_INDIA VIP",IN: Zee News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266961
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Picchar
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266962
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Punjabi
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266964
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: ZEE Rajasthan News
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266965
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Salaam
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266966
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="YS_INDIA VIP",IN: Zee Talkies
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266967
+#EXTINF:0 tvg-id="ext" group-title="YS_INDIA VIP",IN: Zee Tamil
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266968
+#EXTINF:0 tvg-id="ZeeTelugu.in" group-title="YS_INDIA VIP",IN: Zee Telugu
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266969
+#EXTINF:0 tvg-id="ZEETV.in" group-title="YS_INDIA VIP",IN: Zee TV
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266970
+#EXTINF:0 tvg-id="Zing.in" group-title="YS_INDIA VIP",IN: Zing
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266972
+#EXTINF:0 tvg-id="Zoom.in" group-title="YS_INDIA VIP",IN: Zoom
+http://lorde.org:80/miguelcerdeira/Y92BhhQHke/266973
 
-#EXTINF:-1 tvg-id="3774156" tvg-name="Colors Kannada HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Kannada HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774156&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774154" tvg-name="Colors Marathi HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Marathi HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774154&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774158" tvg-name="Colors Bangla HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Bangla HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774158&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774144" tvg-name="Colors Gujarati" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Gujarati
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774144&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774146" tvg-name="Colors Tamil HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Tamil HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774146&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774157" tvg-name="Colors Super" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Super
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774157&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774148" tvg-name="Colors Odia" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Odia
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774148&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3694635" tvg-name="Colors Rishtey" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Rishtey
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3694635&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Music", MTV HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774151&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774153" tvg-name="MTV Beats HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Music", MTV Beats HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774153&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774150" tvg-name="Colors Infinity HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Colors Infinity HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774150&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774152" tvg-name="Comedy Central HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Entertainment", Comedy Central HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774152&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774155" tvg-name="Colors Cineplex HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Movies", Colors Cineplex HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774155&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3845693" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Movies", Colors Cineplex Bollywood
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3845693&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479683" tvg-name="Colors Cineplex Superhits" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Movies", Colors Cineplex Superhits
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479683&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3953979" tvg-name="Colors Kannada Cinema" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Movies", Colors Kannada Cinema
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3953979&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774149" tvg-name="Nickelodeon Sonic" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Kids", Nickelodeon Sonic
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774149&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3989195" tvg-name="Nick" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Kids", Nick
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3989195&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774147" tvg-name="Nickelodeon HD Plus" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Kids", Nickelodeon HD Plus
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774147&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3774142" tvg-name="Nick Jr." tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Kids", Nick Jr.
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3774142&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479312" tvg-name="News18 India" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 India
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479312&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479311" tvg-name="CNN News18" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", CNN News18
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479311&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479925" tvg-name="News18 Kannada" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Kannada
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479925&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479700" tvg-name="CNBC TV18" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Business", CNBC TV18
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479700&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479701" tvg-name="CNBC Awaaz" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Business", CNBC Awaaz
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479701&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479702" tvg-name="CNBC Bajar" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Business", CNBC Bajar
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479702&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479685" tvg-name="News18 Lokmat" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Lokmat
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479685&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479699" tvg-name="News18 Gujarati" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Gujarati
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479699&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479927" tvg-name="News18 Tamil" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Tamil
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479927&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479686" tvg-name="News18 Bangla" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Bangla
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479686&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479926" tvg-name="News18 Odia" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Odia
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479926&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479930" tvg-name="News18 Assam North East" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Assam North East
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479930&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479304" tvg-name="News18 Punjab Haryana" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Punjab Haryana
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479304&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479316" tvg-name="News18 Urdu JKLH" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Urdu JKLH
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479316&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479320" tvg-name="News18 Uttar Pradesh Uttarakhand" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Uttar Pradesh Uttarakhand
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479320&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479321" tvg-name="News18 Bihar Jharkhand" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Bihar Jharkhand
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479321&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479570" tvg-name="News18 Rajasthan" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Rajasthan
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479570&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3479929" tvg-name="News18 Kerala" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="News", News18 Kerala
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3479929&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3000001" tvg-name="Sports18 1 HD" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Sports", Sports18 1 HD
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3000001&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3000002" tvg-name="Sports18 Khel" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Sports", Sports18 Khel
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3000002&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3000003" tvg-name="Jiocinema Cricket" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Sports", Jiocinema Cricket
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3000003&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
-
-#EXTINF:-1 tvg-id="3000004" tvg-name="Jiocinema Sports" tvg-logo="https://its-ferdos-alom.top/Jiohotstar/img/fav.png" group-title="Sports", Jiocinema Sports
-https://its-ferdos-alom.top/Jiohotstar/live.php?ferdos=3000004&e=.m3u8|referer=https://its-ferdos-alom.top/Jiohotstar/
 
 
 
