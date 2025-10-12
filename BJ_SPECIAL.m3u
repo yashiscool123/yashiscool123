@@ -1,4 +1,11 @@
 ﻿#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+
+#EXTM3U  x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
 #EXTINF:-1  tvg-name="###### fusion4k" tvg-id="(no tvg-id)" group-title="###### fusion4k",###### fusion4k ######
 https://lucky-boat-55d7.aayushmansinghrajpurohit95.workers.dev/playlist.m3u8
 #EXTINF:-1  tvg-name="###### RAHUL OTT" tvg-id="(no tvg-id)" group-title="###### RAHUL OTT",###### RAHUL OTT ######
@@ -23119,3 +23126,313 @@ https://dark-night-0863.aayushmansinghrajpurohit95.workers.dev/481196.m3u8
 https://dark-night-0863.aayushmansinghrajpurohit95.workers.dev/481197.m3u8
 #EXTINF:-1  tvg-name="BIGG BOSS TELUGU WEST" tvg-id="Default" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/77555.png" group-title="TELUGU | TV",BIGG BOSS TELUGU WEST
 https://dark-night-0863.aayushmansinghrajpurohit95.workers.dev/481198.m3u8
+
+
+
+#EXTINF:-1  tvg-name="###### AIRTEL" tvg-id="(no tvg-id)" group-title="###### AIRTEL",###### AIRTEL ######
+https://raw.githubusercontent.com/yashiscool123/m3u/refs/heads/main/artl.m3u
+
+#EXTINF:-1 group-title="Airtel",&flix HD - Rs 19.00
+http://103.182.170.32:8888/play/a02a
+#EXTINF:-1 group-title="Airtel",&tv - Rs 6.00
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 group-title="Airtel",Animal Planet - Rs 2.00
+http://103.182.170.32:8888/play/a049
+#EXTINF:-1 group-title="Airtel",BBC News - Rs 1.50
+http://103.182.170.32:8888/play/a04k
+#EXTINF:-1 group-title="Airtel",Cartoon Network - Rs 4.75
+http://103.182.170.32:8888/play/a04o
+#EXTINF:-1 group-title="Airtel",Cartoon Network HD+ - Rs 6.00
+http://103.182.170.32:8888/play/a035
+#EXTINF:-1 group-title="Airtel",Colors Bangla Cinema - Rs 5.00
+http://103.182.170.32:8888/play/a04a
+#EXTINF:-1 group-title="Airtel",Colors Cineplex Bollywood - Rs 0.10
+http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 group-title="Airtel",Colors Cineplex HD - Rs 19.00
+http://103.182.170.32:8888/play/a04i
+#EXTINF:-1 group-title="Airtel",Colors HD - Rs 19.00
+http://103.182.170.32:8888/play/a041
+#EXTINF:-1 group-title="Airtel",Discovery Kids - Rs 3.50
+http://103.182.170.32:8888/play/a02o
+#EXTINF:-1 group-title="Airtel",Disney Channel - Rs 10.00
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 group-title="Airtel",Disney International HD - Rs 19.00
+http://103.182.170.32:8888/play/a01y
+#EXTINF:-1 group-title="Airtel",Disney Junior - Rs 4.00
+http://103.182.170.32:8888/play/a03q
+#EXTINF:-1 group-title="Airtel",ETV Bal Bharat - Rs 4.00
+http://103.182.170.32:8888/play/a022
+#EXTINF:-1 group-title="Airtel",Hungama - Rs 2.00
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1 group-title="Airtel",MTV HD - Rs 2.00
+http://103.182.170.32:8888/play/a025
+#EXTINF:-1 group-title="Airtel",Movies Now HD - Rs 14.00
+http://103.182.170.32:8888/play/a01n
+#EXTINF:-1 group-title="Airtel",Nat Geo Wild HD - Rs 8.00
+http://103.182.170.32:8888/play/a01r
+#EXTINF:-1 group-title="Airtel",Nick  - Rs 6.00
+http://103.182.170.32:8888/play/a04q
+#EXTINF:-1 group-title="Airtel",Nick Jr. - Rs 1.00
+http://103.182.170.32:8888/play/a02q
+#EXTINF:-1 group-title="Airtel",Pogo - Rs 4.75
+http://103.182.170.32:8888/play/a02p
+#EXTINF:-1 group-title="Airtel",SET HD - Rs 19.00
+http://103.182.170.32:8888/play/a03t
+#EXTINF:-1 group-title="Airtel",SONY  TEN 3 HD - Rs 19.00
+http://103.182.170.32:8888/play/a03a
+#EXTINF:-1 group-title="Airtel",SONY  TEN 5 HD - Rs 19.00
+http://103.182.170.32:8888/play/a034
+#EXTINF:-1 group-title="Airtel",SONY MAX 2 - Rs 1.00
+http://103.182.170.32:8888/play/a02l
+#EXTINF:-1 group-title="Airtel",SONY MAX HD - Rs 19.00
+http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 group-title="Airtel",SONY PIX HD - Rs 19.00
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="Airtel",SONY SAB - Rs 19.00
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 1 - Rs 19.00
+http://103.182.170.32:8888/play/a04j
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+#EXTINF:-1 group-title="Airtel",SONY TEN 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="Airtel",SONY YAY! - Rs 4.00
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="Airtel",STAR GOLD HD - Rs 19.00
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="Airtel",STAR Movies HD - Rs 19.00
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="Airtel",STAR Movies Select HD - Rs 19.00
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="Airtel",STAR PLUS - Rs 19.00
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="Airtel",STAR Plus HD - Rs 22.00
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="Airtel",Sonic - Rs 1.00
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="Airtel",Sony Sports Ten 4 HD - Rs 19.00
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Airtel",Sports 18 - 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="Airtel",Sports 18 3 - Rs 4.00
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="Airtel",Star Bharat - Rs 12.00
+http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 group-title="Airtel",Star Bharat HD - Rs 19.00
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="Airtel",Star Gold 2 - Rs 3.00
+http://103.182.170.32:8888/play/a02k
+#EXTINF:-1 group-title="Airtel",Star Gold 2 HD - Rs 5.00
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="Airtel",Star Jalsha HD - Rs 19.00
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="Airtel",Star Life HD - Rs 2.00
+http://103.182.170.32:8888/play/a020
+#EXTINF:-1 group-title="Airtel",Star Pravah HD - Rs 19.00
+http://103.182.170.32:8888/play/a04n
+#EXTINF:-1 group-title="Airtel",Star Sports 1 - Rs 19.00
+http://103.182.170.32:8888/play/a03b
+#EXTINF:-1 group-title="Airtel",Star Sports 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi - Rs 19.00
+http://103.182.170.32:8888/play/a02m
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi HD - Rs 19.00
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Airtel",Star Sports 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="Airtel",Star Sports Select 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="Airtel",Star Sports Select 2 HD - Rs 15.00
+http://103.182.170.32:8888/play/a047
+#EXTINF:-1 group-title="Airtel",Sun Bangla - Free
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="Airtel",Sun Life - Rs 9.00
+http://103.182.170.32:8888/play/a03f
+#EXTINF:-1 group-title="Airtel",TEN 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="Airtel",TLC HD - Rs 3.00
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="Airtel",Travelxp HD - Rs 9.00
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="Airtel",Zee Bangla Cinema - Rs 10.00
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 group-title="Airtel",Zee Bangla HD - Rs 19.00
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="Airtel",Zee Bollywood - Rs 3.00
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="Airtel",Zee Cafe HD - Rs 10.00
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="Airtel",Zee Classic - Rs 0.10
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="Airtel",Zee TV - Rs 19.00
+http://103.182.170.32:8888/play/a03s
+#EXTINF:-1 group-title="Airtel",Zee TV HD - Rs 19.00
+http://103.182.170.32:8888/play/a04r
+#EXTINF:-1 group-title="Airtel",SONY MAX HD - Rs 19.00
+http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 group-title="Airtel",SONY PIX HD - Rs 19.00
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="Airtel",SONY SAB - Rs 19.00
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 1 - Rs 19.00
+http://103.182.170.32:8888/play/a04j
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+#EXTINF:-1 group-title="Airtel",SONY TEN 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="Airtel",SONY YAY! - Rs 4.00
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="Airtel",STAR GOLD HD - Rs 19.00
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="Airtel",STAR Movies HD - Rs 19.00
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="Airtel",STAR Movies Select HD - Rs 19.00
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="Airtel",STAR PLUS - Rs 19.00
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="Airtel",STAR Plus HD - Rs 22.00
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="Airtel",Sonic - Rs 1.00
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="Airtel",Sony Sports Ten 4 HD - Rs 19.00
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Airtel",Sports 18 - 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="Airtel",Sports 18 3 - Rs 4.00
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="Airtel",Star Bharat - Rs 12.00
+http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 group-title="Airtel",Star Bharat HD - Rs 19.00
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="Airtel",Star Gold 2 - Rs 3.00
+http://103.182.170.32:8888/play/a02k
+#EXTINF:-1 group-title="Airtel",Star Gold 2 HD - Rs 5.00
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="Airtel",Star Jalsha HD - Rs 19.00
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="Airtel",Star Life HD - Rs 2.00
+http://103.182.170.32:8888/play/a020
+#EXTINF:-1 group-title="Airtel",Star Pravah HD - Rs 19.00
+http://103.182.170.32:8888/play/a04n
+#EXTINF:-1 group-title="Airtel",Star Sports 1 - Rs 19.00
+http://103.182.170.32:8888/play/a03b
+#EXTINF:-1 group-title="Airtel",Star Sports 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi - Rs 19.00
+http://103.182.170.32:8888/play/a02m
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi HD - Rs 19.00
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Airtel",Star Sports 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="Airtel",Star Sports Select 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="Airtel",Star Sports Select 2 HD - Rs 15.00
+http://103.182.170.32:8888/play/a047
+#EXTINF:-1 group-title="Airtel",Sun Bangla - Free
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="Airtel",Sun Life - Rs 9.00
+http://103.182.170.32:8888/play/a03f
+#EXTINF:-1 group-title="Airtel",TEN 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="Airtel",TLC HD - Rs 3.00
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="Airtel",Travelxp HD - Rs 9.00
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="Airtel",Zee Bangla Cinema - Rs 10.00
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 group-title="Airtel",Zee Bangla HD - Rs 19.00
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="Airtel",Zee Bollywood - Rs 3.00
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="Airtel",Zee Cafe HD - Rs 10.00
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="Airtel",Zee Classic - Rs 0.10
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="Airtel",Zee TV - Rs 19.00
+http://103.182.170.32:8888/play/a03s
+#EXTINF:-1 group-title="Airtel",Zee TV HD - Rs 19.00
+http://103.182.170.32:8888/play/a04r
+#EXTINF:-1 group-title="Airtel",SONY MAX HD - Rs 19.00
+http://103.182.170.32:8888/play/a04f
+#EXTINF:-1 group-title="Airtel",SONY PIX HD - Rs 19.00
+http://103.182.170.32:8888/play/a027
+#EXTINF:-1 group-title="Airtel",SONY SAB - Rs 19.00
+http://103.182.170.32:8888/play/a03r
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 1 - Rs 19.00
+http://103.182.170.32:8888/play/a04j
+#EXTINF:-1 group-title="Airtel",SONY SPORTS TEN 3 - Rs 19.00
+http://103.182.170.32:8888/play/a03p
+#EXTINF:-1 group-title="Airtel",SONY TEN 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a039
+#EXTINF:-1 group-title="Airtel",SONY YAY! - Rs 4.00
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 group-title="Airtel",STAR GOLD HD - Rs 19.00
+http://103.182.170.32:8888/play/a02j
+#EXTINF:-1 group-title="Airtel",STAR Movies HD - Rs 19.00
+http://103.182.170.32:8888/play/a029
+#EXTINF:-1 group-title="Airtel",STAR Movies Select HD - Rs 19.00
+http://103.182.170.32:8888/play/a028
+#EXTINF:-1 group-title="Airtel",STAR PLUS - Rs 19.00
+http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 group-title="Airtel",STAR Plus HD - Rs 22.00
+http://103.182.170.32:8888/play/a03z
+#EXTINF:-1 group-title="Airtel",Sonic - Rs 1.00
+http://103.182.170.32:8888/play/a02s
+#EXTINF:-1 group-title="Airtel",Sony Sports Ten 4 HD - Rs 19.00
+http://103.182.170.32:8888/play/a036
+#EXTINF:-1 group-title="Airtel",Sports 18 - 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 group-title="Airtel",Sports 18 3 - Rs 4.00
+http://103.182.170.32:8888/play/a02i
+#EXTINF:-1 group-title="Airtel",Star Bharat - Rs 12.00
+http://103.182.170.32:8888/play/a02n
+#EXTINF:-1 group-title="Airtel",Star Bharat HD - Rs 19.00
+http://103.182.170.32:8888/play/a033
+#EXTINF:-1 group-title="Airtel",Star Gold 2 - Rs 3.00
+http://103.182.170.32:8888/play/a02k
+#EXTINF:-1 group-title="Airtel",Star Gold 2 HD - Rs 5.00
+http://103.182.170.32:8888/play/a01z
+#EXTINF:-1 group-title="Airtel",Star Jalsha HD - Rs 19.00
+http://103.182.170.32:8888/play/a046
+#EXTINF:-1 group-title="Airtel",Star Life HD - Rs 2.00
+http://103.182.170.32:8888/play/a020
+#EXTINF:-1 group-title="Airtel",Star Pravah HD - Rs 19.00
+http://103.182.170.32:8888/play/a04n
+#EXTINF:-1 group-title="Airtel",Star Sports 1 - Rs 19.00
+http://103.182.170.32:8888/play/a03b
+#EXTINF:-1 group-title="Airtel",Star Sports 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a040
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi - Rs 19.00
+http://103.182.170.32:8888/play/a02m
+#EXTINF:-1 group-title="Airtel",Star Sports 1 Hindi HD - Rs 19.00
+http://103.182.170.32:8888/play/a04e
+#EXTINF:-1 group-title="Airtel",Star Sports 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a03e
+#EXTINF:-1 group-title="Airtel",Star Sports Select 1 HD - Rs 19.00
+http://103.182.170.32:8888/play/a045
+#EXTINF:-1 group-title="Airtel",Star Sports Select 2 HD - Rs 15.00
+http://103.182.170.32:8888/play/a047
+#EXTINF:-1 group-title="Airtel",Sun Bangla - Free
+http://103.182.170.32:8888/play/a01v
+#EXTINF:-1 group-title="Airtel",Sun Life - Rs 9.00
+http://103.182.170.32:8888/play/a03f
+#EXTINF:-1 group-title="Airtel",TEN 2 HD - Rs 19.00
+http://103.182.170.32:8888/play/a026
+#EXTINF:-1 group-title="Airtel",TLC HD - Rs 3.00
+http://103.182.170.32:8888/play/a01q
+#EXTINF:-1 group-title="Airtel",Travelxp HD - Rs 9.00
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 group-title="Airtel",Zee Bangla Cinema - Rs 10.00
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 group-title="Airtel",Zee Bangla HD - Rs 19.00
+http://103.182.170.32:8888/play/a048
+#EXTINF:-1 group-title="Airtel",Zee Bollywood - Rs 3.00
+http://103.182.170.32:8888/play/a02r
+#EXTINF:-1 group-title="Airtel",Zee Cafe HD - Rs 10.00
+http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="Airtel",Zee Classic - Rs 0.10
+http://103.182.170.32:8888/play/a054
+#EXTINF:-1 group-title="Airtel",Zee TV - Rs 19.00
+http://103.182.170.32:8888/play/a03s
+#EXTINF:-1 group-title="Airtel",Zee TV HD - Rs 19.00
+http://103.182.170.32:8888/play/a04r
