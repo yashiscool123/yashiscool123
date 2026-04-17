@@ -15,7 +15,7 @@
 #EXTM3U url-tvg="https://www.tsepg.cf/epg.xml.gz"
 
 
-#EXTINF:-1  tvg-name="###### TVD Rana" tvg-id="(no tvg-id)" group-title="###### TVD Rana",###### TVD Rana ######
+#EXTINF:-1  tvg-name="###### Hellosky" tvg-id="(no tvg-id)" group-title="###### Hellosky",###### Hellosky ######
 http://hellosky.one:8080/get.php?username=Waqas,@Star@Restream@5938&password=Waqas@Sta,r@Restream@Uk12ah3u3&type=m3u_plus
 
 #EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/DPDZDDgg/Supersports-cricket.png" group-title="CRICKET ",CRIC || SUPERSPORTS ᴴᴰ
