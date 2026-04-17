@@ -1,11 +1,20 @@
-﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/refs/heads/main/epg.xml.gz"
+#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/jiotv/epg.xml.gz"
+#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U url-tvg="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/refs/heads/main/epg.xml.gz"
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 #EXTM3U url-tvg="https://mitthu786.github.io/tvepg/jiotv/epg.xml.gz"
 #EXTM3U url-tvg="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
 #EXTM3U url-tvg="https://www.tsepg.cf/epg.xml.gz"
-#EXTM3U url-tvg="https://www.tsepg.cf/epg.xml.gz"
+
+
 
 #EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/DPDZDDgg/Supersports-cricket.png" group-title="CRICKET ",CRIC || SUPERSPORTS ᴴᴰ
 http://hellosky.one:8080/live/Waqas,@Star@Restream@5938/Waqas@Sta,r@Restream@Uk12ah3u3/140290.ts
