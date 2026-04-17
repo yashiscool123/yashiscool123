@@ -1,4 +1,12 @@
-﻿#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/refs/heads/main/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U url-tvg="https://mitthu786.github.io/tvepg/jiotv/epg.xml.gz"
+#EXTM3U url-tvg="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
+#EXTM3U url-tvg="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U url-tvg="https://www.tsepg.cf/epg.xml.gz"
+
 #EXTINF:-1  tvg-name="###### Dinesh29 JioTV" tvg-id="(no tvg-id)" group-title="###### Dinesh29 JioTV",###### Dinesh29 JioTV ######
 https://live.dinesh29.com.np/jiotvplus.m3u
 #EXTINF:-1  tvg-name="###### DishTV" tvg-id="(no tvg-id)" group-title="###### DishTV",###### DishTV ######
