@@ -17,563 +17,1133 @@
 #EXTM3U url-tvg="https://xtreamup.hakunamata.workers.dev/epg.php"
 
 
-#EXTINF:-1  tvg-name="###### op.web24.live" tvg-id="(no tvg-id)" group-title="###### op.web24.live",###### op.web24.live ######
-http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u
 
-#EXTINF:-1,IN | &PICTURES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36597
-#EXTINF:-1,IN | &PRIVE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36598
-#EXTINF:-1,IN | &TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36599
-#EXTINF:-1,IN | 24 NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36600
-#EXTINF:-1,IN | 4TV NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36601
-#EXTINF:-1,IN | 8XM
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36602
-#EXTINF:-1,IN | 9XM
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36603
-#EXTINF:-1,IN | AAJ ENTERTAINMENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36604
-#EXTINF:-1,IN | AAJ KATEZ
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36605
-#EXTINF:-1,IN | AAJ TAK
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36606
-#EXTINF:-1,IN | AAPKA COLORS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36607
-#EXTINF:-1,IN | AASTHA BHAJAN
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36608
-#EXTINF:-1,IN | AASTHA TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36609
-#EXTINF:-1,IN | ABP NEWS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36610
-#EXTINF:-1,IN | ABZY DHAKAD.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36611
-#EXTINF:-1,IN | ADITHYA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36612
-#EXTINF:-1,IN | AL JAZEERA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36613
-#EXTINF:-1,IN | ANIMAL PLANET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36614
-#EXTINF:-1,IN | ANIMAL PLANET WORLD
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36615
-#EXTINF:-1,IN | APLUS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36616
-#EXTINF:-1,IN | APNA TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36617
-#EXTINF:-1,IN | ARIHANT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36618
-#EXTINF:-1,IN | ARY FAMILY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36619
-#EXTINF:-1,IN | ARY QTV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36620
-#EXTINF:-1,IN | ARY ZINDAGI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36621
-#EXTINF:-1,IN | ASIA NET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36623
-#EXTINF:-1,IN | ASIA NET GOLDEN NEWS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36622
-#EXTINF:-1,IN | ASSHIRWAT TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36624
-#EXTINF:-1,IN | AXN
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36625
-#EXTINF:-1,IN | B4U KADAK.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36626
-#EXTINF:-1,IN | B4U MOVIES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36627
-#EXTINF:-1,IN | B4U MOVIES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36628
-#EXTINF:-1,IN | B4U MUSIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36629
-#EXTINF:-1,IN | B4U MUSIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36630
-#EXTINF:-1,IN | BABY TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36631
-#EXTINF:-1,IN | BFLIX MOVIES.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36632
-#EXTINF:-1,IN | BHOJPURI CINEMA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36633
-#EXTINF:-1,IN | BIG MAGIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36634
-#EXTINF:-1,IN | BOL ENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36635
-#EXTINF:-1,IN | CAPITAL NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36636
-#EXTINF:-1,IN | CARTOON NETWORK
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36637
-#EXTINF:-1,IN | CHANNEL ONE NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36638
-#EXTINF:-1,IN | CHANNEL5 NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36639
-#EXTINF:-1,IN | CHARDIKALA TIME TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36640
-#EXTINF:-1,IN | CINEPLEX
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36641
-#EXTINF:-1,IN | CINEPLEX UK
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36642
-#EXTINF:-1,IN | CITY 41 NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36643
-#EXTINF:-1,IN | CITY 42 NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36644
-#EXTINF:-1,IN | CLASSICA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36645
-#EXTINF:-1,IN | COLORS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36651
-#EXTINF:-1,IN | COLORS BANGLA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36646
-#EXTINF:-1,IN | COLORS CINEPLEX .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36647
-#EXTINF:-1,IN | COLORS GUJARATI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36650
-#EXTINF:-1,IN | COLORS KANNADA CINEMA.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36655
-#EXTINF:-1,IN | COLORS RISHTEY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36657
-#EXTINF:-1,IN | COLORSFINITY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36653
-#EXTINF:-1,IN | CVR NEWS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36660
-#EXTINF:-1,IN | DA NEWS PLUS .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36661
-#EXTINF:-1,IN | DANGAL
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36662
-#EXTINF:-1,IN | DARSHANA TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36663
-#EXTINF:-1,IN | DAWN NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36664
-#EXTINF:-1,IN | DD BANGLA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36665
-#EXTINF:-1,IN | DD BHARAT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36666
-#EXTINF:-1,IN | DD CHANDANA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36667
-#EXTINF:-1,IN | DD GIRNER
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36668
-#EXTINF:-1,IN | DD KISAN.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36669
-#EXTINF:-1,IN | DD MADHIYA PRADESH.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36670
-#EXTINF:-1,IN | DD MALAY.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36671
-#EXTINF:-1,IN | DD NATIONAL .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36673
-#EXTINF:-1,IN | DD ODIA.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36675
-#EXTINF:-1,IN | DD PODHIGAI.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36676
-#EXTINF:-1,IN | DD PUNJABI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36677
-#EXTINF:-1,IN | DD SPORTS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36678
-#EXTINF:-1,IN | DD URDU
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36680
-#EXTINF:-1,IN | DD YADAGIRI.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36681
-#EXTINF:-1,IN | DHERAN TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36682
-#EXTINF:-1,IN | DHINCHAAK 2 .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36684
-#EXTINF:-1,IN | DHINCHAAK.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36685
-#EXTINF:-1,IN | DIGHVIJAY NEWS 24X7.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36686
-#EXTINF:-1,IN | DISCOVERY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36687
-#EXTINF:-1,IN | DISCOVERY SCIENCE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36688
-#EXTINF:-1,IN | DISCOVERY TURBO
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36689
-#EXTINF:-1,IN | DISNEY CHANNEL
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36690
-#EXTINF:-1,IN | ENTER 10 BANGLA MOVIES.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36693
-#EXTINF:-1,IN | ENTER 10 BANGLA.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36692
-#EXTINF:-1,IN | ENTER 10 MOVIES .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36694
-#EXTINF:-1,IN | EPIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36695
-#EXTINF:-1,IN | EROSNOW SLATE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36696
-#EXTINF:-1,IN | ETV LIFE .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36697
-#EXTINF:-1,IN | ETV TELEGU
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36698
-#EXTINF:-1,IN | EXPRESS ENTERTAINMENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36699
-#EXTINF:-1,IN | FASHION
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36700
-#EXTINF:-1,IN | FILAMCHI.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36701
-#EXTINF:-1,IN | FOOD FOOD
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36702
-#EXTINF:-1,IN | FOX LIFE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36703
-#EXTINF:-1,IN | GEO ENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36704
-#EXTINF:-1,IN | GEO KAHANI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36705
-#EXTINF:-1,IN | GEO SUPER
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36706
-#EXTINF:-1,IN | GEO TEZ
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36707
-#EXTINF:-1,IN | GNN NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36708
-#EXTINF:-1,IN | GNT NEWS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36709
-#EXTINF:-1,IN | GULISTAN NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36710
-#EXTINF:-1,IN | HADI TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36711
-#EXTINF:-1,IN | HARVEST TV24X7.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36712
-#EXTINF:-1,IN | HINDI KHABAR
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36713
-#EXTINF:-1,IN | HISTORY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36714
-#EXTINF:-1,IN | HOPE TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36715
-#EXTINF:-1,IN | HUM NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36717
-#EXTINF:-1,IN | HUM SITARAY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36718
-#EXTINF:-1,IN | INDIA NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36719
-#EXTINF:-1,IN | INSYNC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36720
-#EXTINF:-1,IN | ISHWAR
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36721
-#EXTINF:-1,IN | JAI HIND TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36722
-#EXTINF:-1,IN | JALWA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36723
-#EXTINF:-1,IN | JANAM TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36724
-#EXTINF:-1,IN | JEEVAN NEWS .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36725
-#EXTINF:-1,IN | JK CHANNEL
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36726
-#EXTINF:-1,IN | JUS HINDI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36727
-#EXTINF:-1,IN | KARBALA TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36728
-#EXTINF:-1,IN | KARNATAKA TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36729
-#EXTINF:-1,IN | KTV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36730
-#EXTINF:-1,IN | M4U MOVIES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36731
-#EXTINF:-1,IN | MADANI TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36733
-#EXTINF:-1,IN | MAHA MOVIES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36734
-#EXTINF:-1,IN | MAHA PUNJABI.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36735
-#EXTINF:-1,IN | MANGALAM TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36736
-#EXTINF:-1,IN | MANGO TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36737
-#EXTINF:-1,IN | MANORANJAN MOVIES.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36738
-#EXTINF:-1,IN | MANORANJAN TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36739
-#EXTINF:-1,IN | MASALA TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36740
-#EXTINF:-1,IN | MASTI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36741
-#EXTINF:-1,IN | MOVIE PLUS .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36742
-#EXTINF:-1,IN | MTV BEATS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36743
-#EXTINF:-1,IN | MTVDIA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36744
-#EXTINF:-1,IN | MUSIC MASTI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36745
-#EXTINF:-1,IN | NATIONAL GEOGRAPHIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36746
-#EXTINF:-1,IN | ND TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36747
-#EXTINF:-1,IN | NDTV 24X7
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36748
-#EXTINF:-1,IN | NEO NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36749
-#EXTINF:-1,IN | NEW NEWS DADA 24X7.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36750
-#EXTINF:-1,IN | NEWS 18.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36751
-#EXTINF:-1,IN | NEWS ONE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36752
-#EXTINF:-1,IN | NEWS18
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36753
-#EXTINF:-1,IN | NEWS18 UP UTTAKHRAND
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36754
-#EXTINF:-1,IN | NICKELODEON
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36755
-#EXTINF:-1,IN | NR NEWS.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36757
-#EXTINF:-1,IN | OM TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36758
-#EXTINF:-1,IN | PAIGHAM TV PASHTO
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36759
-#EXTINF:-1,IN | PEACE TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36761
-#EXTINF:-1,IN | PEACE TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36762
-#EXTINF:-1,IN | PEACE TV ENGLISH
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36760
-#EXTINF:-1,IN | POLIMER TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36763
-#EXTINF:-1,IN | POPULAR TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36764
-#EXTINF:-1,IN | POWER VISION.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36765
-#EXTINF:-1,IN | PTC CHAKDE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36766
-#EXTINF:-1,IN | PTC NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36768
-#EXTINF:-1,IN | PTC PUNJABI
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36770
-#EXTINF:-1,IN | PTC PUNJABI GOLD.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36769
-#EXTINF:-1,IN | PTV HOME
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36771
-#EXTINF:-1,IN | PTV WORLD
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36772
-#EXTINF:-1,IN | PUBLIC NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36775
-#EXTINF:-1,IN | R.BHARAT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36778
-#EXTINF:-1,IN | RAVI TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36780
-#EXTINF:-1,IN | REPUBLIC NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36781
-#EXTINF:-1,IN | REPUBLIC TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36782
-#EXTINF:-1,IN | RETRO TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36784
-#EXTINF:-1,IN | RISHTEY CINEPLEX.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36786
-#EXTINF:-1,IN | ROMEDAY NOW.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36787
-#EXTINF:-1,IN | ROMEDY NOW
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36788
-#EXTINF:-1,IN | SAB TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36789
-#EXTINF:-1,IN | SADHNA PLUS NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36790
-#EXTINF:-1,IN | SADHNA PRIME NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36791
-#EXTINF:-1,IN | SAFARI TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36792
-#EXTINF:-1,IN | SAHARA SAMAY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36793
-#EXTINF:-1,IN | SAKHI TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36794
-#EXTINF:-1,IN | SAMAA NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36795
-#EXTINF:-1,IN | SANSAD TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36796
-#EXTINF:-1,IN | SANSKAR
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36797
-#EXTINF:-1,IN | SATHIYAM TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36798
-#EXTINF:-1,IN | SATSANG TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36799
-#EXTINF:-1,IN | SET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36800
-#EXTINF:-1,IN | SET MAX
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36801
-#EXTINF:-1,IN | SHALOM TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36802
-#EXTINF:-1,IN | SHEMAROO TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36805
-#EXTINF:-1,IN | SHUBH TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36806
-#EXTINF:-1,IN | SINDH ENTERTAINMENT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36807
-#EXTINF:-1,IN | SINDH NEWS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36808
-#EXTINF:-1,IN | SOHAM
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36810
-#EXTINF:-1,IN | SONY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36811
-#EXTINF:-1,IN | SONY MAX
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36813
-#EXTINF:-1,IN | SONY MAX 2
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36812
-#EXTINF:-1,IN | SONY PAL
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36814
-#EXTINF:-1,IN | SONY PIX
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36816
-#EXTINF:-1,IN | SONY SAB
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36817
-#EXTINF:-1,IN | SONY SIX
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36819
-#EXTINF:-1,IN | SONY YAY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36820
-#EXTINF:-1,IN | STAR BHARAT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36821
-#EXTINF:-1,IN | STAR GOLD
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36823
-#EXTINF:-1,IN | STAR GOLD SELECT
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36824
-#EXTINF:-1,IN | STAR JALSHA.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36827
-#EXTINF:-1,IN | STAR MAA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36830
-#EXTINF:-1,IN | STAR MAA GOLD.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36829
-#EXTINF:-1,IN | STAR MOVIES
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36831
-#EXTINF:-1,IN | STAR PLUS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36832
-#EXTINF:-1,IN | STAR SPORTS 1
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36833
-#EXTINF:-1,IN | STAR SPORTS 2
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36834
-#EXTINF:-1,IN | STAR SPORTS SELECT 1
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36835
-#EXTINF:-1,IN | STAR SPORTS SELECT 2
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36836
-#EXTINF:-1,IN | STAR UTSAV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36837
-#EXTINF:-1,IN | STAR VIJAY
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36838
-#EXTINF:-1,IN | STAR VIJAY SUPER
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36839
-#EXTINF:-1,IN | STAR WORLD
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36840
-#EXTINF:-1,IN | STAR WORLD PREMIERE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36841
-#EXTINF:-1,IN | SUN LIFE .
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36842
-#EXTINF:-1,IN | SUN MUSIC
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36843
-#EXTINF:-1,IN | SURYA SAMACHAR
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36844
-#EXTINF:-1,IN | T-SPORTS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/62625
-#EXTINF:-1,IN | TEN 1
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36846
-#EXTINF:-1,IN | TEN 2
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36847
-#EXTINF:-1,IN | TEN SPORTS
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36848
-#EXTINF:-1,IN | THANTI TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36850
-#EXTINF:-1,IN | THE Q TV.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36851
-#EXTINF:-1,IN | TIMES NOW
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36852
-#EXTINF:-1,IN | TOTAL TV
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36853
-#EXTINF:-1,IN | TRAVEL XP
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36854
-#EXTINF:-1,IN | TV ASIA
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36856
-#EXTINF:-1,IN | TV ONE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36859
-#EXTINF:-1,IN | TV9 MARATHI.
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36861
-#EXTINF:-1,IN | URDU ONE
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36862
-#EXTINF:-1,IN | WILLOW CRICKET
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/36691
-#EXTINF:-1,IN | STAR SPORT 1
-http://op.web24.live:8080/recycle_n24/network24_selfrestream/45337
-#EXTINF:-1,IN | 9X JALWA
-https://9xjalwa-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xJalwaSamsungIndia/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | 9X JHAKAAS
-https://9xjhakkas-samsungin.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xM-Jhakkas/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | BLOOMBERG QUICKTAKE
-https://d1574ba626c4472ab08a6db5830cb817.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_QuickTake/playlist.m3u8?ads.wurl_channel%3D632%26ads.wurl_name%3DQuickTake%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | BLOOMBERG TV
-https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8?ads.wurl_channel%3D869%26ads.wurl_name%3DBloomberg%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | DOCUBOX HD
-https://docubox-english-samsungin.amagi.tv/hls/amagi_hls_data_samsungin-docuboxenglish-samsungin/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | DOCUBOX HD
-https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1003/TVPlusChannel_IN_1003.m3u8
-#EXTINF:-1,IN | DON'T TELL THE BRIDE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellthebrid-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | FAILARMY
-https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8?ads.wurl_channel%3D151%26ads.wurl_name%3DFailArmy%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | FILM STREAM
-https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8?ads.wurl_channel%3D422%26ads.wurl_name%3DFilmstream%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | FUEL TV
-https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8?ads.wurl_channel%3D708%26ads.wurl_name%3DFuelTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | GOUSA TV
-https://3b265effb709412a8b5988c98756fda0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GoUSATV/playlist.m3u8?ads.wurl_channel%3D535%26ads.wurl_name%3DGoUSATV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | GUSTO TV
-https://a7b051df6d2841b39e1c194904d25699.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GustoTV-1/playlist.m3u8?ads.wurl_channel%3D858%26ads.wurl_name%3DGustoTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | HOLLYWIRE
-https://22b41c7f9b3942198977234db2092cd5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_Hollywire/playlist.m3u8?ads.wurl_channel%3D922%26ads.wurl_name%3DHollywire%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | HOLLYWIRE
-https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1004/TVPlusChannel_IN_1004.m3u8
-#EXTINF:-1,IN | INBITES
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inshort-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | INSIGHT TV
-https://insighttv-samsungindia.amagi.tv/hls/amagi_hls_data_samsungin-insighttv-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | INTROUBLE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-introuble-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | INWILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inwild-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | INWONDER
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inwonder-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | JACK HANNA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-jackhanna-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | MAVTV MOTORSPORTS NETWORK
-https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel%3D611%26ads.wurl_name%3DMAVTVMotorSportsNetwork%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | MOTORVISION.TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | NOSEY
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintl-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | PEOPLE ARE AWESOME
-https://caeee1dd0eea4dde9429074e7f8e96bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel%3D386%26ads.wurl_name%3DPeopleAreAwesome%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | QWEST TV CLASSICAL
-https://qwest-classic-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestclassic-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | QWEST TV JAZZ & BEYOND
-https://qwest-jazz-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestjazz-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | QWEST TV MIX
-https://qwest-mix-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestmix-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | REAL CRIME
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realcrime-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | REAL CRIME
-https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1002/TVPlusChannel_IN_1002.m3u8
-#EXTINF:-1,IN | REAL LIFE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realfamilies-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | REAL STORIES
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realstories-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | REAL WILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realwild-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | REPUBLIC BHARAT
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | REPUBLIC TV
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | SOFY.TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-softtv-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | TASTEMADE
-https://tastemadeintaus-smindia.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-int-aus-samsung-india/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
-#EXTINF:-1,IN | TENNIS CHANNEL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-tennischannel-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | TENNIS CHANNEL
-https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1000/TVPlusChannel_IN_1000.m3u8
-#EXTINF:-1,IN | THE PET COLLECTIVE
-https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8?ads.wurl_channel%3D152%26ads.wurl_name%3DThePetCollective%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | THE Q
-https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | TIMELINE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | TOON GOGGLES
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-toon-goggles-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D1
-#EXTINF:-1,IN | TOON GOGGLES
-https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1001/TVPlusChannel_IN_1001.m3u8
-#EXTINF:-1,IN | WEATHERSPY
-https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_WeatherSpy/playlist.m3u8?ads.wurl_channel%3D388%26ads.wurl_name%3DWeatherSpy%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1,IN | WONDER
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1,IN | XPLORE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1  tvg-name="###### atrupo4k" tvg-id="(no tvg-id)" group-title="###### atrupo4k",###### atrupo4k ######
+http://atrupo4k.com:80/get.php?username=SamirAmiYounesAZIM&password=iG6l7U5diKPsSal&type=m3u_plus
+
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS MP" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE NEWS MP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211592
+#EXTINF:-1 tvg-id="" tvg-name="|IN| REPUBLIC NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| REPUBLIC NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211591
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE BUSINESS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE BUSINESS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211590
+#EXTINF:-1 tvg-id="" tvg-name="|IN| E NEWS 24" tvg-logo="" group-title="IN| INDIA NEWS",|IN| E NEWS 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211589
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NEWS 18 LIVE" tvg-logo="" group-title="IN| INDIA NEWS",|IN| NEWS 18 LIVE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211588
+#EXTINF:-1 tvg-id="" tvg-name="|IN| RANG" tvg-logo="" group-title="IN| INDIA NEWS",|IN| RANG
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211587
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PRAG NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| PRAG NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211586
+#EXTINF:-1 tvg-id="" tvg-name="|IN| DILLI AAJ TAKK" tvg-logo="" group-title="IN| INDIA NEWS",|IN| DILLI AAJ TAKK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211585
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CVR NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| CVR NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211584
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NEWS 24" tvg-logo="" group-title="IN| INDIA NEWS",|IN| NEWS 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211583
+#EXTINF:-1 tvg-id="" tvg-name="|IN| IBC 24" tvg-logo="" group-title="IN| INDIA NEWS",|IN| IBC 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211582
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SAHARA NEWS NATIONAL" tvg-logo="" group-title="IN| INDIA NEWS",|IN| SAHARA NEWS NATIONAL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211581
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SUDARSHAN NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| SUDARSHAN NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211580
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS RAJASTHAN" tvg-logo="" group-title="IN| INDIA NEWS",|IN| INDIA NEWS RAJASTHAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211579
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NEWS X" tvg-logo="" group-title="IN| INDIA NEWS",|IN| NEWS X
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211578
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS HARYANA" tvg-logo="" group-title="IN| INDIA NEWS",|IN| INDIA NEWS HARYANA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211577
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS UP" tvg-logo="" group-title="IN| INDIA NEWS",|IN| INDIA NEWS UP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211576
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS MP" tvg-logo="" group-title="IN| INDIA NEWS",|IN| INDIA NEWS MP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211575
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NDTV INDIA" tvg-logo="" group-title="IN| INDIA NEWS",|IN| NDTV INDIA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211574
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| INDIA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211573
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CNBC TV18 NEWS HD" tvg-logo="" group-title="IN| INDIA NEWS",|IN| CNBC TV18 NEWS HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211572
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ABN NEWS TV" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ABN NEWS TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211571
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE RAJASTHAN" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE RAJASTHAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211570
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS UP" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE NEWS UP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211569
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS MP/CHATTISGARH" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE NEWS MP/CHATTISGARH
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211568
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS BIHAR" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE NEWS BIHAR
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211567
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211566
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE HINDUSTAN NEWS" tvg-logo="" group-title="IN| INDIA NEWS",|IN| ZEE HINDUSTAN NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211565
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZOOM" tvg-logo="" group-title="IN| INDIA",|IN| ZOOM
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211564
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE TV UK" tvg-logo="" group-title="IN| INDIA",|IN| ZEE TV UK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211563
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE TV HD" tvg-logo="" group-title="IN| INDIA",|IN| ZEE TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211562
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE TELUGU" tvg-logo="" group-title="IN| INDIA",|IN| ZEE TELUGU
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211561
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE TAMIL" tvg-logo="" group-title="IN| INDIA",|IN| ZEE TAMIL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211560
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE TALKIES" tvg-logo="" group-title="IN| INDIA",|IN| ZEE TALKIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211559
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE PUNJABI" tvg-logo="" group-title="IN| INDIA",|IN| ZEE PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211558
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE NEWS" tvg-logo="" group-title="IN| INDIA",|IN| ZEE NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211557
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE MARATHI" tvg-logo="" group-title="IN| INDIA",|IN| ZEE MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211556
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE HINDUSTAN" tvg-logo="" group-title="IN| INDIA",|IN| ZEE HINDUSTAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211555
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE CLASSIC" tvg-logo="" group-title="IN| INDIA",|IN| ZEE CLASSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211554
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE CINEMALU" tvg-logo="" group-title="IN| INDIA",|IN| ZEE CINEMALU
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211553
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE CINEMA USA" tvg-logo="" group-title="IN| INDIA",|IN| ZEE CINEMA USA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211552
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE CINEMA" tvg-logo="" group-title="IN| INDIA",|IN| ZEE CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211551
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE BOLLYWOOD" tvg-logo="" group-title="IN| INDIA",|IN| ZEE BOLLYWOOD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211550
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE BANGLA CINEMA" tvg-logo="" group-title="IN| INDIA",|IN| ZEE BANGLA CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211549
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE ACTION" tvg-logo="" group-title="IN| INDIA",|IN| ZEE ACTION
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211548
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ZEE 24 KALAK" tvg-logo="" group-title="IN| INDIA",|IN| ZEE 24 KALAK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211547
+#EXTINF:-1 tvg-id="" tvg-name="|IN| WILLOW CRICKET" tvg-logo="" group-title="IN| INDIA",|IN| WILLOW CRICKET
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211546
+#EXTINF:-1 tvg-id="" tvg-name="|IN| UTV MOVIES" tvg-logo="" group-title="IN| INDIA",|IN| UTV MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211545
+#EXTINF:-1 tvg-id="" tvg-name="|IN| UTV" tvg-logo="" group-title="IN| INDIA",|IN| UTV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211544
+#EXTINF:-1 tvg-id="" tvg-name="|IN| UTSAV PLUS" tvg-logo="" group-title="IN| INDIA",|IN| UTSAV PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211543
+#EXTINF:-1 tvg-id="" tvg-name="|IN| UTSAV BHARAT" tvg-logo="" group-title="IN| INDIA",|IN| UTSAV BHARAT
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211542
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TV9 TELUGU" tvg-logo="" group-title="IN| INDIA",|IN| TV9 TELUGU
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211541
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TV9 GUJARATI" tvg-logo="" group-title="IN| INDIA",|IN| TV9 GUJARATI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211540
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TRAVEL XP" tvg-logo="" group-title="IN| INDIA",|IN| TRAVEL XP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211539
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TLC HINDI" tvg-logo="" group-title="IN| INDIA",|IN| TLC HINDI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211538
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TIMES NOW" tvg-logo="" group-title="IN| INDIA",|IN| TIMES NOW
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211537
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TEN 2" tvg-logo="" group-title="IN| INDIA",|IN| TEN 2
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211536
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TEN 1" tvg-logo="" group-title="IN| INDIA",|IN| TEN 1
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211535
+#EXTINF:-1 tvg-id="" tvg-name="|IN| TAKBEER TV UK" tvg-logo="" group-title="IN| INDIA",|IN| TAKBEER TV UK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211534
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SUN TV" tvg-logo="" group-title="IN| INDIA",|IN| SUN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211533
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SUN LIFE" tvg-logo="" group-title="IN| INDIA",|IN| SUN LIFE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211532
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR VIJAY" tvg-logo="" group-title="IN| INDIA",|IN| STAR VIJAY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211531
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS SELECT 2 [Live During Events Only]" tvg-logo="" group-title="IN| INDIA",|IN| STAR SPORTS SELECT 2 [Live During Events Only]
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211530
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS SELECT 1" tvg-logo="" group-title="IN| INDIA",|IN| STAR SPORTS SELECT 1
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211529
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS 3" tvg-logo="" group-title="IN| INDIA",|IN| STAR SPORTS 3
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211528
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS 2" tvg-logo="" group-title="IN| INDIA",|IN| STAR SPORTS 2
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211527
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR SPORTS 1" tvg-logo="" group-title="IN| INDIA",|IN| STAR SPORTS 1
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211526
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR PLUS" tvg-logo="" group-title="IN| INDIA",|IN| STAR PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211525
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR MAA MOVIES" tvg-logo="" group-title="IN| INDIA",|IN| STAR MAA MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211524
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR MAA GOLD" tvg-logo="" group-title="IN| INDIA",|IN| STAR MAA GOLD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211523
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR JALSHA" tvg-logo="" group-title="IN| INDIA",|IN| STAR JALSHA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211522
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR GOLD SELECT" tvg-logo="" group-title="IN| INDIA",|IN| STAR GOLD SELECT
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211521
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR GOLD" tvg-logo="" group-title="IN| INDIA",|IN| STAR GOLD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211520
+#EXTINF:-1 tvg-id="" tvg-name="|IN| STAR BHARAT" tvg-logo="" group-title="IN| INDIA",|IN| STAR BHARAT
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211519
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SRI SANKARA TV" tvg-logo="" group-title="IN| INDIA",|IN| SRI SANKARA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211518
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Sony TV UK" tvg-logo="" group-title="IN| INDIA",|IN| Sony TV UK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211517
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY YAY" tvg-logo="" group-title="IN| INDIA",|IN| SONY YAY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211516
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY TV ASIA" tvg-logo="" group-title="IN| INDIA",|IN| SONY TV ASIA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211515
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY TEN 3" tvg-logo="" group-title="IN| INDIA",|IN| SONY TEN 3
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211514
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY TEN 1" tvg-logo="" group-title="IN| INDIA",|IN| SONY TEN 1
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211513
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY SAB UK" tvg-logo="" group-title="IN| INDIA",|IN| SONY SAB UK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211512
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY SAB" tvg-logo="" group-title="IN| INDIA",|IN| SONY SAB
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211511
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY PIX" tvg-logo="" group-title="IN| INDIA",|IN| SONY PIX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211510
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY PAL" tvg-logo="" group-title="IN| INDIA",|IN| SONY PAL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211509
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY MIX" tvg-logo="" group-title="IN| INDIA",|IN| SONY MIX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211508
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY MAX 2" tvg-logo="" group-title="IN| INDIA",|IN| SONY MAX 2
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211507
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY MAX" tvg-logo="" group-title="IN| INDIA",|IN| SONY MAX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211506
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONY MARATHI" tvg-logo="" group-title="IN| INDIA",|IN| SONY MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211505
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SONIC NICKELODEON" tvg-logo="" group-title="IN| INDIA",|IN| SONIC NICKELODEON
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211504
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SATSANG TV" tvg-logo="" group-title="IN| INDIA",|IN| SATSANG TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211503
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SARDARI TV" tvg-logo="" group-title="IN| INDIA",|IN| SARDARI TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211502
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SANGAT TV" tvg-logo="" group-title="IN| INDIA",|IN| SANGAT TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211501
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SAKSHI TV" tvg-logo="" group-title="IN| INDIA",|IN| SAKSHI TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211500
+#EXTINF:-1 tvg-id="" tvg-name="|IN| SAB" tvg-logo="" group-title="IN| INDIA",|IN| SAB
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211499
+#EXTINF:-1 tvg-id="" tvg-name="|IN| RISHTEY EUROPE" tvg-logo="" group-title="IN| INDIA",|IN| RISHTEY EUROPE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211498
+#EXTINF:-1 tvg-id="" tvg-name="|IN| RISHTEY CINEPLEX" tvg-logo="" group-title="IN| INDIA",|IN| RISHTEY CINEPLEX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211497
+#EXTINF:-1 tvg-id="" tvg-name="|IN| RAJ TV" tvg-logo="" group-title="IN| INDIA",|IN| RAJ TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211496
+#EXTINF:-1 tvg-id="" tvg-name="|IN| RAJ NEWS KANNADA" tvg-logo="" group-title="IN| INDIA",|IN| RAJ NEWS KANNADA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211495
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PUNJABI TV" tvg-logo="" group-title="IN| INDIA",|IN| PUNJABI TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211494
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PTC PUNJABI" tvg-logo="" group-title="IN| INDIA",|IN| PTC PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211493
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PTC NEWS (PUNJABI)" tvg-logo="" group-title="IN| INDIA",|IN| PTC NEWS (PUNJABI)
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211492
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PRIME ASIA TV" tvg-logo="" group-title="IN| INDIA",|IN| PRIME ASIA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211491
+#EXTINF:-1 tvg-id="" tvg-name="|IN| PITAARA TV" tvg-logo="" group-title="IN| INDIA",|IN| PITAARA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211490
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NEWS NATION" tvg-logo="" group-title="IN| INDIA",|IN| NEWS NATION
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211489
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NEWS 24" tvg-logo="" group-title="IN| INDIA",|IN| NEWS 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211488
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NDTV INDIA" tvg-logo="" group-title="IN| INDIA",|IN| NDTV INDIA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211487
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NDTV 24X7" tvg-logo="" group-title="IN| INDIA",|IN| NDTV 24X7
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211486
+#EXTINF:-1 tvg-id="" tvg-name="|IN| NAT GEO" tvg-logo="" group-title="IN| INDIA",|IN| NAT GEO
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211485
+#EXTINF:-1 tvg-id="" tvg-name="|IN| MUSIC INDIA" tvg-logo="" group-title="IN| INDIA",|IN| MUSIC INDIA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211484
+#EXTINF:-1 tvg-id="" tvg-name="|IN| MH ONE NEWS" tvg-logo="" group-title="IN| INDIA",|IN| MH ONE NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211483
+#EXTINF:-1 tvg-id="" tvg-name="|IN| MBC BOLLYWOOD" tvg-logo="" group-title="IN| INDIA",|IN| MBC BOLLYWOOD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211482
+#EXTINF:-1 tvg-id="" tvg-name="|IN| MANORANJAN TV" tvg-logo="" group-title="IN| INDIA",|IN| MANORANJAN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211481
+#EXTINF:-1 tvg-id="" tvg-name="|IN| LIVING FOODZ" tvg-logo="" group-title="IN| INDIA",|IN| LIVING FOODZ
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211480
+#EXTINF:-1 tvg-id="" tvg-name="|IN| KITE VICTERS" tvg-logo="" group-title="IN| INDIA",|IN| KITE VICTERS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211479
+#EXTINF:-1 tvg-id="" tvg-name="|IN| KALAIGNAR TV" tvg-logo="" group-title="IN| INDIA",|IN| KALAIGNAR TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211478
+#EXTINF:-1 tvg-id="" tvg-name="|IN| KAIRALI WE TV" tvg-logo="" group-title="IN| INDIA",|IN| KAIRALI WE TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211477
+#EXTINF:-1 tvg-id="" tvg-name="|IN| JUS PUNJABI" tvg-logo="" group-title="IN| INDIA",|IN| JUS PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211476
+#EXTINF:-1 tvg-id="" tvg-name="|IN| JAYA MAX" tvg-logo="" group-title="IN| INDIA",|IN| JAYA MAX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211475
+#EXTINF:-1 tvg-id="" tvg-name="|IN| JANTA TV" tvg-logo="" group-title="IN| INDIA",|IN| JANTA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211474
+#EXTINF:-1 tvg-id="" tvg-name="|IN| JANAM TV" tvg-logo="" group-title="IN| INDIA",|IN| JANAM TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211473
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA TV" tvg-logo="" group-title="IN| INDIA",|IN| INDIA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211472
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA TODAY" tvg-logo="" group-title="IN| INDIA",|IN| INDIA TODAY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211471
+#EXTINF:-1 tvg-id="" tvg-name="|IN| INDIA NEWS" tvg-logo="" group-title="IN| INDIA",|IN| INDIA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211470
+#EXTINF:-1 tvg-id="" tvg-name="|IN| IBC TAMIL" tvg-logo="" group-title="IN| INDIA",|IN| IBC TAMIL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211469
+#EXTINF:-1 tvg-id="" tvg-name="|IN| HISTORY CHANNEL" tvg-logo="" group-title="IN| INDIA",|IN| HISTORY CHANNEL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211468
+#EXTINF:-1 tvg-id="" tvg-name="|IN| HBO" tvg-logo="" group-title="IN| INDIA",|IN| HBO
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211467
+#EXTINF:-1 tvg-id="" tvg-name="|IN| HARVEST TV USA" tvg-logo="" group-title="IN| INDIA",|IN| HARVEST TV USA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211466
+#EXTINF:-1 tvg-id="" tvg-name="|IN| GEMINI MOVIES" tvg-logo="" group-title="IN| INDIA",|IN| GEMINI MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211465
+#EXTINF:-1 tvg-id="" tvg-name="|IN| GAUNDA PUNJAB TV" tvg-logo="" group-title="IN| INDIA",|IN| GAUNDA PUNJAB TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211464
+#EXTINF:-1 tvg-id="" tvg-name="|IN| FRANCE 24" tvg-logo="" group-title="IN| INDIA",|IN| FRANCE 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211463
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ET NOW" tvg-logo="" group-title="IN| INDIA",|IN| ET NOW
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211462
+#EXTINF:-1 tvg-id="" tvg-name="|IN| EPIC" tvg-logo="" group-title="IN| INDIA",|IN| EPIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211461
+#EXTINF:-1 tvg-id="" tvg-name="|IN| E24" tvg-logo="" group-title="IN| INDIA",|IN| E24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211460
+#EXTINF:-1 tvg-id="" tvg-name="|IN| DISCOVERY KIDS" tvg-logo="" group-title="IN| INDIA",|IN| DISCOVERY KIDS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211459
+#EXTINF:-1 tvg-id="" tvg-name="|IN| DD SPORTS" tvg-logo="" group-title="IN| INDIA",|IN| DD SPORTS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211458
+#EXTINF:-1 tvg-id="" tvg-name="|IN| DD PUNJABI" tvg-logo="" group-title="IN| INDIA",|IN| DD PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211457
+#EXTINF:-1 tvg-id="" tvg-name="|IN| DD NEWS" tvg-logo="" group-title="IN| INDIA",|IN| DD NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211456
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS RISHTEY" tvg-logo="" group-title="IN| INDIA",|IN| COLORS RISHTEY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211455
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS MARATHI" tvg-logo="" group-title="IN| INDIA",|IN| COLORS MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211454
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS KANNADA CINEMA" tvg-logo="" group-title="IN| INDIA",|IN| COLORS KANNADA CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211453
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS GUJARATI" tvg-logo="" group-title="IN| INDIA",|IN| COLORS GUJARATI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211452
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS EUROPE" tvg-logo="" group-title="IN| INDIA",|IN| COLORS EUROPE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211451
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS CINEPLEX" tvg-logo="" group-title="IN| INDIA",|IN| COLORS CINEPLEX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211450
+#EXTINF:-1 tvg-id="" tvg-name="|IN| COLORS" tvg-logo="" group-title="IN| INDIA",|IN| COLORS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211449
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CNBC AWAAZ" tvg-logo="" group-title="IN| INDIA",|IN| CNBC AWAAZ
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211448
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CHARDIKLA TIME TV" tvg-logo="" group-title="IN| INDIA",|IN| CHARDIKLA TIME TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211447
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CHANNEL NEWS ASIA" tvg-logo="" group-title="IN| INDIA",|IN| CHANNEL NEWS ASIA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211446
+#EXTINF:-1 tvg-id="" tvg-name="|IN| CARTOON NETWORK" tvg-logo="" group-title="IN| INDIA",|IN| CARTOON NETWORK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211445
+#EXTINF:-1 tvg-id="" tvg-name="|IN| BOOGLE BOLLYWOOD" tvg-logo="" group-title="IN| INDIA",|IN| BOOGLE BOLLYWOOD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211444
+#EXTINF:-1 tvg-id="" tvg-name="|IN| BOLLYWOOD CLASSIC" tvg-logo="" group-title="IN| INDIA",|IN| BOLLYWOOD CLASSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211443
+#EXTINF:-1 tvg-id="" tvg-name="|IN| B4U PLUS" tvg-logo="" group-title="IN| INDIA",|IN| B4U PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211442
+#EXTINF:-1 tvg-id="" tvg-name="|IN| B4U MUSIC" tvg-logo="" group-title="IN| INDIA",|IN| B4U MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211441
+#EXTINF:-1 tvg-id="" tvg-name="|IN| B4U MOVIES" tvg-logo="" group-title="IN| INDIA",|IN| B4U MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211440
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ASIANET PLUS" tvg-logo="" group-title="IN| INDIA",|IN| ASIANET PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211439
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ASIANET NEWS" tvg-logo="" group-title="IN| INDIA",|IN| ASIANET NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211438
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ASIANET MOVIES" tvg-logo="" group-title="IN| INDIA",|IN| ASIANET MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211437
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ASIANET" tvg-logo="" group-title="IN| INDIA",|IN| ASIANET
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211436
+#EXTINF:-1 tvg-id="" tvg-name="|IN| AKAAL CHANNEL UK" tvg-logo="" group-title="IN| INDIA",|IN| AKAAL CHANNEL UK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211435
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ADITHYA" tvg-logo="" group-title="IN| INDIA",|IN| ADITHYA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211434
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ABP NEWS" tvg-logo="" group-title="IN| INDIA",|IN| ABP NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211433
+#EXTINF:-1 tvg-id="" tvg-name="|IN| ABP ANANDA" tvg-logo="" group-title="IN| INDIA",|IN| ABP ANANDA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211432
+#EXTINF:-1 tvg-id="" tvg-name="|IN| AASTHA" tvg-logo="" group-title="IN| INDIA",|IN| AASTHA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211431
+#EXTINF:-1 tvg-id="" tvg-name="|IN| AAJ TAK" tvg-logo="" group-title="IN| INDIA",|IN| AAJ TAK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211430
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 9XM" tvg-logo="" group-title="IN| INDIA",|IN| 9XM
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211429
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 9X TASHAN" tvg-logo="" group-title="IN| INDIA",|IN| 9X TASHAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211428
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 9X JHAKAAS" tvg-logo="" group-title="IN| INDIA",|IN| 9X JHAKAAS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211427
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 9X JALWA" tvg-logo="" group-title="IN| INDIA",|IN| 9X JALWA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211426
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 5AAB TV" tvg-logo="" group-title="IN| INDIA",|IN| 5AAB TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211425
+#EXTINF:-1 tvg-id="" tvg-name="|IN| 3 TAMIL TV" tvg-logo="" group-title="IN| INDIA",|IN| 3 TAMIL TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211424
+#EXTINF:-1 tvg-id="" tvg-name="|IN| &TV" tvg-logo="" group-title="IN| INDIA",|IN| &TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211423
+#EXTINF:-1 tvg-id="" tvg-name="|IN| & PICTURES" tvg-logo="" group-title="IN| INDIA",|IN| & PICTURES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211422
+#EXTINF:-1 tvg-id="" tvg-name="|IN| &FLIX" tvg-logo="" group-title="IN| INDIA",|IN| &FLIX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211421
+#EXTINF:-1 tvg-id="" tvg-name="|IN| & PRIVE" tvg-logo="" group-title="IN| INDIA",|IN| & PRIVE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/211420
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TELGU" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ZEE TELGU
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149965
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV9 News" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| TV9 News
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149963
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE CINEMALU" tvg-logo="https://mobara.tv/logos/zee-cinema-in.png" group-title="IN| INDIA  TELUGU",IN| ZEE CINEMALU
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149962
+#EXTINF:-1 tvg-id="" tvg-name="IN| V6 NEWS" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| V6 NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149961
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV 5 NEWS." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| TV 5 NEWS.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149960
+#EXTINF:-1 tvg-id="" tvg-name="IN| STUDIO N." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| STUDIO N.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149959
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ NEWS." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| RAJ NEWS.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149958
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ MUSIC" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| RAJ MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149957
+#EXTINF:-1 tvg-id="" tvg-name="IN| PRAJAA TV." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| PRAJAA TV.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149956
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAA MOVIES HD." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| MAA MOVIES HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149954
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAA GOLD HD." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| MAA GOLD HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149953
+#EXTINF:-1 tvg-id="" tvg-name="IN| HM TV." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| HM TV.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149952
+#EXTINF:-1 tvg-id="" tvg-name="IN| HISTORY 18." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| HISTORY 18.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149951
+#EXTINF:-1 tvg-id="" tvg-name="IN| HINDU DHARMAM." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| HINDU DHARMAM.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149950
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI TV HD." tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-tv-hd-logo-300x300.jpg" group-title="IN| INDIA  TELUGU",IN| GEMINI TV HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149949
+#EXTINF:-1 tvg-id="" tvg-name="IN| ADITHYA TV." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ADITHYA TV.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149948
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI MUSIC HD." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI MUSIC HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149947
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI MOVIES HD." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI MOVIES HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149946
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI MOVIES." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI MOVIES.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149945
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI COMEDY." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI COMEDY.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149944
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI LIFE." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI LIFE.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149943
+#EXTINF:-1 tvg-id="" tvg-name="IN| Flowers TV HD." tvg-logo="" group-title="IN| INDIA  TELUGU",IN| Flowers TV HD.
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149942
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV ANDHRA PRADESH" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV ANDHRA PRADESH
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149941
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV TELANGANA" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV TELANGANA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149940
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV PLUS" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149939
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV LIFE" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV LIFE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149938
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV CINEMA" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149937
+#EXTINF:-1 tvg-id="" tvg-name="IN| Maa TV HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| Maa TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149936
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TELUGU HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ZEE TELUGU HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149935
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TEL HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ZEE TEL HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149934
+#EXTINF:-1 tvg-id="" tvg-name="IN| VISSA TV HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| VISSA TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149933
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV 5 HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| TV 5 HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149932
+#EXTINF:-1 tvg-id="" tvg-name="IN| STUDIO ONE HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| STUDIO ONE HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149931
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR MAA HD" tvg-logo="https://mobara.tv/logos/star_maa_in.png" group-title="IN| INDIA  TELUGU",IN| STAR MAA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149930
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAA GOLD HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| MAA GOLD HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149929
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI TV HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-tv-hd-logo-300x300.jpg" group-title="IN| INDIA  TELUGU",IN| GEMINI TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149928
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI MOVIE HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI MOVIE HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149927
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI COMEDY HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| GEMINI COMEDY HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149926
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV HD" tvg-logo="" group-title="IN| INDIA  TELUGU",IN| ETV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149925
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H HOME FHD" tvg-logo="" group-title="IN| INDIA  D2H FHD",IN| D2H HOME FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149786
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H MARVEL HINDI FHD" tvg-logo="" group-title="IN| INDIA  D2H FHD",IN| D2H MARVEL HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149785
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="IN| INDIA  D2H FHD",IN| STAR SPORTS SELECT 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149784
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ZEE TALKIES FHD" tvg-logo="https://mobara.tv/logos/zee-talkies-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H ZEE TALKIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149783
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NICK+ FHD ENGLISH" tvg-logo="" group-title="IN| INDIA  D2H FHD",IN| D2H NICK+ FHD ENGLISH
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149782
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ZEE TV FHD" tvg-logo="http://webo.asia/logos/zeetv.png" group-title="IN| INDIA  D2H FHD",IN| D2H ZEE TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149781
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ZEE CINEMA FHD" tvg-logo="https://mobara.tv/logos/zee-cinema-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H ZEE CINEMA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149780
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ZEE CAFE FHD" tvg-logo="https://mobara.tv/logos/zee-cafe-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H ZEE CAFE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149779
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H TLC FHD" tvg-logo="https://www.pngkey.com/png/detail/234-2341324_tlc-hd-tlc-a-discovery-network.png" group-title="IN| INDIA  D2H FHD",IN| D2H TLC FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149778
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR WORLD PREMIER FHD" tvg-logo="http://content.osn.com/logo/channel/cropped/STW.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR WORLD PREMIER FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149777
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR WORLD FHD" tvg-logo="http://content.osn.com/logo/channel/cropped/STW.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR WORLD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149776
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" group-title="IN| INDIA  D2H FHD",IN| STAR SPORTS 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149775
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/Star_Sports_Select_1.jpg" group-title="IN| INDIA  D2H FHD",IN| STAR SPORTS SELECT 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149774
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPORTS 1 FHD*" tvg-logo="https://mobara.tv/logos/star_sports_in_1.png" group-title="IN| INDIA  D2H FHD",IN| STAR SPORTS 1 FHD*
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149773
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://mobara.tv/logos/star_sports_in_1.png" group-title="IN| INDIA  D2H FHD",IN| STAR SPORTS 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149772
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR PLUS FHD" tvg-logo="https://mobara.tv/logos/star_plus_hk_india.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR PLUS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149771
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR MOVIES SELECT FHD" tvg-logo="https://mobara.tv/logos/star_movies.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR MOVIES SELECT FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149770
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR MOVIES FHD" tvg-logo="https://mobara.tv/logos/star_movies.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR MOVIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149769
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR GOLD SELECT FHD" tvg-logo="https://mobara.tv/logos/star_gold_in_hd.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR GOLD SELECT FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149768
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H Star GOLD FHD" tvg-logo="https://mobara.tv/logos/star_gold_hk.png" group-title="IN| INDIA  D2H FHD",IN| D2H Star GOLD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149767
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR BHARAT FHD" tvg-logo="https://mobara.tv/logos/star-bharat-hk.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR BHARAT FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149766
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY TV FHD" tvg-logo="https://www.indinewz.com/wp-content/uploads/2020/10/Sony-TV-Ads.jpg" group-title="IN| INDIA  D2H FHD",IN| D2H SONY TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149765
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY TEN 3 FHD" tvg-logo="https://mobara.tv/logos/sony-ten3.png" group-title="IN| INDIA  D2H FHD",IN| SONY TEN 3 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149764
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY TEN 2 FHD" tvg-logo="https://mobara.tv/logos/sony-ten2.png" group-title="IN| INDIA  D2H FHD",IN| SONY TEN 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149763
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY TEN 1 FHD" tvg-logo="https://mobara.tv/logos/sony-ten1.png" group-title="IN| INDIA  D2H FHD",IN| SONY TEN 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149762
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY SIX FHD" tvg-logo="https://mobara.tv/logos/sony_six_in.png" group-title="IN| INDIA  D2H FHD",IN| SONY SIX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149761
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY SAB FHD" tvg-logo="https://mobara.tv/logos/sony-sab-tv-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H SONY SAB FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149760
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY PIX FHD" tvg-logo="https://mobara.tv/logos/sony_pix_in.png" group-title="IN| INDIA  D2H FHD",IN| D2H SONY PIX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149759
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY MAX FHD" tvg-logo="https://mobara.tv/logos/sony_mix_in.png" group-title="IN| INDIA  D2H FHD",IN| D2H SONY MAX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149758
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY BBC EARTH FHD HINDI" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/BBCEarth.png" group-title="IN| INDIA  D2H FHD",IN| D2H SONY BBC EARTH FHD HINDI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149757
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H SONY BBC EARTH FHD" tvg-logo="http://webo.asia/logos/imageContent-11780-j9kx84o8-m1.png" group-title="IN| INDIA  D2H FHD",IN| D2H SONY BBC EARTH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149756
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NICK+ FHD" tvg-logo="https://www.logolynx.com/images/logolynx/ca/ca95b58aca42a6d338dafb690e5890a2.jpeg" group-title="IN| INDIA  D2H FHD",IN| D2H NICK+ FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149755
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO HINDI FHD" tvg-logo="http://content.osn.com/logo/channel/cropped/NHD.png" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149754
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO ENG FHD" tvg-logo="http://content.osn.com/logo/channel/cropped/NHD.png" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO ENG FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149753
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO WILD HINDI FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI2wZVycqD86Psd9DbKuEhR8mFM5z4_ooc-3UCLw=s900-c-k-c0x00ffffff-no-rj" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO WILD HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149752
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO WILD ENG FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI2wZVycqD86Psd9DbKuEhR8mFM5z4_ooc-3UCLw=s900-c-k-c0x00ffffff-no-rj" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO WILD ENG FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149751
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H MOVIE ACTIVE FHD" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="IN| INDIA  D2H FHD",IN| D2H MOVIE ACTIVE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149750
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H MNX FHD" tvg-logo="https://mobara.tv/logos/mnx-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H MNX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149749
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H HISTORY TV18 HINDI FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/History_TV18.jpeg" group-title="IN| INDIA  D2H FHD",IN| D2H HISTORY TV18 HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149748
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H DISCOVERY HINDI FHD" tvg-logo="https://mobara.tv/logos/discovery.png" group-title="IN| INDIA  D2H FHD",IN| D2H DISCOVERY HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149747
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H DISCOVERY ENGLISH FHD" tvg-logo="https://mobara.tv/logos/discovery.png" group-title="IN| INDIA  D2H FHD",IN| D2H DISCOVERY ENGLISH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149746
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H COLORS TV FHD" tvg-logo="https://mobara.tv/logos/colors-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H COLORS TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149745
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H COLORS INFINITY FHD" tvg-logo="https://mobara.tv/logos/colors_in_infinity.png" group-title="IN| INDIA  D2H FHD",IN| D2H COLORS INFINITY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149744
+#EXTINF:-1 tvg-id="" tvg-name="IN| CNBC PRIME TV18 FHD" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/04/cnbc-tv18-logo-vector.png" group-title="IN| INDIA  D2H FHD",IN| CNBC PRIME TV18 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149743
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ANIMAL PLANET FHD HINDI" tvg-logo="http://webo.asia/logos/1267_1.png" group-title="IN| INDIA  D2H FHD",IN| D2H ANIMAL PLANET FHD HINDI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149742
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H ANIMAL PLANET FHD ENG" tvg-logo="http://webo.asia/logos/1267_1.png" group-title="IN| INDIA  D2H FHD",IN| D2H ANIMAL PLANET FHD ENG
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149741
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H & TV FHD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png" group-title="IN| INDIA  D2H FHD",IN| D2H & TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149740
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H & PRIVE FHD" tvg-logo="https://mobara.tv/logos/and-prive-hd-in.png" group-title="IN| INDIA  D2H FHD",IN| D2H & PRIVE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149739
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H & PICTURES FHD" tvg-logo="https://mobara.tv/logos/and_pictures_in.png" group-title="IN| INDIA  D2H FHD",IN| D2H & PICTURES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149738
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H & FLIX HINDI FHD" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/10/andflix_6.jpg&w=620&h=350&zc=1&q=100" group-title="IN| INDIA  D2H FHD",IN| D2H & FLIX HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149737
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H & FLIX ENGLISH FHD" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/10/andflix_6.jpg&w=620&h=350&zc=1&q=100" group-title="IN| INDIA  D2H FHD",IN| D2H & FLIX ENGLISH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149736
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS TATA SKY THEATRE FHD" tvg-logo="https://exchange4media.gumlet.io/news-photo/95631-TataSkyTheatre.jpg" group-title="IN| INDIA  D2H FHD",IN| TS TATA SKY THEATRE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149735
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS TATA SKY HITS FHD" tvg-logo="https://www.tatasky.com/cms-assets/styles/image_232_x_152/s3/media-assets/images/2020-03/logo2.png" group-title="IN| INDIA  D2H FHD",IN| TS TATA SKY HITS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149734
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ANIMAL PLANET WORLD FHD ENG" tvg-logo="http://webo.asia/logos/1267_1.png" group-title="IN| INDIA  D2H FHD",IN| TS ANIMAL PLANET WORLD FHD ENG
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149733
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ZEE TALKIES FHD" tvg-logo="https://mobara.tv/logos/zee-talkies-in.png" group-title="IN| INDIA  D2H FHD",IN| TS ZEE TALKIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149732
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ANIMAL PLANET WORLD FHD HIN" tvg-logo="http://webo.asia/logos/1267_1.png" group-title="IN| INDIA  D2H FHD",IN| TS ANIMAL PLANET WORLD FHD HIN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149731
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS MN+ MOVIES FHD" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/12/MN-HD-2.jpg" group-title="IN| INDIA  D2H FHD",IN| TS MN+ MOVIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149730
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS MOVIES NOW FHD" tvg-logo="https://mobara.tv/logos/movies_now.png" group-title="IN| INDIA  D2H FHD",IN| TS MOVIES NOW FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149729
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS MTV FHD+" tvg-logo="https://mobara.tv/logos/mtv.jpg" group-title="IN| INDIA  D2H FHD",IN| TS MTV FHD+
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149728
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS & TV FHD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png" group-title="IN| INDIA  D2H FHD",IN| TS & TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149727
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS MNX FHD" tvg-logo="https://mobara.tv/logos/mnx-in.png" group-title="IN| INDIA  D2H FHD",IN| TS MNX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149726
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS MTV BEATS FHD" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/12/MTV-beats-turns-two_3.jpg" group-title="IN| INDIA  D2H FHD",IN| TS MTV BEATS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149725
+#EXTINF:-1 tvg-id="" tvg-name="IN-NEWSIN| TS TIMES NOW WORLD FHD" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2018/12/MTV-beats-turns-two_3.jpg" group-title="IN| INDIA  D2H FHD",IN-NEWSIN| TS TIMES NOW WORLD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149724
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS FOX LIFE FHD" tvg-logo="https://mobara.tv/logos/fox-life-us.png" group-title="IN| INDIA  D2H FHD",IN| TS FOX LIFE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149723
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS & PICTURE FHD" tvg-logo="https://mobara.tv/logos/and_pictures_in.png" group-title="IN| INDIA  D2H FHD",IN| TS & PICTURE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149722
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS COLORS INFINITY FHD" tvg-logo="https://mobara.tv/logos/colors_in_infinity.png" group-title="IN| INDIA  D2H FHD",IN| TS COLORS INFINITY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149721
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS HISTORY TV18  HINDI FHD" tvg-logo="https://mobara.tv/logos/history_tv18.png" group-title="IN| INDIA  D2H FHD",IN| TS HISTORY TV18  HINDI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149720
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR BHARAT FHD" tvg-logo="https://mobara.tv/logos/star-bharat-hk.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR BHARAT FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149719
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS BABY TV FHD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_tDRLy6TEo1wewjV0b3rfP80vgzu7y2_J9jA=s900-c-k-c0xffffffff-no-rj-mo" group-title="IN| INDIA  D2H FHD",IN| TS BABY TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149718
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS TLC WORLD FHD" tvg-logo="https://www.pngkey.com/png/detail/234-2341324_tlc-hd-tlc-a-discovery-network.png" group-title="IN| INDIA  D2H FHD",IN| TS TLC WORLD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149717
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY PIX FHD" tvg-logo="https://mobara.tv/logos/sony_pix_in.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY PIX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149716
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR GOLD FHD" tvg-logo="https://mobara.tv/logos/star_gold_hk.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR GOLD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149715
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY BBC EARTH FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/BBCEarth.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY BBC EARTH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149714
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ZEE CINEMA FHD" tvg-logo="https://mobara.tv/logos/zee-cinema-in.png" group-title="IN| INDIA  D2H FHD",IN| TS ZEE CINEMA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149713
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR PLUS FHD" tvg-logo="https://mobara.tv/logos/star_plus_hk_india.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR PLUS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149712
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY TV FHD" tvg-logo="https://www.indinewz.com/wp-content/uploads/2020/10/Sony-TV-Ads.jpg" group-title="IN| INDIA  D2H FHD",IN| TS SONY TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149711
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY MAX FHD" tvg-logo="https://mobara.tv/logos/sony_mix_in.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY MAX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149710
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ZEE TV FHD" tvg-logo="https://mobara.tv/logos/zee-tv-in.png" group-title="IN| INDIA  D2H FHD",IN| TS ZEE TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149709
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY SAB FHD" tvg-logo="https://mobara.tv/logos/sony-sab-tv-in.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY SAB FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149708
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS COLORS CINEPLEX FHD" tvg-logo="https://mobara.tv/logos/colors-cineplex-in.png" group-title="IN| INDIA  D2H FHD",IN| TS COLORS CINEPLEX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149707
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS COLORS FHD" tvg-logo="https://mobara.tv/logos/colors-in.png" group-title="IN| INDIA  D2H FHD",IN| TS COLORS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149706
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR SPORTS SELECT 1 FHD" tvg-logo="https://mobara.tv/logos/star_sports_hk_select_hd_1.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR SPORTS SELECT 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149705
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR SPORTS SELECT 2 FHD" tvg-logo="https://mobara.tv/logos/star_sports_hk_select_hd_1.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR SPORTS SELECT 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149704
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY SIX FHD" tvg-logo="https://mobara.tv/logos/sony_six_in.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY SIX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149703
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY TEN 3 FHD" tvg-logo="https://mobara.tv/logos/sony-ten3.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY TEN 3 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149702
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY TEN 1 FHD" tvg-logo="https://mobara.tv/logos/sony-ten1.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY TEN 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149701
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR SPORTS 2 FHD" tvg-logo="https://mobara.tv/logos/star_sports_in_2.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR SPORTS 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149700
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR SPORTS 1 FHD" tvg-logo="https://mobara.tv/logos/star_sports_in_1.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR SPORTS 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149699
+#EXTINF:-1 tvg-id="" tvg-name="IN-NEWSIN| TS AAJ TAK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="IN| INDIA  D2H FHD",IN-NEWSIN| TS AAJ TAK FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149698
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS SONY TEN 2 FHD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="IN| INDIA  D2H FHD",IN| TS SONY TEN 2 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149697
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR SPORTS 1 FHD" tvg-logo="https://mobara.tv/logos/star_sports_in_1.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR SPORTS 1 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149696
+#EXTINF:-1 tvg-id="" tvg-name="IN| Now Premier Cinema FHD" tvg-logo="https://assets.stickpng.com/images/5ef1c3111cfbc200047e7406.png" group-title="IN| INDIA  D2H FHD",IN| Now Premier Cinema FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149695
+#EXTINF:-1 tvg-id="" tvg-name="IN| Now Cinema FHD" tvg-logo="https://assets.stickpng.com/images/5ef1c3111cfbc200047e7406.png" group-title="IN| INDIA  D2H FHD",IN| Now Cinema FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149694
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H FOX LIFE FHD" tvg-logo="https://mobara.tv/logos/fox-life-us.png" group-title="IN| INDIA  D2H FHD",IN| D2H FOX LIFE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149693
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H DISCOVERY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8uZjMY-0LHcunaPewVBe5LJfEr89H__jOg&usqp=CAU" group-title="IN| INDIA  D2H FHD",IN| D2H DISCOVERY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149692
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR JALSHA MOVIES FHD" tvg-logo="https://mobara.tv/logos/star_jalsha.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR JALSHA MOVIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149691
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR JALSHA MOVIES FHD" tvg-logo="https://mobara.tv/logos/star_jalsha.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR JALSHA MOVIES FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149690
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H STAR JALSHA FHD" tvg-logo="https://mobara.tv/logos/star_jalsha.png" group-title="IN| INDIA  D2H FHD",IN| D2H STAR JALSHA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149689
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS STAR JALSHA FHD" tvg-logo="https://mobara.tv/logos/star_jalsha.png" group-title="IN| INDIA  D2H FHD",IN| TS STAR JALSHA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149688
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE BANGLA FHD" tvg-logo="https://mobara.tv/logos/zee-bangla-in.png" group-title="IN| INDIA  D2H FHD",IN| ZEE BANGLA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149687
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS ZEE BANGLA FHD" tvg-logo="https://mobara.tv/logos/zee-bangla-in.png" group-title="IN| INDIA  D2H FHD",IN| TS ZEE BANGLA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149686
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TV FHD" tvg-logo="https://mobara.tv/logos/zee-tv-in.png" group-title="IN| INDIA  D2H FHD",IN| ZEE TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149685
+#EXTINF:-1 tvg-id="" tvg-name="IN| TS COLORS FHD" tvg-logo="https://mobara.tv/logos/colors-in.png" group-title="IN| INDIA  D2H FHD",IN| TS COLORS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149684
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE PUNJAB HARYANA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| ZEE PUNJAB HARYANA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149577
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTN 24" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTN 24
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149575
+#EXTINF:-1 tvg-id="" tvg-name="IN| NEWS 18 PUNJAB HARYANA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| NEWS 18 PUNJAB HARYANA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149574
+#EXTINF:-1 tvg-id="" tvg-name="IN| MH1 PRIME NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| MH1 PRIME NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149573
+#EXTINF:-1 tvg-id="" tvg-name="IN| INDIA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| INDIA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149571
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149570
+#EXTINF:-1 tvg-id="" tvg-name="IN| PBN MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PBN MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149569
+#EXTINF:-1 tvg-id="" tvg-name="IN| MH ONE" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| MH ONE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149568
+#EXTINF:-1 tvg-id="" tvg-name="IN| JHANJAR MUSIC HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| JHANJAR MUSIC HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149567
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC CHAKDE" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC CHAKDE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149564
+#EXTINF:-1 tvg-id="" tvg-name="IN| DESI CHANNEL" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| DESI CHANNEL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149563
+#EXTINF:-1 tvg-id="" tvg-name="IN| CINE VOICE HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| CINE VOICE HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149562
+#EXTINF:-1 tvg-id="" tvg-name="IN| 5 AAB MUSIC HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| 5 AAB MUSIC HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149561
+#EXTINF:-1 tvg-id="" tvg-name="IN| BOOGLE BOLLYWOOD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| BOOGLE BOLLYWOOD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149560
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE5 PUNJABI BEATS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| ZEE5 PUNJABI BEATS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149559
+#EXTINF:-1 tvg-id="" tvg-name="IN| HAMDARD TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| HAMDARD TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149558
+#EXTINF:-1 tvg-id="" tvg-name="IN| SSTV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| SSTV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149557
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149556
+#EXTINF:-1 tvg-id="" tvg-name="IN| SANJHA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| SANJHA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149555
+#EXTINF:-1 tvg-id="" tvg-name="IN| GARV PUNJABI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| GARV PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149554
+#EXTINF:-1 tvg-id="" tvg-name="IN| PRIME ASIA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PRIME ASIA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149553
+#EXTINF:-1 tvg-id="" tvg-name="IN| MH1 SHRADDHA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| MH1 SHRADDHA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149552
+#EXTINF:-1 tvg-id="" tvg-name="IN| MANORANJAN MOVIES" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| MANORANJAN MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149551
+#EXTINF:-1 tvg-id="" tvg-name="IN| INDOZ TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| INDOZ TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149550
+#EXTINF:-1 tvg-id="" tvg-name="IN| JHANJAR HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| JHANJAR HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149549
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC PARDESI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC PARDESI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149548
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC DHOL HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC DHOL HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149547
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD PUNJABI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| DD PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149546
+#EXTINF:-1 tvg-id="" tvg-name="IN| FATEH TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| FATEH TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149545
+#EXTINF:-1 tvg-id="" tvg-name="IN| CHANNEL Y" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| CHANNEL Y
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149544
+#EXTINF:-1 tvg-id="" tvg-name="IN| Apna Punjab TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| Apna Punjab TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149543
+#EXTINF:-1 tvg-id="" tvg-name="IN| CHARDIKLA TIMES" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| CHARDIKLA TIMES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149542
+#EXTINF:-1 tvg-id="" tvg-name="IN| Vision Punjab TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| Vision Punjab TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149541
+#EXTINF:-1 tvg-id="" tvg-name="IN| Vision Punjab Gurbani HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| Vision Punjab Gurbani HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149540
+#EXTINF:-1 tvg-id="" tvg-name="IN| PITAARA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PITAARA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149539
+#EXTINF:-1 tvg-id="" tvg-name="IN| JUS PUNJABI HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| JUS PUNJABI HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149538
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC SIMRAN" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC SIMRAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149537
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC SIMRAN" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC SIMRAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149536
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC PUNJABI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149535
+#EXTINF:-1 tvg-id="" tvg-name="IN| PTC GOLD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| PTC GOLD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149534
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE PUNJABI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| ZEE PUNJABI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149533
+#EXTINF:-1 tvg-id="" tvg-name="IN| Living India News" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA PUNJABI",IN| Living India News
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149532
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE KALINGA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| ZEE KALINGA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149531
+#EXTINF:-1 tvg-id="" tvg-name="IN| TARANG TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| TARANG TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149530
+#EXTINF:-1 tvg-id="" tvg-name="IN| TARANG MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| TARANG MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149529
+#EXTINF:-1 tvg-id="" tvg-name="IN| SARTHAK TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| SARTHAK TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149528
+#EXTINF:-1 tvg-id="" tvg-name="IN| PRATHANA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| PRATHANA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149527
+#EXTINF:-1 tvg-id="" tvg-name="IN| PRAMEYA NEWS 7" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| PRAMEYA NEWS 7
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149526
+#EXTINF:-1 tvg-id="" tvg-name="IN| OTV (ODISHA TV)" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| OTV (ODISHA TV)
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149525
+#EXTINF:-1 tvg-id="" tvg-name="IN| NEWS WORLD ODISHA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| NEWS WORLD ODISHA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149524
+#EXTINF:-1 tvg-id="" tvg-name="IN| NAXATRA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| NAXATRA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149523
+#EXTINF:-1 tvg-id="" tvg-name="IN| KANAK NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| KANAK NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149522
+#EXTINF:-1 tvg-id="" tvg-name="IN| KALAINGAR TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| KALAINGAR TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149521
+#EXTINF:-1 tvg-id="" tvg-name="IN| ETV NEWS ORIYA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| ETV NEWS ORIYA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149520
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD ODIYA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| DD ODIYA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149519
+#EXTINF:-1 tvg-id="" tvg-name="IN| ALANKAR TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| ALANKAR TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149518
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS ODIYA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA ODIA",IN| COLORS ODIYA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149517
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| ZEE TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149516
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149515
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA MOVIES" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149514
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA COMEDY" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA COMEDY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149513
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149512
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149511
+#EXTINF:-1 tvg-id="" tvg-name="IN| UDAYA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| UDAYA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149510
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV9 KANNADA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| TV9 KANNADA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149509
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV 5" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| TV 5
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149508
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUVARNA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| SUVARNA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149507
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SUVARNA FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| STAR SUVARNA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149506
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SUVARNA SD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| STAR SUVARNA SD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149505
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SUVANA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| STAR SUVANA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149504
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS CINEMA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| COLORS CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149503
+#EXTINF:-1 tvg-id="" tvg-name="IN| SRI SANKARA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| SRI SANKARA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149502
+#EXTINF:-1 tvg-id="" tvg-name="IN| SARAL JEEVAN" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| SARAL JEEVAN
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149501
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| RAJ NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149500
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| RAJ MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149499
+#EXTINF:-1 tvg-id="" tvg-name="IN| PUBLIC MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| PUBLIC MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149498
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| SONIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149497
+#EXTINF:-1 tvg-id="" tvg-name="IN| PUBLIC TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| PUBLIC TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149496
+#EXTINF:-1 tvg-id="" tvg-name="IN| NICK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| NICK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149495
+#EXTINF:-1 tvg-id="" tvg-name="IN| KASTURI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| KASTURI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149494
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY KIDS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| DISCOVERY KIDS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149493
+#EXTINF:-1 tvg-id="" tvg-name="IN| NEWS FIRST" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| NEWS FIRST
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149492
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| DISCOVERY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149491
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV 5 NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| TV 5 NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149490
+#EXTINF:-1 tvg-id="" tvg-name="IN| JANATAA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| JANATAA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149489
+#EXTINF:-1 tvg-id="" tvg-name="IN| BTV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| BTV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149488
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE PICCHAR" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| ZEE PICCHAR
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149487
+#EXTINF:-1 tvg-id="" tvg-name="IN| CHINTU TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| CHINTU TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149486
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| COLORS HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149485
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| COLORS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149484
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS SUPER HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| COLORS SUPER HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149483
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR SPOR1 KANADA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA KANADA",IN| STAR SPOR1 KANADA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149482
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY BBC EARTH HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SONY BBC EARTH HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149481
+#EXTINF:-1 tvg-id="" tvg-name="IN| HISTORY HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| HISTORY HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149480
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY KIDS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| DISCOVERY KIDS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149479
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY CHANNEL" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| DISCOVERY CHANNEL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149478
+#EXTINF:-1 tvg-id="" tvg-name="IN| TRAVEL XP" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| TRAVEL XP
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149477
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONIC NICK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SONIC NICK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149476
+#EXTINF:-1 tvg-id="" tvg-name="IN| POGO" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| POGO
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149475
+#EXTINF:-1 tvg-id="" tvg-name="IN| NICK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| NICK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149474
+#EXTINF:-1 tvg-id="" tvg-name="IN| CHUTTI TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| CHUTTI TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149473
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY YAY" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SONY YAY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149471
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| RAJ TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149470
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ NEWS 24X7" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| RAJ NEWS 24X7
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149469
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ MUSIX" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| RAJ MUSIX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149468
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ DIGITAL PLUS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| RAJ DIGITAL PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149467
+#EXTINF:-1 tvg-id="" tvg-name="IN| JAYA PLUS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| JAYA PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149465
+#EXTINF:-1 tvg-id="" tvg-name="IN| JAYA TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| JAYA TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149464
+#EXTINF:-1 tvg-id="" tvg-name="IN| KTV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| KTV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149463
+#EXTINF:-1 tvg-id="" tvg-name="IN| J MOVIES" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| J MOVIES
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149462
+#EXTINF:-1 tvg-id="" tvg-name="IN| ANGEL TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| ANGEL TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149461
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC BAKTHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC BAKTHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149460
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC SILUVAI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC SILUVAI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149459
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149458
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC COMEDY" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC COMEDY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149457
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149456
+#EXTINF:-1 tvg-id="" tvg-name="IN| IBC CA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| IBC CA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149455
+#EXTINF:-1 tvg-id="" tvg-name="IN| TVI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| TVI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149454
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149453
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN MUSIC HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN MUSIC HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149452
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN LIFE" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN LIFE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149451
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN LIFE" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN LIFE
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149450
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149449
+#EXTINF:-1 tvg-id="" tvg-name="IN| VIJAY SUPER" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| VIJAY SUPER
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149448
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR VIJAY FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| STAR VIJAY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149447
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TAMIL FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| ZEE TAMIL FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149446
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE TV FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| ZEE TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149445
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS TAMIL" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| COLORS TAMIL
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149444
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| COLORS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149443
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| COLORS HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149442
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN TV FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149441
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD PODHIGAI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| DD PODHIGAI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149440
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAKKAL TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| MAKKAL TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149439
+#EXTINF:-1 tvg-id="" tvg-name="IN| POLIMER NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| POLIMER NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149438
+#EXTINF:-1 tvg-id="" tvg-name="IN| PUTHYUGAM TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| PUTHYUGAM TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149437
+#EXTINF:-1 tvg-id="" tvg-name="IN| PUTIYA THALAMURAI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| PUTIYA THALAMURAI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149436
+#EXTINF:-1 tvg-id="" tvg-name="IN| VENDHAR NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| VENDHAR NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149435
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUN MUSIC FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SUN MUSIC FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149434
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR MAA FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| STAR MAA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149433
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY BBC EARTH FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SONY BBC EARTH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149432
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| SONIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149431
+#EXTINF:-1 tvg-id="" tvg-name="IN| POGO" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| POGO
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149430
+#EXTINF:-1 tvg-id="" tvg-name="IN| NICK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| NICK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149429
+#EXTINF:-1 tvg-id="" tvg-name="IN| NAT GEO WILD FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| NAT GEO WILD FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149428
+#EXTINF:-1 tvg-id="" tvg-name="IN| HISTORY TV18 FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| HISTORY TV18 FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149427
+#EXTINF:-1 tvg-id="" tvg-name="IN| GEMINI TV FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| GEMINI TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149426
+#EXTINF:-1 tvg-id="" tvg-name="IN| FOX LIFE FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| FOX LIFE FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149425
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY KIDS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| DISCOVERY KIDS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149424
+#EXTINF:-1 tvg-id="" tvg-name="IN| DISCOVERY FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| DISCOVERY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149423
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR VIJAY FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| STAR VIJAY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149422
+#EXTINF:-1 tvg-id="" tvg-name="IN| CARTOON NETWORK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| CARTOON NETWORK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149421
+#EXTINF:-1 tvg-id="" tvg-name="IN| ANIMAL PLANET FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| ANIMAL PLANET FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149420
+#EXTINF:-1 tvg-id="" tvg-name="IN| &FLIX FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA  TAMILI",IN| &FLIX FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149419
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ TV9 GUJRATI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ TV9 GUJRATI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149355
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ VTV NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ VTV NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149354
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ SANDESH NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ SANDESH NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149353
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ MANTAVYA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ MANTAVYA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149352
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ GSTV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ GSTV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149351
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ KARTAVYA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ KARTAVYA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149350
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ LAKSHYA TV FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ LAKSHYA TV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149349
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ KALYAN TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ KALYAN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149348
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ CNBC BAZAR" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ CNBC BAZAR
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149347
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ NEWS 18 HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ NEWS 18 HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149346
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ  INDIA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ  INDIA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149345
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ TV9 BHARATVARSH" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ TV9 BHARATVARSH
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149344
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ ZEE 24 KALAK" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ ZEE 24 KALAK
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149343
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ  SONIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ  SONIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149342
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ DD GIRNAR" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ DD GIRNAR
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149341
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ ABP ASMITA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ ABP ASMITA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149340
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ SHIKSHA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ SHIKSHA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149339
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ  COLORS GUJRATI CINEMA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ  COLORS GUJRATI CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149338
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ COLORS CINEMA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ COLORS CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149337
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ  COLORS GUJRATI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ  COLORS GUJRATI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149336
+#EXTINF:-1 tvg-id="" tvg-name="IN| GUJ COLORS TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| GUJ COLORS TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149335
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SONIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149313
+#EXTINF:-1 tvg-id="" tvg-name="IN| KTV FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KTV FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149312
+#EXTINF:-1 tvg-id="" tvg-name="IN|  DISCOVERY KIDS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  DISCOVERY KIDS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149311
+#EXTINF:-1 tvg-id="" tvg-name="IN|  DISCOVERY FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  DISCOVERY FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149310
+#EXTINF:-1 tvg-id="" tvg-name="IN|  SURYA MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  SURYA MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149309
+#EXTINF:-1 tvg-id="" tvg-name="IN| SURYA MUSIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SURYA MUSIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149308
+#EXTINF:-1 tvg-id="" tvg-name="IN|  SURYA COMEDY" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  SURYA COMEDY
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149307
+#EXTINF:-1 tvg-id="" tvg-name="IN| SURYA CINEMA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SURYA CINEMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149306
+#EXTINF:-1 tvg-id="" tvg-name="IN|  SURYA FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  SURYA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149305
+#EXTINF:-1 tvg-id="" tvg-name="IN| SURYA TV HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SURYA TV HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149304
+#EXTINF:-1 tvg-id="" tvg-name="IN| SURYA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SURYA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149303
+#EXTINF:-1 tvg-id="" tvg-name="IN| SHOLAM TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| SHOLAM TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149302
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| RAJ NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149301
+#EXTINF:-1 tvg-id="" tvg-name="IN| RAJ MUSIX" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| RAJ MUSIX
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149300
+#EXTINF:-1 tvg-id="" tvg-name="IN| NEWS 18 KERALA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| NEWS 18 KERALA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149299
+#EXTINF:-1 tvg-id="" tvg-name="IN| MEDIA ONE TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MEDIA ONE TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149298
+#EXTINF:-1 tvg-id="" tvg-name="IN|   MAZHAVIL MANORAMA FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|   MAZHAVIL MANORAMA FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149297
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAZAVALI MANORAMA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MAZAVALI MANORAMA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149296
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAZHAVIL MANORAMA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MAZHAVIL MANORAMA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149295
+#EXTINF:-1 tvg-id="" tvg-name="IN| MAZHAVIL MANORAMA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MAZHAVIL MANORAMA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149294
+#EXTINF:-1 tvg-id="" tvg-name="IN| MATHRUBHUMI NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MATHRUBHUMI NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149293
+#EXTINF:-1 tvg-id="" tvg-name="IN| MANORAMA NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| MANORAMA NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149292
+#EXTINF:-1 tvg-id="" tvg-name="IN| KOCHU TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KOCHU TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149291
+#EXTINF:-1 tvg-id="" tvg-name="IN| KIRAN TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KIRAN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149290
+#EXTINF:-1 tvg-id="" tvg-name="IN| KAUMUDY TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KAUMUDY TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149289
+#EXTINF:-1 tvg-id="" tvg-name="IN| KAPPA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KAPPA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149288
+#EXTINF:-1 tvg-id="" tvg-name="IN| KAIRALI WE TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KAIRALI WE TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149287
+#EXTINF:-1 tvg-id="" tvg-name="IN| KAIRALI TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KAIRALI TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149286
+#EXTINF:-1 tvg-id="" tvg-name="IN| KAIRALI NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KAIRALI NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149285
+#EXTINF:-1 tvg-id="" tvg-name="IN| JEEVAN TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| JEEVAN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149284
+#EXTINF:-1 tvg-id="" tvg-name="IN| JANAM TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| JANAM TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149283
+#EXTINF:-1 tvg-id="" tvg-name="IN|  FLOWERS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN|  FLOWERS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149282
+#EXTINF:-1 tvg-id="" tvg-name="IN| FLOWER TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| FLOWER TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149281
+#EXTINF:-1 tvg-id="" tvg-name="IN| JAIHIND TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| JAIHIND TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149280
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| DD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149279
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD MALAYALAM" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| DD MALAYALAM
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149278
+#EXTINF:-1 tvg-id="" tvg-name="IN| KERALAM" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| KERALAM
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149277
+#EXTINF:-1 tvg-id="" tvg-name="IN| AMRITA TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| AMRITA TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149276
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASIANET NEWS HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| ASIANET NEWS HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149275
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASIANET NEWS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| ASIANET NEWS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149274
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASIANET PLUS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| ASIANET PLUS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149273
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASIANET MOVIES HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| ASIANET MOVIES HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149272
+#EXTINF:-1 tvg-id="" tvg-name="IN| ASIANET HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MALAYALAM &  GUJRATI",IN| ASIANET HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149271
+#EXTINF:-1 tvg-id="" tvg-name="IN|  ZEE MARATHI SD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  ZEE MARATHI SD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149270
+#EXTINF:-1 tvg-id="" tvg-name="IN|  SONY MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  SONY MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149269
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE YUVA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| ZEE YUVA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149268
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE 24 TAAS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| ZEE 24 TAAS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149267
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV9 MAHARASHTRA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| TV9 MAHARASHTRA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149266
+#EXTINF:-1 tvg-id="" tvg-name="IN| NEWS18 LOKMAT" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| NEWS18 LOKMAT
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149265
+#EXTINF:-1 tvg-id="" tvg-name="IN| ABP MAJHA HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| ABP MAJHA HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149264
+#EXTINF:-1 tvg-id="" tvg-name="IN| BBC MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| BBC MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149263
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD YADAGIRI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| DD YADAGIRI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149262
+#EXTINF:-1 tvg-id="" tvg-name="IN| SANGEET MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| SANGEET MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149261
+#EXTINF:-1 tvg-id="" tvg-name="IN| DD SAHYADRI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| DD SAHYADRI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149260
+#EXTINF:-1 tvg-id="" tvg-name="IN| SUGRAN TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| SUGRAN TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149259
+#EXTINF:-1 tvg-id="" tvg-name="IN| TV9 MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| TV9 MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149258
+#EXTINF:-1 tvg-id="" tvg-name="IN| SAAM TV" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| SAAM TV
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149257
+#EXTINF:-1 tvg-id="" tvg-name="IN| FAKT MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| FAKT MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149256
+#EXTINF:-1 tvg-id="" tvg-name="IN| 9X JHAKAAS" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| 9X JHAKAAS
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149255
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY MARATHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| SONY MARATHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149254
+#EXTINF:-1 tvg-id="" tvg-name="IN| ZEE MARATHI HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| ZEE MARATHI HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149253
+#EXTINF:-1 tvg-id="" tvg-name="IN| COLORS HD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| COLORS HD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149252
+#EXTINF:-1 tvg-id="" tvg-name="IN|  STAR PRAVAH FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  STAR PRAVAH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149251
+#EXTINF:-1 tvg-id="" tvg-name="IN| STAR PRAVAH FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN| STAR PRAVAH FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149250
+#EXTINF:-1 tvg-id="" tvg-name="IN|  COLORS MARATHI SD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  COLORS MARATHI SD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149249
+#EXTINF:-1 tvg-id="" tvg-name="IN|  LOKSHAHI" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  LOKSHAHI
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149248
+#EXTINF:-1 tvg-id="" tvg-name="IN|  ABP MAJHA" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  ABP MAJHA
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149247
+#EXTINF:-1 tvg-id="" tvg-name="IN|  SONIC" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  SONIC
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149246
+#EXTINF:-1 tvg-id="" tvg-name="IN|  COLORS SUPER" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  COLORS SUPER
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149245
+#EXTINF:-1 tvg-id="" tvg-name="IN|  COLORS FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  COLORS FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149244
+#EXTINF:-1 tvg-id="" tvg-name="IN|  ZEE MARATHI FHD" tvg-logo="https://mobara.tv/logos/india.png" group-title="IN| INDIA MARATHI",IN|  ZEE MARATHI FHD
+http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/149243
+
+
+
 
 
 
@@ -45468,3 +46038,568 @@ http://smartbp.xyz:8080/Tejaatluri84017/dZC3ZH4/8929
 http://smartbp.xyz:8080/Tejaatluri84017/dZC3ZH4/8930
 #EXTINF:-1 tvg-id="colorskannadacinema.in" tvg-name="IND: :Colors Kannada Cinema FHD" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/colors-kannada-cinema.jpg?downsize=*:35" group-title="| Kannada (ಕನ್ನಡ) |",IND: :Colors Kannada Cinema FHD
 http://smartbp.xyz:8080/Tejaatluri84017/dZC3ZH4/9318
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-name="###### op.web24.live" tvg-id="(no tvg-id)" group-title="###### op.web24.live",###### op.web24.live ######
+http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u
+
+#EXTINF:-1,IN | &PICTURES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36597
+#EXTINF:-1,IN | &PRIVE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36598
+#EXTINF:-1,IN | &TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36599
+#EXTINF:-1,IN | 24 NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36600
+#EXTINF:-1,IN | 4TV NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36601
+#EXTINF:-1,IN | 8XM
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36602
+#EXTINF:-1,IN | 9XM
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36603
+#EXTINF:-1,IN | AAJ ENTERTAINMENT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36604
+#EXTINF:-1,IN | AAJ KATEZ
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36605
+#EXTINF:-1,IN | AAJ TAK
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36606
+#EXTINF:-1,IN | AAPKA COLORS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36607
+#EXTINF:-1,IN | AASTHA BHAJAN
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36608
+#EXTINF:-1,IN | AASTHA TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36609
+#EXTINF:-1,IN | ABP NEWS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36610
+#EXTINF:-1,IN | ABZY DHAKAD.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36611
+#EXTINF:-1,IN | ADITHYA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36612
+#EXTINF:-1,IN | AL JAZEERA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36613
+#EXTINF:-1,IN | ANIMAL PLANET
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36614
+#EXTINF:-1,IN | ANIMAL PLANET WORLD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36615
+#EXTINF:-1,IN | APLUS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36616
+#EXTINF:-1,IN | APNA TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36617
+#EXTINF:-1,IN | ARIHANT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36618
+#EXTINF:-1,IN | ARY FAMILY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36619
+#EXTINF:-1,IN | ARY QTV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36620
+#EXTINF:-1,IN | ARY ZINDAGI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36621
+#EXTINF:-1,IN | ASIA NET
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36623
+#EXTINF:-1,IN | ASIA NET GOLDEN NEWS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36622
+#EXTINF:-1,IN | ASSHIRWAT TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36624
+#EXTINF:-1,IN | AXN
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36625
+#EXTINF:-1,IN | B4U KADAK.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36626
+#EXTINF:-1,IN | B4U MOVIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36627
+#EXTINF:-1,IN | B4U MOVIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36628
+#EXTINF:-1,IN | B4U MUSIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36629
+#EXTINF:-1,IN | B4U MUSIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36630
+#EXTINF:-1,IN | BABY TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36631
+#EXTINF:-1,IN | BFLIX MOVIES.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36632
+#EXTINF:-1,IN | BHOJPURI CINEMA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36633
+#EXTINF:-1,IN | BIG MAGIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36634
+#EXTINF:-1,IN | BOL ENT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36635
+#EXTINF:-1,IN | CAPITAL NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36636
+#EXTINF:-1,IN | CARTOON NETWORK
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36637
+#EXTINF:-1,IN | CHANNEL ONE NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36638
+#EXTINF:-1,IN | CHANNEL5 NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36639
+#EXTINF:-1,IN | CHARDIKALA TIME TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36640
+#EXTINF:-1,IN | CINEPLEX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36641
+#EXTINF:-1,IN | CINEPLEX UK
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36642
+#EXTINF:-1,IN | CITY 41 NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36643
+#EXTINF:-1,IN | CITY 42 NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36644
+#EXTINF:-1,IN | CLASSICA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36645
+#EXTINF:-1,IN | COLORS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36651
+#EXTINF:-1,IN | COLORS BANGLA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36646
+#EXTINF:-1,IN | COLORS CINEPLEX .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36647
+#EXTINF:-1,IN | COLORS GUJARATI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36650
+#EXTINF:-1,IN | COLORS KANNADA CINEMA.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36655
+#EXTINF:-1,IN | COLORS RISHTEY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36657
+#EXTINF:-1,IN | COLORSFINITY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36653
+#EXTINF:-1,IN | CVR NEWS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36660
+#EXTINF:-1,IN | DA NEWS PLUS .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36661
+#EXTINF:-1,IN | DANGAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36662
+#EXTINF:-1,IN | DARSHANA TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36663
+#EXTINF:-1,IN | DAWN NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36664
+#EXTINF:-1,IN | DD BANGLA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36665
+#EXTINF:-1,IN | DD BHARAT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36666
+#EXTINF:-1,IN | DD CHANDANA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36667
+#EXTINF:-1,IN | DD GIRNER
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36668
+#EXTINF:-1,IN | DD KISAN.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36669
+#EXTINF:-1,IN | DD MADHIYA PRADESH.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36670
+#EXTINF:-1,IN | DD MALAY.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36671
+#EXTINF:-1,IN | DD NATIONAL .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36673
+#EXTINF:-1,IN | DD ODIA.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36675
+#EXTINF:-1,IN | DD PODHIGAI.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36676
+#EXTINF:-1,IN | DD PUNJABI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36677
+#EXTINF:-1,IN | DD SPORTS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36678
+#EXTINF:-1,IN | DD URDU
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36680
+#EXTINF:-1,IN | DD YADAGIRI.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36681
+#EXTINF:-1,IN | DHERAN TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36682
+#EXTINF:-1,IN | DHINCHAAK 2 .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36684
+#EXTINF:-1,IN | DHINCHAAK.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36685
+#EXTINF:-1,IN | DIGHVIJAY NEWS 24X7.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36686
+#EXTINF:-1,IN | DISCOVERY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36687
+#EXTINF:-1,IN | DISCOVERY SCIENCE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36688
+#EXTINF:-1,IN | DISCOVERY TURBO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36689
+#EXTINF:-1,IN | DISNEY CHANNEL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36690
+#EXTINF:-1,IN | ENTER 10 BANGLA MOVIES.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36693
+#EXTINF:-1,IN | ENTER 10 BANGLA.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36692
+#EXTINF:-1,IN | ENTER 10 MOVIES .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36694
+#EXTINF:-1,IN | EPIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36695
+#EXTINF:-1,IN | EROSNOW SLATE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36696
+#EXTINF:-1,IN | ETV LIFE .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36697
+#EXTINF:-1,IN | ETV TELEGU
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36698
+#EXTINF:-1,IN | EXPRESS ENTERTAINMENT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36699
+#EXTINF:-1,IN | FASHION
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36700
+#EXTINF:-1,IN | FILAMCHI.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36701
+#EXTINF:-1,IN | FOOD FOOD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36702
+#EXTINF:-1,IN | FOX LIFE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36703
+#EXTINF:-1,IN | GEO ENT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36704
+#EXTINF:-1,IN | GEO KAHANI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36705
+#EXTINF:-1,IN | GEO SUPER
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36706
+#EXTINF:-1,IN | GEO TEZ
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36707
+#EXTINF:-1,IN | GNN NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36708
+#EXTINF:-1,IN | GNT NEWS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36709
+#EXTINF:-1,IN | GULISTAN NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36710
+#EXTINF:-1,IN | HADI TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36711
+#EXTINF:-1,IN | HARVEST TV24X7.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36712
+#EXTINF:-1,IN | HINDI KHABAR
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36713
+#EXTINF:-1,IN | HISTORY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36714
+#EXTINF:-1,IN | HOPE TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36715
+#EXTINF:-1,IN | HUM NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36717
+#EXTINF:-1,IN | HUM SITARAY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36718
+#EXTINF:-1,IN | INDIA NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36719
+#EXTINF:-1,IN | INSYNC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36720
+#EXTINF:-1,IN | ISHWAR
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36721
+#EXTINF:-1,IN | JAI HIND TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36722
+#EXTINF:-1,IN | JALWA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36723
+#EXTINF:-1,IN | JANAM TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36724
+#EXTINF:-1,IN | JEEVAN NEWS .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36725
+#EXTINF:-1,IN | JK CHANNEL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36726
+#EXTINF:-1,IN | JUS HINDI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36727
+#EXTINF:-1,IN | KARBALA TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36728
+#EXTINF:-1,IN | KARNATAKA TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36729
+#EXTINF:-1,IN | KTV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36730
+#EXTINF:-1,IN | M4U MOVIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36731
+#EXTINF:-1,IN | MADANI TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36733
+#EXTINF:-1,IN | MAHA MOVIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36734
+#EXTINF:-1,IN | MAHA PUNJABI.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36735
+#EXTINF:-1,IN | MANGALAM TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36736
+#EXTINF:-1,IN | MANGO TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36737
+#EXTINF:-1,IN | MANORANJAN MOVIES.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36738
+#EXTINF:-1,IN | MANORANJAN TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36739
+#EXTINF:-1,IN | MASALA TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36740
+#EXTINF:-1,IN | MASTI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36741
+#EXTINF:-1,IN | MOVIE PLUS .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36742
+#EXTINF:-1,IN | MTV BEATS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36743
+#EXTINF:-1,IN | MTVDIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36744
+#EXTINF:-1,IN | MUSIC MASTI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36745
+#EXTINF:-1,IN | NATIONAL GEOGRAPHIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36746
+#EXTINF:-1,IN | ND TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36747
+#EXTINF:-1,IN | NDTV 24X7
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36748
+#EXTINF:-1,IN | NEO NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36749
+#EXTINF:-1,IN | NEW NEWS DADA 24X7.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36750
+#EXTINF:-1,IN | NEWS 18.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36751
+#EXTINF:-1,IN | NEWS ONE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36752
+#EXTINF:-1,IN | NEWS18
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36753
+#EXTINF:-1,IN | NEWS18 UP UTTAKHRAND
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36754
+#EXTINF:-1,IN | NICKELODEON
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36755
+#EXTINF:-1,IN | NR NEWS.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36757
+#EXTINF:-1,IN | OM TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36758
+#EXTINF:-1,IN | PAIGHAM TV PASHTO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36759
+#EXTINF:-1,IN | PEACE TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36761
+#EXTINF:-1,IN | PEACE TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36762
+#EXTINF:-1,IN | PEACE TV ENGLISH
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36760
+#EXTINF:-1,IN | POLIMER TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36763
+#EXTINF:-1,IN | POPULAR TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36764
+#EXTINF:-1,IN | POWER VISION.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36765
+#EXTINF:-1,IN | PTC CHAKDE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36766
+#EXTINF:-1,IN | PTC NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36768
+#EXTINF:-1,IN | PTC PUNJABI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36770
+#EXTINF:-1,IN | PTC PUNJABI GOLD.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36769
+#EXTINF:-1,IN | PTV HOME
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36771
+#EXTINF:-1,IN | PTV WORLD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36772
+#EXTINF:-1,IN | PUBLIC NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36775
+#EXTINF:-1,IN | R.BHARAT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36778
+#EXTINF:-1,IN | RAVI TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36780
+#EXTINF:-1,IN | REPUBLIC NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36781
+#EXTINF:-1,IN | REPUBLIC TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36782
+#EXTINF:-1,IN | RETRO TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36784
+#EXTINF:-1,IN | RISHTEY CINEPLEX.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36786
+#EXTINF:-1,IN | ROMEDAY NOW.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36787
+#EXTINF:-1,IN | ROMEDY NOW
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36788
+#EXTINF:-1,IN | SAB TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36789
+#EXTINF:-1,IN | SADHNA PLUS NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36790
+#EXTINF:-1,IN | SADHNA PRIME NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36791
+#EXTINF:-1,IN | SAFARI TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36792
+#EXTINF:-1,IN | SAHARA SAMAY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36793
+#EXTINF:-1,IN | SAKHI TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36794
+#EXTINF:-1,IN | SAMAA NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36795
+#EXTINF:-1,IN | SANSAD TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36796
+#EXTINF:-1,IN | SANSKAR
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36797
+#EXTINF:-1,IN | SATHIYAM TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36798
+#EXTINF:-1,IN | SATSANG TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36799
+#EXTINF:-1,IN | SET
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36800
+#EXTINF:-1,IN | SET MAX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36801
+#EXTINF:-1,IN | SHALOM TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36802
+#EXTINF:-1,IN | SHEMAROO TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36805
+#EXTINF:-1,IN | SHUBH TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36806
+#EXTINF:-1,IN | SINDH ENTERTAINMENT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36807
+#EXTINF:-1,IN | SINDH NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36808
+#EXTINF:-1,IN | SOHAM
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36810
+#EXTINF:-1,IN | SONY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36811
+#EXTINF:-1,IN | SONY MAX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36813
+#EXTINF:-1,IN | SONY MAX 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36812
+#EXTINF:-1,IN | SONY PAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36814
+#EXTINF:-1,IN | SONY PIX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36816
+#EXTINF:-1,IN | SONY SAB
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36817
+#EXTINF:-1,IN | SONY SIX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36819
+#EXTINF:-1,IN | SONY YAY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36820
+#EXTINF:-1,IN | STAR BHARAT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36821
+#EXTINF:-1,IN | STAR GOLD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36823
+#EXTINF:-1,IN | STAR GOLD SELECT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36824
+#EXTINF:-1,IN | STAR JALSHA.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36827
+#EXTINF:-1,IN | STAR MAA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36830
+#EXTINF:-1,IN | STAR MAA GOLD.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36829
+#EXTINF:-1,IN | STAR MOVIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36831
+#EXTINF:-1,IN | STAR PLUS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36832
+#EXTINF:-1,IN | STAR SPORTS 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36833
+#EXTINF:-1,IN | STAR SPORTS 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36834
+#EXTINF:-1,IN | STAR SPORTS SELECT 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36835
+#EXTINF:-1,IN | STAR SPORTS SELECT 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36836
+#EXTINF:-1,IN | STAR UTSAV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36837
+#EXTINF:-1,IN | STAR VIJAY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36838
+#EXTINF:-1,IN | STAR VIJAY SUPER
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36839
+#EXTINF:-1,IN | STAR WORLD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36840
+#EXTINF:-1,IN | STAR WORLD PREMIERE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36841
+#EXTINF:-1,IN | SUN LIFE .
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36842
+#EXTINF:-1,IN | SUN MUSIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36843
+#EXTINF:-1,IN | SURYA SAMACHAR
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36844
+#EXTINF:-1,IN | T-SPORTS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62625
+#EXTINF:-1,IN | TEN 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36846
+#EXTINF:-1,IN | TEN 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36847
+#EXTINF:-1,IN | TEN SPORTS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36848
+#EXTINF:-1,IN | THANTI TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36850
+#EXTINF:-1,IN | THE Q TV.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36851
+#EXTINF:-1,IN | TIMES NOW
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36852
+#EXTINF:-1,IN | TOTAL TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36853
+#EXTINF:-1,IN | TRAVEL XP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36854
+#EXTINF:-1,IN | TV ASIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36856
+#EXTINF:-1,IN | TV ONE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36859
+#EXTINF:-1,IN | TV9 MARATHI.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36861
+#EXTINF:-1,IN | URDU ONE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36862
+#EXTINF:-1,IN | WILLOW CRICKET
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/36691
+#EXTINF:-1,IN | STAR SPORT 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/45337
+#EXTINF:-1,IN | 9X JALWA
+https://9xjalwa-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xJalwaSamsungIndia/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | 9X JHAKAAS
+https://9xjhakkas-samsungin.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/9xM-Jhakkas/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | BLOOMBERG QUICKTAKE
+https://d1574ba626c4472ab08a6db5830cb817.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_QuickTake/playlist.m3u8?ads.wurl_channel%3D632%26ads.wurl_name%3DQuickTake%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | BLOOMBERG TV
+https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8?ads.wurl_channel%3D869%26ads.wurl_name%3DBloomberg%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | DOCUBOX HD
+https://docubox-english-samsungin.amagi.tv/hls/amagi_hls_data_samsungin-docuboxenglish-samsungin/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | DOCUBOX HD
+https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1003/TVPlusChannel_IN_1003.m3u8
+#EXTINF:-1,IN | DON'T TELL THE BRIDE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellthebrid-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | FAILARMY
+https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8?ads.wurl_channel%3D151%26ads.wurl_name%3DFailArmy%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | FILM STREAM
+https://1d508cb028524796ae97266f16331b51.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Filmstream/playlist.m3u8?ads.wurl_channel%3D422%26ads.wurl_name%3DFilmstream%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | FUEL TV
+https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8?ads.wurl_channel%3D708%26ads.wurl_name%3DFuelTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | GOUSA TV
+https://3b265effb709412a8b5988c98756fda0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GoUSATV/playlist.m3u8?ads.wurl_channel%3D535%26ads.wurl_name%3DGoUSATV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | GUSTO TV
+https://a7b051df6d2841b39e1c194904d25699.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_GustoTV-1/playlist.m3u8?ads.wurl_channel%3D858%26ads.wurl_name%3DGustoTV%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | HOLLYWIRE
+https://22b41c7f9b3942198977234db2092cd5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_Hollywire/playlist.m3u8?ads.wurl_channel%3D922%26ads.wurl_name%3DHollywire%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | HOLLYWIRE
+https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1004/TVPlusChannel_IN_1004.m3u8
+#EXTINF:-1,IN | INBITES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inshort-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | INSIGHT TV
+https://insighttv-samsungindia.amagi.tv/hls/amagi_hls_data_samsungin-insighttv-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | INTROUBLE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-introuble-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | INWILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inwild-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | INWONDER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-inwonder-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | JACK HANNA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-jackhanna-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | MAVTV MOTORSPORTS NETWORK
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?ads.wurl_channel%3D611%26ads.wurl_name%3DMAVTVMotorSportsNetwork%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | MOTORVISION.TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | NOSEY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintl-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | PEOPLE ARE AWESOME
+https://caeee1dd0eea4dde9429074e7f8e96bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel%3D386%26ads.wurl_name%3DPeopleAreAwesome%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | QWEST TV CLASSICAL
+https://qwest-classic-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestclassic-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | QWEST TV JAZZ & BEYOND
+https://qwest-jazz-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestjazz-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | QWEST TV MIX
+https://qwest-mix-samsungindia.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwestmix-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | REAL CRIME
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realcrime-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | REAL CRIME
+https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1002/TVPlusChannel_IN_1002.m3u8
+#EXTINF:-1,IN | REAL LIFE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realfamilies-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | REAL STORIES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realstories-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-realwild-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | REPUBLIC BHARAT
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | REPUBLIC TV
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | SOFY.TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-softtv-samsungindia/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | TASTEMADE
+https://tastemadeintaus-smindia.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-int-aus-samsung-india/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26coppa%3D0
+#EXTINF:-1,IN | TENNIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-tennischannel-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | TENNIS CHANNEL
+https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1000/TVPlusChannel_IN_1000.m3u8
+#EXTINF:-1,IN | THE PET COLLECTIVE
+https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8?ads.wurl_channel%3D152%26ads.wurl_name%3DThePetCollective%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | THE Q
+https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | TIMELINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | TOON GOGGLES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-toon-goggles-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D1
+#EXTINF:-1,IN | TOON GOGGLES
+https://d2956h8w040x83.cloudfront.net/FEATURED_CHANNELS/IN/TVPlusChannel_IN_1001/TVPlusChannel_IN_1001.m3u8
+#EXTINF:-1,IN | WEATHERSPY
+https://eab55cb96c3d436a99afc4c6f9e27252.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_WeatherSpy/playlist.m3u8?ads.wurl_channel%3D388%26ads.wurl_name%3DWeatherSpy%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1,IN | WONDER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsung-india/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+#EXTINF:-1,IN | XPLORE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
