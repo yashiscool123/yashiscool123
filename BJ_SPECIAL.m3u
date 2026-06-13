@@ -199,7 +199,24 @@ https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SUPER SPORTS FIFA" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",SUPER SPORTS FIFA
+https://skyfilex.fun:443/live/01939393848/84919293949/741566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",Unite8 Sports 1 HD
+https://skyfilex.fun:443/live/01939393848/84919293949/741567.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",DE | Fusball TV 1 World Cup 2026 [HD]
+https://skyfilex.fun:443/live/01939393848/84919293949/742610.ts
+#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Central" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",SS World Cup Central
+https://skyfilex.fun:443/live/01939393848/84919293949/745149.ts
+#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Pass" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",SS World Cup Pass
+https://skyfilex.fun:443/live/01939393848/84919293949/745195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",Unite8 Sports 2 HD
+https://skyfilex.fun:443/live/01939393848/84919293949/745202.ts
+#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Extra" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",SS World Cup Extra
+https://skyfilex.fun:443/live/01939393848/84919293949/745211.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Fussball.TV1 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA WC 2026",(DE) Fussball.TV1 (UHD/4K)
+https://skyfilex.fun:443/live/01939393848/84919293949/745269.ts
+#EXTINF:-1 tvg-id="" tvg-name="(HK) Now Sports 616 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA WC 2026",(HK) Now Sports 616 (UHD/4K)
+https://skyfilex.fun:443/live/01939393848/84919293949/745270.ts
 
 
 
@@ -1229,24 +1246,7 @@ https://skyfilex.fun:443/live/01939393848/84919293949/136266.ts
 https://skyfilex.fun:443/live/01939393848/84919293949/693044.ts
 #EXTINF:-1 tvg-id="" tvg-name="Obsession (2026) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40I66L7QKguTFDPvcLcdiTbAD7I.jpg" group-title="ENGLISH (2026) (CAM)",Obsession (2026) (HDCAM)
 https://skyfilex.fun:443/movie/01939393848/84919293949/733728.mp4
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SUPER SPORTS FIFA" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SUPER SPORTS FIFA
-https://skyfilex.fun:443/live/01939393848/84919293949/741566.ts
-#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
-https://skyfilex.fun:443/live/01939393848/84919293949/741567.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
-https://skyfilex.fun:443/live/01939393848/84919293949/742610.ts
-#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Central" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SS World Cup Central
-https://skyfilex.fun:443/live/01939393848/84919293949/745149.ts
-#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Pass" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SS World Cup Pass
-https://skyfilex.fun:443/live/01939393848/84919293949/745195.ts
-#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
-https://skyfilex.fun:443/live/01939393848/84919293949/745202.ts
-#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Extra" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SS World Cup Extra
-https://skyfilex.fun:443/live/01939393848/84919293949/745211.ts
-#EXTINF:-1 tvg-id="" tvg-name="(DE) Fussball.TV1 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA World Cup 2026",(DE) Fussball.TV1 (UHD/4K)
-https://skyfilex.fun:443/live/01939393848/84919293949/745269.ts
-#EXTINF:-1 tvg-id="" tvg-name="(HK) Now Sports 616 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA World Cup 2026",(HK) Now Sports 616 (UHD/4K)
-https://skyfilex.fun:443/live/01939393848/84919293949/745270.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="US (MLB) Washington Nationals (S)" tvg-logo="" group-title="MLB (LIVE ONLY MATCH TIME)",US (MLB) Washington Nationals (S)
 https://skyfilex.fun:443/live/01939393848/84919293949/620457.ts
 #EXTINF:-1 tvg-id="" tvg-name="US (MLB) Toronto Blue Jays (S)" tvg-logo="" group-title="MLB (LIVE ONLY MATCH TIME)",US (MLB) Toronto Blue Jays (S)
@@ -13559,7 +13559,7 @@ https://skyfilex.fun:443/live/01939393848/84919293949/647773.ts
 https://skyfilex.fun:443/live/01939393848/84919293949/647775.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZAM |Azam Sports 3" tvg-logo="" group-title="SPORTS | DSTV SUPER (FHD)",AZAM |Azam Sports 3
 https://skyfilex.fun:443/live/01939393848/84919293949/647790.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 2 World Cup 2026 [HD] " tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 2 World Cup 2026 [HD] 
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 2 World Cup 2026 [HD] " tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA WC 2026",DE | Fusball TV 2 World Cup 2026 [HD] 
 https://skyfilex.fun:443/live/01939393848/84919293949/742611.ts
 #EXTINF:-1 tvg-id="" tvg-name="US (ESPN+ 001) | the Memorial Tournament presented by Workday: Main Feed (Third Round) Jun 07 7:30AM ET (2026-06-07 07:30:00)" tvg-logo="" group-title="ESPN+",US (ESPN+ 001) | the Memorial Tournament presented by Workday: Main Feed (Third Round) Jun 07 7:30AM ET (2026-06-07 07:30:00)
 https://skyfilex.fun:443/live/01939393848/84919293949/742691.ts
